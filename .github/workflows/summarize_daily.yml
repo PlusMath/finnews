@@ -1,0 +1,34 @@
+name: Summarize daily top10
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 00:00 UTC = 09:00 KST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finnews-data
+  cancel-in-progress: false
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run summarizer
+        run: python3 scripts/summarize_daily.py
+
+      - name: Commit archive if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/archive.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily top10 summary $(date -u +'%Y-%m-%d')"
+            git push
+          fi
