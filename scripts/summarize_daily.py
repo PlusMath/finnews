@@ -57,8 +57,9 @@ def main():
                 "source": c["rep"]["source"],
                 "link": c["rep"]["link"],
                 "coverage": coverage,
+                "score": score,
             }
-            for _, coverage, c in top
+            for score, coverage, c in top
         ]
 
     archive = load_json(ARCHIVE_PATH, {})

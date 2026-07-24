@@ -85,7 +85,7 @@ Settings → Pages에서 `main` 브랜치 루트를 소스로 지정하면 `inde
     "windowStart": "ISO8601 (수집 구간 시작)",
     "windowEnd": "ISO8601 (수집 구간 끝)",
     "economy": [
-      { "time": "HH:MM", "title": "", "snippet": "", "source": "", "link": "", "coverage": 1 }
+      { "time": "HH:MM", "title": "", "snippet": "", "source": "", "link": "", "coverage": 1, "score": 5 }
     ],
     "realestate": [ ... ],
     "safety": [ ... ]
@@ -93,4 +93,4 @@ Settings → Pages에서 `main` 브랜치 루트를 소스로 지정하면 `inde
 }
 ```
 
-`coverage`는 같은 이슈를 보도한 것으로 판단된 매체 수입니다.
+`coverage`는 같은 이슈를 보도한 것으로 판단된 매체 수, `score`는 그 이슈의 중요도 점수(최대 15)입니다.

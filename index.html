@@ -103,7 +103,10 @@
   .article { display: grid; grid-template-columns: 56px 1fr; gap: 4px 16px; padding: 18px 0; border-bottom: 1px solid var(--line); }
   .article:last-child { border-bottom: none; }
 
-  .article-time { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); padding-top: 3px; font-variant-numeric: tabular-nums; }
+  .article-rank { display: flex; flex-direction: column; align-items: flex-start; gap: 3px; padding-top: 2px; }
+  .rank-score { font-family: var(--font-mono); font-size: 16px; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; line-height: 1; }
+  .rank-score-max { font-size: 10px; font-weight: 400; color: var(--ink-faint); }
+  .article-time { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
   .article-body { min-width: 0; }
 
   .article-title {
@@ -131,7 +134,7 @@
 
   @media (max-width: 480px) {
     .article { grid-template-columns: 1fr; }
-    .article-time { padding-top: 0; }
+    .article-rank { flex-direction: row; align-items: baseline; gap: 8px; }
   }
 </style>
 </head>
@@ -168,7 +171,7 @@
 
   <footer class="colophon">
     <span>데이터 출처: NAVER API HUB 뉴스 검색 (<code>naverapihub.apigw.ntruss.com/search/v1/news</code>) · 매시간 GitHub Actions로 수집해 24시간 단위로 요약</span>
-    <span>선정 기준: 언론사 체급(통신사·방송 &gt; 주요 종합/경제지 &gt; 그 외) + 보도 집중도(여러 매체가 같은 이슈를 보도할수록 가점). 본문 요약은 검색 API 발췌문 기준이며, 전문은 각 기사 링크에서 확인할 수 있습니다.</span>
+    <span>중요도 점수(최대 15) = 언론사 체급(통신사·방송 5 / 주요 종합·경제지 3 / 그 외 1) + 보도 집중도 가점(같은 이슈를 보도한 매체 수에 비례, 최대 +10). 본문 요약은 검색 API 발췌문 기준이며, 전문은 각 기사 링크에서 확인할 수 있습니다.</span>
   </footer>
 
 </div>
@@ -223,7 +226,10 @@
       }
       list.innerHTML = items.map(item => `
         <li class="article">
-          <span class="article-time">${esc(item.time)}</span>
+          <div class="article-rank">
+            ${item.score != null ? `<span class="rank-score" title="중요도 점수 (최대 15)">${esc(item.score)}<span class="rank-score-max">/15</span></span>` : ""}
+            <span class="article-time">${esc(item.time)}</span>
+          </div>
           <div class="article-body">
             <a class="article-title" href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a>
             <p class="article-snippet">${esc(item.snippet)}</p>
