@@ -1,6 +1,213 @@
 {
   "items": [
     {
+      "category": "realestate",
+      "pubDate": "2026-07-26T04:20:00+09:00",
+      "title": "\"전세 실종, 월세는 320만원\" 난리인데...전세대출 규제 논의에 '술렁'",
+      "snippet": "이재명 대통령은 최근 부동산정책 국민 대토론회에서 전세대출이 집값 상승의 원인 중 하나라고 지적하며... 신보연 세종대 부동산AI융합학과 교수는 \"전세시장은 세입자의 전세대출과 임대인의 자금 운용이 맞물려...",
+      "domain": "mt.co.kr",
+      "source": "머니투데이",
+      "link": "https://n.news.naver.com/mnews/article/008/0005390895?sid=101"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-07-26T04:20:00+09:00",
+      "title": "[충남권 날씨예보] 폭염·열대야 지속…오전부터 저녁까지 5~30㎜ 소나기",
+      "snippet": "충분한 수분 섭취와 휴식, 한낮 야외활동 자제를 당부했다. 또한 서해중부해상에는 당분간 바다 안개가 끼는 곳이 있겠으며, 일부 해상에서는 돌풍과 천둥·번개가 예상돼 항해 및 조업 선박은 안전사고에 유의해야 한다.",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83163"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T04:16:00+09:00",
+      "title": "일터기본법 이전의 논의: 종속 노동의 본질",
+      "snippet": "그런데 현실적으로는 구조적인 교섭력의 불균형으로 자신의 이익을 관철시키기 어려웠고, 경제적 종속성으로 인하여 시장적 지위를 향유할 수 없었다. 경제적으로는 상방도 확대되었으나 하방도 확대된 동시에...",
+      "domain": "jbsori.com",
+      "source": "jbsori.com",
+      "link": "http://www.jbsori.com/news/articleView.html?idxno=17639"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-07-26T04:10:00+09:00",
+      "title": "[부울경 날씨예보] 폭염 계속…양산·의령 폭염중대경보, 낮 최고 38℃",
+      "snippet": "당분간 남해동부해상과 동해남부남쪽해상에는 바다 안개가 끼는 곳이 있겠으며, 일부 섬 지역에서는 짙은 안개와 이슬비가 나타날 가능성이 있어 해상 안전사고에도 주의가 필요하다.",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83161"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T04:02:00+09:00",
+      "title": "美 장기금리 뛰자 주담대 6.6%…가계 부담 가중",
+      "snippet": "토머스 라이언 캐피털이코노믹스 북미 담당 이코노미스트는 \"채권 투자자들이 자신들이 예상하는 경제... 유가가 높은 수준을 유지하면 항공권과 운송비, 상품 가격 등 미국 경제 전반으로 비용 상승 압력이 확산할 수...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=2026072519364353909a1f309431_1"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T04:02:00+09:00",
+      "title": "美 증시, 10년물 금리 5% 넘으면 대폭락?...\"하반기가 진짜 시험대\"",
+      "snippet": "금리 상승의 상당 부분이 실질 경제활동 강화에서 비롯됐고 해당 흐름이 기업 실적에도 반영됐다는... 그는 “강한 실적과 실질 경제활동이 현재의 높은 국채 수익률을 상당 부분 상쇄할 수 있다”고 밝혔다. 다만...",
+      "domain": "coinreaders.com",
+      "source": "coinreaders.com",
+      "link": "http://coinreaders.com/249563"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T04:02:00+09:00",
+      "title": "워시 연준, 美 국채금리 급등에 최대 시험대",
+      "snippet": "이란 전쟁에 따른 유가 상승 우려와 견조한 미국 경제가 맞물린 가운데 연준의 선제적 정책 안내 축소가 채권시장 변동성을 키우고 있다는 분석이 나온다. 로이터통신은 워시 의장이 말을 줄이고 경제지표에 더 의존하는...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=2026072522005882379a1f309431_1"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T04:02:00+09:00",
+      "title": "JP모건 “저금리 버팀목 약화” 분석",
+      "snippet": "세계 경제가 지난 수십 년간 낮은 금리를 뒷받침해온 두 축을 잃고 있다는 진단이 나왔다. 미국 최대 은행... 25일(이하 현지시각) 미국 경제전문지 포춘에 따르면 JP모건의 조이스 창 등 리서치팀은 최근 낸 보고서에서...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=2026072521202338709a1f309431_1"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-07-26T04:02:00+09:00",
+      "title": "[재미로 보는 오늘의 운세] 7월 26일 (일요일) 50년생, 공사의 구별이 분...",
+      "snippet": "54년생: 부동산과 재물의 움직임이 좋을 때이다. 42년생: 집안에 사람이 드나들지만 득보다 실이 많다.... 33년생: 부동산이나 금전거래에 조심하자. 06년생: 서북방으로 찾으며 계약이나 일이 성사된다. 94년생: 믿음에...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004145811?sid=103"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:56:00+09:00",
+      "title": "美 상원, 중국·인도 겨냥 100% 관세 폭탄 카드 꺼냈다… 대러 제재 법안...",
+      "snippet": "전환해 경제 압박 수위를 극대화하려는 전략을 마련했다. 월스트리트저널(WSJ)은 고(故) 린지 그레이엄... 블루멘설 의원은 인터뷰에서 \"러시아산 에너지를 사들여 전쟁 자금을 대는 국가에 강력한 경제적 대가를 치르게...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=202607251719466750fbbec65dfb_1"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:26:00+09:00",
+      "title": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 ...",
+      "snippet": "미국의 제재 강화와 쿠바의 경제 위기 미국의 대외 제재 강화는 쿠바 경제를 압박했다. 스페인 호텔 체인 멜리아는 쿠바 시장에서 완전히 철수한다. WSJ는 멜리아 그룹이 쿠바 내 30여 개 호텔 운영을 전면 중단한다고...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=202607251640501791fbbec65dfb_1"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:20:00+09:00",
+      "title": "李대통령 \"남미와 핵심광물·공급망 구축…메르수코르 무역협정 필요\"",
+      "snippet": "이 대통령은 2024년 체결·발효된 우리나라 최초의 자유무역협정인 한-칠레 FTA 현대화 등 경제구조 협력... 그러면서 \"우리의 목표는 분명하다\"며 \"한국과 남미가 경제적으로 성공적인 관계를 넘어 사회 간 교류와 미래 세대...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009078895?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:20:00+09:00",
+      "title": "이 대통령, EU '러 LNG 한국 수출 제재 면제'에 \"경제에 큰 도움\"",
+      "snippet": "이재명 대통령은 한국이 러시아 사할린Ⅱ 프로젝트 액화천연가스를 수입할 수 있도록 유럽연합이 관련 제재를 면제한 데 대해, 우리 경제에 큰 도움이 될 거로 기대한다며 환영했습니다. 미국 샌프란시스코를 방문한 이...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002384552?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:20:00+09:00",
+      "title": "태권도의 화려한 변신…태권도진흥재단 태권도원과 손잡은 청개구리, 무...",
+      "snippet": "태권도라는 대한민국의 대표 문화자산을 관광상품으로 재해석해 지역경제와 관광산업을 연결하는 플랫폼... 무주군 역시 체류형 관광객 증가에 따라 숙박업과 음식점, 지역 관광지 이용이 함께 늘어나면서 지역경제 활성화...",
+      "domain": "stnsports.co.kr",
+      "source": "stnsports.co.kr",
+      "link": "https://m.sports.naver.com/general/article/450/0000152774"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:06:00+09:00",
+      "title": "글로벌 반도체 시장, 2026년 1조 5000억 달러 시대… 변동성 넘어 회복 ...",
+      "snippet": "전문가들은 거시경제 리스크에도 불구하고 AI 추론용 HBM과 고용량 D램 수요가 한국 메모리 기업들의 펀더멘털을 뒷받침하며 장기 회복 흐름을 이끌 것이라고 진단한다. 한편, 배런스는 24일(현지시각) 마이크론...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=202607251632407318fbbec65dfb_1"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T03:00:00+09:00",
+      "title": "세르게이 브린, 알파벳 급락에도 세계 부자 3위 복귀",
+      "snippet": "25일(이하 현지시각) 미국 경제전문지 포브스에 따르면 브린의 순자산이 전날 소폭 증가하면서 제프 베이조스 아마존 창업자와 마이클 델 델테크놀로지스 창업자를 제치고 세계 부자 3위에 복귀했다. 포브스 실시간...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=2026072521541156369a1f309431_1"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-07-26T03:00:00+09:00",
+      "title": "반려동물 데리고 버스 타도 될까…국민 10명 중 8명이 ‘이렇게’ 답했...",
+      "snippet": "개물림 등 안전사고는 16.0%, 층간소음과 공공장소 이용 등을 둘러싼 이웃 간 갈등은 13.7%, 불법·비윤리적 번식과 판매는 12.8%로 집계됐다. 반려 여부에 따라 가장 심각하게 보는 문제도 달랐다. 반려인은 유기와...",
+      "domain": "wikitree.co.kr",
+      "source": "wikitree.co.kr",
+      "link": "https://www.wikitree.co.kr/articles/1148186"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T02:48:00+09:00",
+      "title": "계열사 이사회 넓히는 솔본 오너 2세…구체적 역할은 '업무일반?'",
+      "snippet": "금융감독원 전자공시와 한국거래소 자료에 따르면 홍 이사는 1998년생으로 미국 컬럼비아대에서 경제학을 전공했다. 2024년 3월 솔본과 인피니트헬스케어 사내이사로 선임됐으며, 키네마스터와 솔본인베스트먼트...",
+      "domain": "wolyo.co.kr",
+      "source": "wolyo.co.kr",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315587"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T02:42:00+09:00",
+      "title": "정부 '유류세 인하 조치' 2개월 연장",
+      "snippet": "재정경제부는 24일 '민생 물가 특별관리 관계장관 TF 13차 회의'를 개최하고 '8월 이후 유류세 운용 방안'을... 재정경제부는 \"중동 정세 불안이 해소되지 않은 상황에서 향후 유가 변동성 확대 등에 대응하기 위해...",
+      "domain": "todayenergy.kr",
+      "source": "todayenergy.kr",
+      "link": "https://www.todayenergy.kr/news/articleView.html?idxno=300831"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T02:38:00+09:00",
+      "title": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움 기대\"",
+      "snippet": "SNS에 글…\"韓·EU 정상회담서 예외 필요 설명\" 아주경제=샌프란시스코(미국)=김봉철 기자 nicebong@ajunews.com... 우리 경제에 큰 도움이 될 것으로 기대한다”고 밝혔다. 미국·남미 순방 중인 이 대통령은 이날 엑스(X·옛...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20260726023547472"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T02:30:00+09:00",
+      "title": "李대통령 “한·남미 관계, 제조·자원 결합해 가치사슬 구축하자”",
+      "snippet": "한·칠레 자유무역협정(FTA)을 디지털 무역과 환경 협력 등 새로운 경제 환경에 맞춰 현대화하는 방안도... 이어 “우리의 목표는 분명하다”며 “한국과 남미가 경제적으로 성공적인 관계를 넘어 사회 간 교류와 미래...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006336850?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T02:23:00+09:00",
+      "title": "애플·마이크론 中메모리 로비전에 트럼프 난처…'물가 잡기' vs '제조업...",
+      "snippet": "쿠시 데사이 백악관 대변인은 행정부가 \"국가 안보를 지키는 동시에 미 국민을 위한 투자와 경제적 안정을 추진할 것\"이라고 밝혔다. WSJ는 이번 로비전이 트럼프 대통령에게 '미국 소비자를 위한 가격 인하'와 '국내...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009078891?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T02:19:00+09:00",
+      "title": "이 대통령 \"남미와 무역협정 협상 재개…AI 시대 핵심광물 강화 추진\"",
+      "snippet": "등 경제사절단과 함께 한·브라질 비즈니스 라운드테이블(BRT) 행사에 참석할 예정이다. 이어 30일에는 칠레... 남미와의 경제협력 구조를 현대화하는 것을 핵심 과제로 제시했다. 또 인공지능(AI)과 첨단 제조업의 부상으로...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014088015?sid=100"
+    },
+    {
       "category": "economy",
       "pubDate": "2026-07-26T01:56:00+09:00",
       "title": "경기도의회 김지호 의원의 뼈때리는 질문과 주문",
@@ -8,6 +215,24 @@
       "domain": "newsfreezone.co.kr",
       "source": "newsfreezone.co.kr",
       "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701022"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T01:56:00+09:00",
+      "title": "AI가 바꾸는 독서·출판...세부 기준 마련 시급",
+      "snippet": "[문재희 / 밀리의 서재 AX기획팀 매니저 : 경제, 경영이나 사회과학 서적에서 특정 지식이나 개념을 알고 싶으신 분들이 'AI 독파밍'을 통해서 AI와 대화를 하면서 특정 개념을 좀 빠르게 습득을 하시려고 사용하시는 것...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002384547?sid=103"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-07-26T01:56:00+09:00",
+      "title": "하수 가스가 친환경 수소로...자원순환 모델 주목",
+      "snippet": "[유근호 / 충북 청주시 환경관리본부 지하수팀장 : 기대 효과는 친환경 에너지 전환 사업이기 때문에 탄소 중립 실현이랑 청주시 수소 경제 활성화에 기여할 것으로 판단됩니다.] 수소 생산 시설 옆에는 충전소도 함께...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002384546?sid=102"
     },
     {
       "category": "realestate",
@@ -47114,42 +47339,6 @@
       "domain": "thefairnews.co.kr",
       "source": "thefairnews.co.kr",
       "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83013"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-24T04:00:00+09:00",
-      "title": "[충남권 날씨예보] 오후 소나기…체감온도 33℃ 안팎 폭염 이어져",
-      "snippet": "소나기 특성상 지역별 강수량 차이가 크겠으며, 돌풍과 천둥·번개를 동반하는 곳도 있어 시설물 관리와 안전사고에 주의해야 한다. 비가 내리는 지역에서는 가시거리가 짧아지고 도로가 미끄러워질 수 있어 차량 운행...",
-      "domain": "thefairnews.co.kr",
-      "source": "thefairnews.co.kr",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83015"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-24T03:59:00+09:00",
-      "title": "미국, 테슬라 사망사고 계기 차량 문 안전기준 마련 착수",
-      "snippet": "미국 정부가 사고 발생 후 차량 탑승자가 안전하게 차량 밖으로 탈출할 수 있도록 차량 문 안전기준을 강화하는 방안을 추진한다고 블룸버그통신이 23일(현지시간) 보도했다. 전동식 도어 손잡이를 적용한 테슬라 등...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006335823?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-24T03:52:00+09:00",
-      "title": "백령공항, 4~5년 늦은 2033~2034년 완공 전망…\"공기 단축 등 대책 마련...",
-      "snippet": "2024년 12월 제주항공 여객기 참사 이후 조류충돌 사고로 항공 안전 위험성에 대한 국민적 경각심이 높아진 가운데 , 철새 도래지인 백령도에 들어설 백령공항에 대해 기후부가 매우 강경한 태도로 정밀 대책을...",
-      "domain": "ic.newdaily.co.kr",
-      "source": "ic.newdaily.co.kr",
-      "link": "https://ic.newdaily.co.kr/site/data/html/2026/07/24/2026072400009.html"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-24T02:56:00+09:00",
-      "title": "오늘 날씨, 수도권·강원 최대 80mm 비…전국 열대야 계속",
-      "snippet": "기상청은 북한지역에도 많은 비가 내린 만큼 경기북부와 강원북부 인근 강 유역인 임진강, 한탄강, 북한강 등의 수위 상승과 유속 증가에 따른 안전사고에 유의해 달라고 당부했다. 또한 짧은 시간 강한 비로 계곡과...",
-      "domain": "topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16144283"
     }
   ]
 }
