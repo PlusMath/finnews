@@ -81,10 +81,24 @@
   #date-select:hover { border-color: var(--accent); }
 
   .masthead-meta { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); }
+
+  .cat-field { display: flex; gap: 8px; margin-top: 16px; }
+  .cat-toggle {
+    font-family: var(--font-body); font-size: 13px; font-weight: 600; cursor: pointer;
+    padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: transparent; color: var(--ink-faint);
+    transition: background-color .15s, color .15s, border-color .15s;
+  }
+  .cat-toggle:hover { border-color: var(--ink-faint); }
+  .cat-toggle.economy.is-active { background: var(--economy-bg); border-color: var(--economy); color: var(--economy); }
+  .cat-toggle.realestate.is-active { background: var(--realestate-bg); border-color: var(--realestate); color: var(--realestate); }
+  .cat-toggle.safety.is-active { background: var(--safety-bg); border-color: var(--safety); color: var(--safety); }
+
   .archive-note { margin: 14px 0 0; font-size: 13px; color: var(--ink-soft); }
 
   section.category { margin-bottom: 48px; }
   section.category:last-of-type { margin-bottom: 0; }
+  section.category[hidden] { display: none; }
 
   .category-head {
     display: flex; align-items: baseline; gap: 12px; padding-bottom: 10px;
@@ -151,20 +165,25 @@
       </div>
       <span class="masthead-meta" id="generated-meta"></span>
     </div>
+    <div class="cat-field" id="cat-field" role="group" aria-label="카테고리 필터">
+      <button type="button" class="cat-toggle economy is-active" data-cat="economy">경제</button>
+      <button type="button" class="cat-toggle realestate is-active" data-cat="realestate">부동산</button>
+      <button type="button" class="cat-toggle safety is-active" data-cat="safety">안전</button>
+    </div>
     <p class="archive-note" id="archive-note"></p>
   </header>
 
-  <section class="category">
+  <section class="category" data-cat="economy">
     <div class="category-head"><span class="category-dot economy"></span><h2>경제</h2><span class="category-count" id="count-economy"></span></div>
     <ol class="articles" id="list-economy"><li class="load-state">불러오는 중…</li></ol>
   </section>
 
-  <section class="category">
+  <section class="category" data-cat="realestate">
     <div class="category-head"><span class="category-dot realestate"></span><h2>부동산</h2><span class="category-count" id="count-realestate"></span></div>
     <ol class="articles" id="list-realestate"></ol>
   </section>
 
-  <section class="category">
+  <section class="category" data-cat="safety">
     <div class="category-head"><span class="category-dot safety"></span><h2>안전</h2><span class="category-count" id="count-safety"></span></div>
     <ol class="articles" id="list-safety"></ol>
   </section>
@@ -240,6 +259,34 @@
     });
   }
 
+  const activeCats = new Set(CATS.map(c => c.key));
+
+  function applyCatFilter() {
+    CATS.forEach(cat => {
+      const section = document.querySelector(`section.category[data-cat="${cat.key}"]`);
+      section.hidden = !activeCats.has(cat.key);
+    });
+    document.querySelectorAll(".cat-toggle").forEach(btn => {
+      btn.classList.toggle("is-active", activeCats.has(btn.dataset.cat));
+    });
+  }
+
+  function initCatFilter() {
+    document.querySelectorAll(".cat-toggle").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const cat = btn.dataset.cat;
+        if (activeCats.has(cat)) {
+          if (activeCats.size === 1) return; // 최소 1개는 켜져 있어야 함
+          activeCats.delete(cat);
+        } else {
+          activeCats.add(cat);
+        }
+        applyCatFilter();
+      });
+    });
+    applyCatFilter();
+  }
+
   async function init() {
     let archive;
     try {
@@ -255,6 +302,7 @@
     select.innerHTML = dateKeys.map(k => `<option value="${k}">${fmtDateLabel(k)}</option>`).join("");
     select.value = dateKeys[0];
     select.addEventListener("change", () => render(archive, select.value));
+    initCatFilter();
     render(archive, dateKeys[0]);
   }
 
