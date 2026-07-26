@@ -90,6 +90,7 @@
     transition: background-color .15s, color .15s, border-color .15s;
   }
   .cat-toggle:hover { border-color: var(--ink-faint); }
+  .cat-toggle.all.is-active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
   .cat-toggle.economy.is-active { background: var(--economy-bg); border-color: var(--economy); color: var(--economy); }
   .cat-toggle.realestate.is-active { background: var(--realestate-bg); border-color: var(--realestate); color: var(--realestate); }
   .cat-toggle.safety.is-active { background: var(--safety-bg); border-color: var(--safety); color: var(--safety); }
@@ -166,9 +167,10 @@
       <span class="masthead-meta" id="generated-meta"></span>
     </div>
     <div class="cat-field" id="cat-field" role="group" aria-label="카테고리 필터">
-      <button type="button" class="cat-toggle economy is-active" data-cat="economy">경제</button>
-      <button type="button" class="cat-toggle realestate is-active" data-cat="realestate">부동산</button>
-      <button type="button" class="cat-toggle safety is-active" data-cat="safety">안전</button>
+      <button type="button" class="cat-toggle all is-active" data-cat="all">전체</button>
+      <button type="button" class="cat-toggle economy" data-cat="economy">경제</button>
+      <button type="button" class="cat-toggle realestate" data-cat="realestate">부동산</button>
+      <button type="button" class="cat-toggle safety" data-cat="safety">안전</button>
     </div>
     <p class="archive-note" id="archive-note"></p>
   </header>
@@ -259,28 +261,22 @@
     });
   }
 
-  const activeCats = new Set(CATS.map(c => c.key));
+  let activeCat = "all"; // "all" 또는 economy/realestate/safety 중 하나만
 
   function applyCatFilter() {
     CATS.forEach(cat => {
       const section = document.querySelector(`section.category[data-cat="${cat.key}"]`);
-      section.hidden = !activeCats.has(cat.key);
+      section.hidden = activeCat !== "all" && activeCat !== cat.key;
     });
     document.querySelectorAll(".cat-toggle").forEach(btn => {
-      btn.classList.toggle("is-active", activeCats.has(btn.dataset.cat));
+      btn.classList.toggle("is-active", btn.dataset.cat === activeCat);
     });
   }
 
   function initCatFilter() {
     document.querySelectorAll(".cat-toggle").forEach(btn => {
       btn.addEventListener("click", () => {
-        const cat = btn.dataset.cat;
-        if (activeCats.has(cat)) {
-          if (activeCats.size === 1) return; // 최소 1개는 켜져 있어야 함
-          activeCats.delete(cat);
-        } else {
-          activeCats.add(cat);
-        }
+        activeCat = btn.dataset.cat;
         applyCatFilter();
       });
     });
