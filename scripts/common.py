@@ -19,6 +19,23 @@ QUERIES = {
     "bitcoin": "비트코인",
 }
 
+# 여러 매체가 그대로 받아쓰는 정형 공지성 콘텐츠 - 보도 매체 수는 많아져도
+# 실질적인 뉴스 가치가 없어 순위에서 아예 제외한다.
+LOW_VALUE_TITLE_PATTERNS = [
+    r"^\[인사\]",       # 부처/기업 인사 발령 목록
+    r"^\[부고\]",       # 부고
+    r"^\[동정\]",       # 인물 동정
+    r"^\[오늘의 주요일정\]",  # 하루 일정표
+    r"^\[게시판\]",
+    r"^\[알림\]",
+    r"^\[부음\]",
+]
+LOW_VALUE_TITLE_RE = re.compile("|".join(LOW_VALUE_TITLE_PATTERNS))
+
+
+def is_low_value_title(title):
+    return bool(LOW_VALUE_TITLE_RE.search(title))
+
 # domain -> (표시이름, tier)  tier: 5=통신사/방송사, 3=주요 종합지/경제지, 1=그 외
 OUTLETS = {
     "yna.co.kr": ("연합뉴스", 5),

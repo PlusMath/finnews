@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import KST, QUERIES, clean_text, domain_of, fetch_page, outlet_of, parse_pubdate
+from common import KST, QUERIES, clean_text, domain_of, fetch_page, is_low_value_title, outlet_of, parse_pubdate
 
 ROOT = Path(__file__).parent.parent
 BUFFER_PATH = ROOT / "data" / "buffer.json"
@@ -42,11 +42,14 @@ def fetch_keyword(category, query, key_id, key_secret):
         for raw in items:
             pub = parse_pubdate(raw["pubDate"])
             oldest_on_page = pub if oldest_on_page is None or pub < oldest_on_page else oldest_on_page
+            title = clean_text(raw["title"])
+            if is_low_value_title(title):
+                continue
             domain = domain_of(raw)
             collected.append({
                 "category": category,
                 "pubDate": pub.isoformat(),
-                "title": clean_text(raw["title"]),
+                "title": title,
                 "snippet": clean_text(raw["description"]),
                 "domain": domain,
                 "source": outlet_of(domain)[0],

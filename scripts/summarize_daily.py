@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import KST, QUERIES, cluster_items, jaccard, score_cluster
+from common import KST, QUERIES, cluster_items, is_low_value_title, jaccard, score_cluster
 
 DEDUP_THRESHOLD = 0.5  # 1차 클러스터링을 통과한 뒤, 최종 상위 N 안에서 서로 겹치는 이슈를 한 번 더 거른다
 DEDUP_ASSIST_THRESHOLD = 0.12
@@ -37,6 +37,7 @@ def main():
     windowed = [
         it for it in buffer["items"]
         if window_start <= datetime.fromisoformat(it["pubDate"]) < window_end
+        and not is_low_value_title(it["title"])
     ]
 
     by_category = {key: [] for key in QUERIES}
