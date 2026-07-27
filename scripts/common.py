@@ -138,7 +138,7 @@ def jaccard(a, b):
     return inter / union if union else 0.0
 
 
-def cluster_items(items, threshold=0.4, assist_threshold=0.15, min_shared_decimals=2):
+def cluster_items(items, threshold=0.4, assist_threshold=0.12, min_shared_decimals=2):
     """category 내 유사 제목 기사를 하나의 클러스터로 묶는다.
 
     새 기사는 각 클러스터의 '대표 기사' 한 편의 shingle/숫자와만 비교한다.
