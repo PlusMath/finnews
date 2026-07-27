@@ -120,30 +120,59 @@
 
   ol.articles { list-style: none; margin: 0; padding: 0; }
 
-  .article { display: grid; grid-template-columns: 56px 1fr; gap: 4px 16px; padding: 18px 0; border-bottom: 1px solid var(--line); }
-  .article:last-child { border-bottom: none; }
-
-  .article-rank { display: flex; flex-direction: column; align-items: flex-start; gap: 3px; padding-top: 2px; }
-  .rank-score { font-family: var(--font-mono); font-size: 16px; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; line-height: 1; }
-  .rank-score-max { font-size: 10px; font-weight: 400; color: var(--ink-faint); }
-  .article-time { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
-  .article-body { min-width: 0; }
-
-  .article-title {
-    display: block; font-family: var(--font-display); font-size: 17px; font-weight: 600;
-    line-height: 1.4; margin: 0 0 6px; text-decoration: none; text-wrap: balance;
-  }
-  .article-title:hover { text-decoration: underline; text-underline-offset: 3px; }
-
-  .article-snippet { font-size: 14.5px; color: var(--ink-soft); margin: 0 0 8px; max-width: 62ch; }
-
-  .article-source { display: inline-flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: 11.5px; letter-spacing: 0.02em; color: var(--ink-faint); }
-
   .tag { display: inline-block; font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.04em; padding: 2px 7px; border-radius: 3px; }
   .tag.economy { color: var(--economy); background: var(--economy-bg); }
   .tag.realestate { color: var(--realestate); background: var(--realestate-bg); }
   .tag.safety { color: var(--safety); background: var(--safety-bg); }
   .tag.bitcoin { color: var(--bitcoin); background: var(--bitcoin-bg); }
+
+  /* 1위 헤드라인 (히어로) */
+  .hero { padding: 24px 0 22px; border-top: 3px solid var(--ink); margin-bottom: 6px; }
+  .hero.economy { border-top-color: var(--economy); }
+  .hero.realestate { border-top-color: var(--realestate); }
+  .hero.safety { border-top-color: var(--safety); }
+  .hero.bitcoin { border-top-color: var(--bitcoin); }
+
+  .hero-meta {
+    display: flex; align-items: center; gap: 8px; font-family: var(--font-mono);
+    font-size: 11.5px; letter-spacing: 0.02em; color: var(--ink-faint); margin-bottom: 10px;
+  }
+  .hero-meta .rank-score { font-size: 13px; }
+
+  .hero-title {
+    display: block; font-family: var(--font-display); font-weight: 700;
+    font-size: clamp(21px, 3.2vw, 27px); line-height: 1.32; margin: 0 0 10px;
+    text-decoration: none; text-wrap: balance; color: var(--ink);
+  }
+  .hero-title:hover { text-decoration: underline; text-underline-offset: 4px; }
+
+  .hero-snippet { font-size: 15px; color: var(--ink-soft); margin: 0; max-width: 64ch; }
+
+  /* 2위 이하 순위 목록 (콤팩트) */
+  .compact-row {
+    display: flex; align-items: baseline; gap: 10px; padding: 9px 0; border-bottom: 1px solid var(--line);
+  }
+  .compact-row:last-child { border-bottom: none; }
+
+  .compact-rank {
+    flex: none; width: 16px; font-family: var(--font-mono); font-size: 12px; font-weight: 700;
+    color: var(--ink-faint); font-variant-numeric: tabular-nums;
+  }
+  .compact-time { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
+
+  .compact-title {
+    flex: 1; min-width: 0; font-family: var(--font-body); font-size: 14.5px; font-weight: 500;
+    color: var(--ink); text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .compact-title:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  .compact-score {
+    flex: none; font-family: var(--font-mono); font-size: 11.5px; font-weight: 700; color: var(--ink-soft);
+    font-variant-numeric: tabular-nums;
+  }
+  .compact-source { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); max-width: 96px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  .rank-score-max { font-weight: 400; color: var(--ink-faint); }
 
   .empty-state, .load-state { padding: 28px 0; color: var(--ink-faint); font-size: 14px; font-style: italic; }
 
@@ -154,8 +183,7 @@
   footer.colophon code { font-family: var(--font-mono); background: var(--accent-soft); padding: 1px 5px; border-radius: 3px; color: var(--accent); }
 
   @media (max-width: 480px) {
-    .article { grid-template-columns: 1fr; }
-    .article-rank { flex-direction: row; align-items: baseline; gap: 8px; }
+    .compact-source { display: none; }
   }
 </style>
 </head>
@@ -258,19 +286,30 @@
         list.innerHTML = `<li class="empty-state">이 날짜에는 저장된 ${cat.label} 기사가 없습니다.</li>`;
         return;
       }
-      list.innerHTML = items.map(item => `
-        <li class="article">
-          <div class="article-rank">
-            ${item.score != null ? `<span class="rank-score" title="중요도 점수 (최대 15)">${esc(item.score)}<span class="rank-score-max">/15</span></span>` : ""}
-            <span class="article-time">${esc(item.time)}</span>
+      const [hero, ...rest] = items;
+      const heroHtml = `
+        <li class="hero ${cat.cls}">
+          <div class="hero-meta">
+            <span class="tag ${cat.cls}">${cat.tag}</span>
+            <span>${esc(hero.time)}</span>
+            <span>·</span>
+            ${hero.score != null ? `<span class="rank-score">${esc(hero.score)}<span class="rank-score-max">/15</span></span><span>·</span>` : ""}
+            <span>${esc(hero.source)}${hero.coverage > 1 ? ` · ${hero.coverage}개 매체 보도` : ""}</span>
           </div>
-          <div class="article-body">
-            <a class="article-title" href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a>
-            <p class="article-snippet">${esc(item.snippet)}</p>
-            <span class="article-source"><span class="tag ${cat.cls}">${cat.tag}</span>${esc(item.source)}${item.coverage > 1 ? ` · ${item.coverage}개 매체 보도` : ""}</span>
-          </div>
+          <a class="hero-title" href="${esc(hero.link)}" target="_blank" rel="noopener">${esc(hero.title)}</a>
+          <p class="hero-snippet">${esc(hero.snippet)}</p>
+        </li>
+      `;
+      const restHtml = rest.map((item, i) => `
+        <li class="compact-row">
+          <span class="compact-rank">${i + 2}</span>
+          <span class="compact-time">${esc(item.time)}</span>
+          <a class="compact-title" href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a>
+          ${item.score != null ? `<span class="compact-score">${esc(item.score)}/15</span>` : ""}
+          <span class="compact-source">${esc(item.source)}</span>
         </li>
       `).join("");
+      list.innerHTML = heroHtml + restHtml;
     });
   }
 
