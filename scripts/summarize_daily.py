@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import KST, cluster_items, score_cluster
+from common import KST, QUERIES, cluster_items, score_cluster
 
 ROOT = Path(__file__).parent.parent
 BUFFER_PATH = ROOT / "data" / "buffer.json"
@@ -35,7 +35,7 @@ def main():
         if window_start <= datetime.fromisoformat(it["pubDate"]) < window_end
     ]
 
-    by_category = {"economy": [], "realestate": [], "safety": []}
+    by_category = {key: [] for key in QUERIES}
     for it in windowed:
         by_category.setdefault(it["category"], []).append(it)
 

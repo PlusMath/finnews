@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>경제 · 부동산 · 안전 뉴스 스크랩</title>
+<title>경제 · 부동산 · 안전 · 비트코인 뉴스 스크랩</title>
 <style>
   :root {
     --bg: #EEF0EC;
@@ -20,6 +20,8 @@
     --realestate-bg: rgba(168, 87, 31, 0.09);
     --safety: #B0362A;
     --safety-bg: rgba(176, 54, 42, 0.09);
+    --bitcoin: #6B4FA0;
+    --bitcoin-bg: rgba(107, 79, 160, 0.09);
 
     --font-display: "Source Serif 4", "Noto Serif KR", "Nanum Myeongjo", "Batang", Georgia, serif;
     --font-body: "Pretendard Variable", Pretendard, "Noto Sans KR", -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
@@ -34,6 +36,7 @@
       --economy: #63BAA0; --economy-bg: rgba(99, 186, 160, 0.12);
       --realestate: #E29A5F; --realestate-bg: rgba(226, 154, 95, 0.12);
       --safety: #E17F71; --safety-bg: rgba(225, 127, 113, 0.12);
+      --bitcoin: #B79EE0; --bitcoin-bg: rgba(183, 158, 224, 0.14);
     }
   }
 
@@ -82,7 +85,7 @@
 
   .masthead-meta { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); }
 
-  .cat-field { display: flex; gap: 8px; margin-top: 16px; }
+  .cat-field { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
   .cat-toggle {
     font-family: var(--font-body); font-size: 13px; font-weight: 600; cursor: pointer;
     padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line);
@@ -94,6 +97,7 @@
   .cat-toggle.economy.is-active { background: var(--economy-bg); border-color: var(--economy); color: var(--economy); }
   .cat-toggle.realestate.is-active { background: var(--realestate-bg); border-color: var(--realestate); color: var(--realestate); }
   .cat-toggle.safety.is-active { background: var(--safety-bg); border-color: var(--safety); color: var(--safety); }
+  .cat-toggle.bitcoin.is-active { background: var(--bitcoin-bg); border-color: var(--bitcoin); color: var(--bitcoin); }
 
   .archive-note { margin: 14px 0 0; font-size: 13px; color: var(--ink-soft); }
 
@@ -109,6 +113,7 @@
   .category-dot.economy { background: var(--economy); }
   .category-dot.realestate { background: var(--realestate); }
   .category-dot.safety { background: var(--safety); }
+  .category-dot.bitcoin { background: var(--bitcoin); }
 
   .category-head h2 { font-family: var(--font-display); font-size: 22px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
   .category-count { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); margin-left: auto; }
@@ -138,6 +143,7 @@
   .tag.economy { color: var(--economy); background: var(--economy-bg); }
   .tag.realestate { color: var(--realestate); background: var(--realestate-bg); }
   .tag.safety { color: var(--safety); background: var(--safety-bg); }
+  .tag.bitcoin { color: var(--bitcoin); background: var(--bitcoin-bg); }
 
   .empty-state, .load-state { padding: 28px 0; color: var(--ink-faint); font-size: 14px; font-style: italic; }
 
@@ -158,7 +164,7 @@
 
   <header class="masthead">
     <p class="eyebrow">News Briefing · NAVER Search API</p>
-    <h1>경제 · 부동산 · 안전 뉴스 스크랩</h1>
+    <h1>경제 · 부동산 · 안전 · 비트코인 뉴스 스크랩</h1>
     <div class="masthead-row">
       <div class="date-field">
         <label for="date-select">날짜</label>
@@ -171,6 +177,7 @@
       <button type="button" class="cat-toggle economy" data-cat="economy">경제</button>
       <button type="button" class="cat-toggle realestate" data-cat="realestate">부동산</button>
       <button type="button" class="cat-toggle safety" data-cat="safety">안전</button>
+      <button type="button" class="cat-toggle bitcoin" data-cat="bitcoin">비트코인</button>
     </div>
     <p class="archive-note" id="archive-note"></p>
   </header>
@@ -190,6 +197,11 @@
     <ol class="articles" id="list-safety"></ol>
   </section>
 
+  <section class="category" data-cat="bitcoin">
+    <div class="category-head"><span class="category-dot bitcoin"></span><h2>비트코인</h2><span class="category-count" id="count-bitcoin"></span></div>
+    <ol class="articles" id="list-bitcoin"></ol>
+  </section>
+
   <footer class="colophon">
     <span>데이터 출처: NAVER API HUB 뉴스 검색 (<code>naverapihub.apigw.ntruss.com/search/v1/news</code>) · 매시간 GitHub Actions로 수집해 24시간 단위로 요약</span>
     <span>중요도 점수(최대 15) = 언론사 체급(통신사·방송 5 / 주요 종합·경제지 3 / 그 외 1) + 보도 집중도 가점(같은 이슈를 보도한 매체 수에 비례, 최대 +10). 본문 요약은 검색 API 발췌문 기준이며, 전문은 각 기사 링크에서 확인할 수 있습니다.</span>
@@ -201,7 +213,8 @@
   const CATS = [
     { key: "economy", tag: "ECON", cls: "economy", label: "경제" },
     { key: "realestate", tag: "REAL", cls: "realestate", label: "부동산" },
-    { key: "safety", tag: "SAFE", cls: "safety", label: "안전" }
+    { key: "safety", tag: "SAFE", cls: "safety", label: "안전" },
+    { key: "bitcoin", tag: "BTC", cls: "bitcoin", label: "비트코인" }
   ];
 
   function esc(s) {
@@ -261,7 +274,7 @@
     });
   }
 
-  let activeCat = "all"; // "all" 또는 economy/realestate/safety 중 하나만
+  let activeCat = "all"; // "all" 또는 CATS의 key 중 하나만
 
   function applyCatFilter() {
     CATS.forEach(cat => {

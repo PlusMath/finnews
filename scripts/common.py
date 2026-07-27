@@ -16,6 +16,7 @@ QUERIES = {
     "economy": "경제",
     "realestate": "부동산",
     "safety": "안전사고",
+    "bitcoin": "비트코인",
 }
 
 # domain -> (표시이름, tier)  tier: 5=통신사/방송사, 3=주요 종합지/경제지, 1=그 외
@@ -54,6 +55,11 @@ OUTLETS = {
     "segye.com": ("세계일보", 3),
     "hankookilbo.com": ("한국일보", 3),
     "kmib.co.kr": ("국민일보", 3),
+    # 가상자산 전문 매체
+    "tokenpost.kr": ("토큰포스트", 3),
+    "coindeskkorea.com": ("코인데스크코리아", 3),
+    "blockmedia.co.kr": ("블록미디어", 3),
+    "coinness.com": ("코인니스", 3),
 }
 
 

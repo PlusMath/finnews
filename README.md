@@ -1,12 +1,12 @@
 # finnews
 
-네이버 뉴스 검색 API(NAVER API HUB)로 경제 · 부동산 · 안전 키워드 뉴스를 **매시간 자동 수집**하고, 매일 09:00 KST에 직전 24시간 중 **중요도 상위 10건**(카테고리별)을 뽑아 정적 웹 리포트(`index.html`)로 보여주는 저장소입니다. 전 과정이 GitHub Actions로 자동화되어 있습니다.
+네이버 뉴스 검색 API(NAVER API HUB)로 경제 · 부동산 · 안전 · 비트코인 키워드 뉴스를 **매시간 자동 수집**하고, 매일 09:00 KST에 직전 24시간 중 **중요도 상위 10건**(카테고리별)을 뽑아 정적 웹 리포트(`index.html`)로 보여주는 저장소입니다. 전 과정이 GitHub Actions로 자동화되어 있습니다.
 
 ## 동작 방식
 
 ```
 매시간 (:05)  ─ collect_hourly.yml → scripts/collect_hourly.py
-                 경제/부동산/안전사고 최신 뉴스를 조회해 data/buffer.json에 누적 (중복 제거, 48시간 보관)
+                 경제/부동산/안전사고/비트코인 최신 뉴스를 조회해 data/buffer.json에 누적 (중복 제거, 48시간 보관)
 
 매일 09:00 KST ─ summarize_daily.yml → scripts/summarize_daily.py
                  buffer.json에서 최근 24시간을 추려 카테고리별 상위 10건을 data/archive.json에 기록
@@ -88,7 +88,8 @@ Settings → Pages에서 `main` 브랜치 루트를 소스로 지정하면 `inde
       { "time": "HH:MM", "title": "", "snippet": "", "source": "", "link": "", "coverage": 1, "score": 5 }
     ],
     "realestate": [ ... ],
-    "safety": [ ... ]
+    "safety": [ ... ],
+    "bitcoin": [ ... ]
   }
 }
 ```
