@@ -14,14 +14,11 @@
     --accent: #2B4C7E;
     --accent-soft: rgba(43, 76, 126, 0.10);
     --surface: #E5E8E1;
+    --zebra: rgba(27, 33, 31, 0.035);
     --economy: #256B5A;
-    --economy-bg: rgba(37, 107, 90, 0.09);
     --realestate: #A8571F;
-    --realestate-bg: rgba(168, 87, 31, 0.09);
     --safety: #B0362A;
-    --safety-bg: rgba(176, 54, 42, 0.09);
     --bitcoin: #6B4FA0;
-    --bitcoin-bg: rgba(107, 79, 160, 0.09);
     --gutter: 24px;
 
     --font-display: "Source Serif 4", "Noto Serif KR", "Nanum Myeongjo", "Batang", Georgia, serif;
@@ -33,39 +30,28 @@
     :root {
       --bg: #15181A; --ink: #E9E8E2; --ink-soft: #A6AEA9; --ink-faint: #74807A;
       --line: rgba(233, 232, 226, 0.16); --accent: #8FB4E3; --accent-soft: rgba(143, 180, 227, 0.12);
-      --surface: #1D2123;
-      --economy: #63BAA0; --economy-bg: rgba(99, 186, 160, 0.12);
-      --realestate: #E29A5F; --realestate-bg: rgba(226, 154, 95, 0.12);
-      --safety: #E17F71; --safety-bg: rgba(225, 127, 113, 0.12);
-      --bitcoin: #B79EE0; --bitcoin-bg: rgba(183, 158, 224, 0.14);
+      --surface: #1D2123; --zebra: rgba(233, 232, 226, 0.035);
+      --economy: #63BAA0; --realestate: #E29A5F; --safety: #E17F71; --bitcoin: #B79EE0;
     }
   }
 
   * { box-sizing: border-box; }
 
-  html { overflow-x: hidden; }
   body {
     margin: 0;
-    overflow-x: hidden;
-    background:
-      radial-gradient(1100px 520px at 50% -12%, var(--accent-soft), transparent 60%),
-      var(--bg);
+    background: var(--bg);
     color: var(--ink);
     font-family: var(--font-body);
-    line-height: 1.6;
+    line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
 
   a { color: inherit; }
   a:focus-visible, select:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
-  .page { max-width: 740px; margin: 0 auto; padding: 56px var(--gutter) 96px; }
+  .page { max-width: 780px; margin: 0 auto; padding: 56px var(--gutter) 96px; }
 
-  header.masthead {
-    padding-bottom: 24px; margin-bottom: 44px;
-    border-image: linear-gradient(90deg, var(--ink), var(--line) 75%) 1;
-    border-bottom: 2px solid var(--ink);
-  }
+  header.masthead { padding-bottom: 22px; margin-bottom: 36px; border-bottom: 2px solid var(--ink); }
 
   .eyebrow {
     display: flex; align-items: center; gap: 8px;
@@ -75,7 +61,7 @@
   .eyebrow::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); flex: none; }
 
   h1 {
-    font-family: var(--font-display); font-weight: 600; font-size: clamp(26px, 4.4vw, 42px);
+    font-family: var(--font-display); font-weight: 600; font-size: clamp(26px, 4.4vw, 38px);
     line-height: 1.18; margin: 0 0 18px; text-wrap: balance; letter-spacing: -0.01em; word-break: keep-all;
   }
 
@@ -101,152 +87,70 @@
     font-family: var(--font-body); font-size: 13px; font-weight: 600; cursor: pointer;
     padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line);
     background: transparent; color: var(--ink-faint);
-    transition: background-color .18s ease, color .18s ease, border-color .18s ease, transform .18s ease;
+    transition: background-color .18s ease, color .18s ease, border-color .18s ease;
   }
-  .cat-toggle:hover { border-color: var(--ink-faint); transform: translateY(-1px); }
-  .cat-toggle:active { transform: translateY(0); }
+  .cat-toggle:hover { border-color: var(--ink-faint); }
   .cat-toggle.all.is-active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
-  .cat-toggle.economy.is-active { background: var(--economy-bg); border-color: var(--economy); color: var(--economy); }
-  .cat-toggle.realestate.is-active { background: var(--realestate-bg); border-color: var(--realestate); color: var(--realestate); }
-  .cat-toggle.safety.is-active { background: var(--safety-bg); border-color: var(--safety); color: var(--safety); }
-  .cat-toggle.bitcoin.is-active { background: var(--bitcoin-bg); border-color: var(--bitcoin); color: var(--bitcoin); }
+  .cat-toggle.economy.is-active { background: color-mix(in srgb, var(--economy) 12%, transparent); border-color: var(--economy); color: var(--economy); }
+  .cat-toggle.realestate.is-active { background: color-mix(in srgb, var(--realestate) 12%, transparent); border-color: var(--realestate); color: var(--realestate); }
+  .cat-toggle.safety.is-active { background: color-mix(in srgb, var(--safety) 12%, transparent); border-color: var(--safety); color: var(--safety); }
+  .cat-toggle.bitcoin.is-active { background: color-mix(in srgb, var(--bitcoin) 12%, transparent); border-color: var(--bitcoin); color: var(--bitcoin); }
 
   .archive-note { margin: 14px 0 0; font-size: 13px; color: var(--ink-soft); }
 
-  section.category { margin-bottom: 52px; }
+  section.category { margin-bottom: 40px; }
   section.category:last-of-type { margin-bottom: 0; }
   section.category[hidden] { display: none; }
 
-  .category-head {
-    display: flex; align-items: baseline; gap: 12px; padding-bottom: 12px;
-    border-bottom: 1px solid var(--line); margin-bottom: 4px; position: relative;
+  .category-head { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .category-head .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+  .category-head .dot.economy { background: var(--economy); }
+  .category-head .dot.realestate { background: var(--realestate); }
+  .category-head .dot.safety { background: var(--safety); }
+  .category-head .dot.bitcoin { background: var(--bitcoin); }
+  .category-head h2 {
+    font-family: var(--font-mono); font-size: 13px; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; margin: 0;
   }
-  .category-head::after {
-    content: ""; position: absolute; left: 0; bottom: -1px; height: 2px; width: 46px;
+  .category-count { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); margin-left: auto; }
+
+  table.rank-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  table.rank-table col.c-rank { width: 30px; }
+  table.rank-table col.c-time { width: 56px; }
+  table.rank-table col.c-score { width: 48px; }
+  table.rank-table col.c-src { width: 130px; }
+
+  table.rank-table thead th {
+    font-family: var(--font-mono); font-size: 10px; font-weight: 600; letter-spacing: .06em;
+    text-transform: uppercase; color: var(--ink-faint); text-align: left;
+    padding: 0 8px 8px; border-bottom: 1px solid var(--ink);
   }
-  .category-head.economy::after { background: var(--economy); }
-  .category-head.realestate::after { background: var(--realestate); }
-  .category-head.safety::after { background: var(--safety); }
-  .category-head.bitcoin::after { background: var(--bitcoin); }
+  table.rank-table thead th.num { text-align: right; }
 
-  .category-dot { width: 10px; height: 10px; border-radius: 50%; flex: none; transform: translateY(-1px); }
-  .category-dot.economy { background: var(--economy); box-shadow: 0 0 0 4px var(--economy-bg); }
-  .category-dot.realestate { background: var(--realestate); box-shadow: 0 0 0 4px var(--realestate-bg); }
-  .category-dot.safety { background: var(--safety); box-shadow: 0 0 0 4px var(--safety-bg); }
-  .category-dot.bitcoin { background: var(--bitcoin); box-shadow: 0 0 0 4px var(--bitcoin-bg); }
+  table.rank-table tbody tr:nth-child(odd) { background: var(--zebra); }
+  table.rank-table tbody td { padding: 9px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  table.rank-table tbody tr:first-child td { padding-top: 12px; }
+  table.rank-table tbody tr:last-child td { border-bottom: none; }
 
-  .category-head h2 { font-family: var(--font-display); font-size: 22px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
-  .category-count { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); margin-left: auto; }
+  td.rank { font-family: var(--font-mono); font-size: 12px; font-weight: 700; color: var(--ink-faint); text-align: right; font-variant-numeric: tabular-nums; }
+  td.time { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
+  td.title a { font-size: 13.5px; font-weight: 500; color: var(--ink); text-decoration: none; }
+  td.title a:hover { text-decoration: underline; }
+  table.rank-table tbody tr:first-child td.title a { font-family: var(--font-display); font-size: 16px; font-weight: 700; }
+  td.score { font-family: var(--font-mono); font-size: 12px; font-weight: 700; color: var(--ink-soft); text-align: right; font-variant-numeric: tabular-nums; }
+  td.src { font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
-  ol.articles { list-style: none; margin: 0; padding: 0; }
-
-  .tag { display: inline-block; font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.04em; padding: 2px 7px; border-radius: 3px; }
-  .tag.economy { color: var(--economy); background: var(--economy-bg); }
-  .tag.realestate { color: var(--realestate); background: var(--realestate-bg); }
-  .tag.safety { color: var(--safety); background: var(--safety-bg); }
-  .tag.bitcoin { color: var(--bitcoin); background: var(--bitcoin-bg); }
-
-  /* 1위 헤드라인 (히어로, 카테고리색 풀블리드 밴드) */
-  .hero {
-    display: block;
-    margin: 0 calc(50% - 50vw) 14px;
-    padding: 28px calc(50vw - 50% + var(--gutter));
-    border-top: 3px solid var(--ink);
-  }
-  .hero.economy { background: var(--economy-bg); border-top-color: var(--economy); }
-  .hero.realestate { background: var(--realestate-bg); border-top-color: var(--realestate); }
-  .hero.safety { background: var(--safety-bg); border-top-color: var(--safety); }
-  .hero.bitcoin { background: var(--bitcoin-bg); border-top-color: var(--bitcoin); }
-
-  .hero-inner { display: flex; gap: 22px; align-items: flex-start; max-width: 740px; margin: 0 auto; }
-
-  .hero-score {
-    flex: none; display: flex; flex-direction: column; align-items: center; justify-content: center;
-    width: 60px; height: 60px; border-radius: 50%; border: 2px solid; background: var(--bg);
-    font-family: var(--font-mono);
-  }
-  .hero-score .n { font-size: 20px; font-weight: 800; line-height: 1; font-variant-numeric: tabular-nums; }
-  .hero-score .d { font-size: 9px; font-weight: 600; opacity: .8; margin-top: 1px; }
-  .hero-score.economy { border-color: var(--economy); color: var(--economy); }
-  .hero-score.realestate { border-color: var(--realestate); color: var(--realestate); }
-  .hero-score.safety { border-color: var(--safety); color: var(--safety); }
-  .hero-score.bitcoin { border-color: var(--bitcoin); color: var(--bitcoin); }
-
-  .hero-content { min-width: 0; }
-
-  .hero-meta {
-    display: flex; align-items: center; gap: 8px; font-family: var(--font-mono);
-    font-size: 11.5px; letter-spacing: 0.02em; color: var(--ink-soft); margin-bottom: 10px;
-  }
-
-  .hero-title {
-    display: block; font-family: var(--font-display); font-weight: 700;
-    font-size: clamp(21px, 3.2vw, 28px); line-height: 1.32; margin: 0 0 10px;
-    text-decoration: none; text-wrap: balance; color: var(--ink); word-break: keep-all;
-    transition: opacity .15s ease;
-  }
-  .hero-title:hover { text-decoration: underline; text-underline-offset: 4px; opacity: .85; }
-
-  .hero-snippet { font-size: 15px; color: var(--ink-soft); margin: 0; max-width: 64ch; }
-
-  /* 2위 이하 순위 목록 (콤팩트) */
-  .compact-row {
-    display: flex; align-items: center; gap: 10px; padding: 9px 6px; margin: 0 -6px;
-    border-bottom: 1px solid var(--line); border-radius: 4px;
-    transition: background-color .15s ease;
-  }
-  .compact-row:hover { background: var(--surface); }
-  .compact-row:last-child { border-bottom: none; }
-
-  .compact-rank {
-    flex: none; width: 18px; font-family: var(--font-mono); font-size: 12px; font-weight: 700;
-    font-variant-numeric: tabular-nums;
-  }
-  .compact-rank.economy { color: var(--economy); }
-  .compact-rank.realestate { color: var(--realestate); }
-  .compact-rank.safety { color: var(--safety); }
-  .compact-rank.bitcoin { color: var(--bitcoin); }
-
-  .compact-time { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
-
-  .compact-title {
-    flex: 1; min-width: 0; font-family: var(--font-body); font-size: 14.5px; font-weight: 500;
-    color: var(--ink); text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-  }
-  .compact-title:hover { text-decoration: underline; text-underline-offset: 3px; }
-
-  .compact-score-wrap { flex: none; display: flex; flex-direction: column; align-items: flex-end; gap: 4px; width: 42px; }
-  .compact-score {
-    font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--ink-soft);
-    font-variant-numeric: tabular-nums;
-  }
-  .compact-score-bar { width: 100%; height: 3px; border-radius: 2px; background: var(--line); overflow: hidden; }
-  .compact-score-bar-fill { height: 100%; border-radius: 2px; }
-  .compact-score-bar-fill.economy { background: var(--economy); }
-  .compact-score-bar-fill.realestate { background: var(--realestate); }
-  .compact-score-bar-fill.safety { background: var(--safety); }
-  .compact-score-bar-fill.bitcoin { background: var(--bitcoin); }
-
-  .compact-source { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); max-width: 88px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-
-  .empty-state, .load-state { padding: 28px 0; color: var(--ink-faint); font-size: 14px; font-style: italic; }
+  .empty-state, .load-state { padding: 16px 8px; color: var(--ink-faint); font-size: 13px; font-style: italic; }
 
   footer.colophon {
-    margin-top: 56px; padding-top: 22px;
-    border-image: linear-gradient(90deg, var(--line), transparent 85%) 1;
-    border-top: 1px solid var(--line);
+    margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--line);
     font-size: 12.5px; color: var(--ink-faint); display: flex; flex-direction: column; gap: 7px;
   }
   footer.colophon code { font-family: var(--font-mono); background: var(--accent-soft); padding: 1px 5px; border-radius: 3px; color: var(--accent); }
 
-  @media (max-width: 560px) {
-    .hero-inner { gap: 14px; }
-    .hero-score { width: 48px; height: 48px; }
-    .hero-score .n { font-size: 16px; }
-  }
-
   @media (max-width: 480px) {
-    .compact-source { display: none; }
+    td.src { display: none; }
+    table.rank-table col.c-src { width: 0; }
   }
 </style>
 </head>
@@ -274,23 +178,23 @@
   </header>
 
   <section class="category" data-cat="economy">
-    <div class="category-head economy"><span class="category-dot economy"></span><h2>경제</h2><span class="category-count" id="count-economy"></span></div>
-    <ol class="articles" id="list-economy"><li class="load-state">불러오는 중…</li></ol>
+    <div class="category-head"><span class="dot economy"></span><h2>경제</h2><span class="category-count" id="count-economy"></span></div>
+    <div id="table-economy"><p class="load-state">불러오는 중…</p></div>
   </section>
 
   <section class="category" data-cat="realestate">
-    <div class="category-head realestate"><span class="category-dot realestate"></span><h2>부동산</h2><span class="category-count" id="count-realestate"></span></div>
-    <ol class="articles" id="list-realestate"></ol>
+    <div class="category-head"><span class="dot realestate"></span><h2>부동산</h2><span class="category-count" id="count-realestate"></span></div>
+    <div id="table-realestate"></div>
   </section>
 
   <section class="category" data-cat="safety">
-    <div class="category-head safety"><span class="category-dot safety"></span><h2>안전</h2><span class="category-count" id="count-safety"></span></div>
-    <ol class="articles" id="list-safety"></ol>
+    <div class="category-head"><span class="dot safety"></span><h2>안전</h2><span class="category-count" id="count-safety"></span></div>
+    <div id="table-safety"></div>
   </section>
 
   <section class="category" data-cat="bitcoin">
-    <div class="category-head bitcoin"><span class="category-dot bitcoin"></span><h2>비트코인</h2><span class="category-count" id="count-bitcoin"></span></div>
-    <ol class="articles" id="list-bitcoin"></ol>
+    <div class="category-head"><span class="dot bitcoin"></span><h2>비트코인</h2><span class="category-count" id="count-bitcoin"></span></div>
+    <div id="table-bitcoin"></div>
   </section>
 
   <footer class="colophon">
@@ -302,10 +206,10 @@
 
 <script>
   const CATS = [
-    { key: "economy", tag: "ECON", cls: "economy", label: "경제" },
-    { key: "realestate", tag: "REAL", cls: "realestate", label: "부동산" },
-    { key: "safety", tag: "SAFE", cls: "safety", label: "안전" },
-    { key: "bitcoin", tag: "BTC", cls: "bitcoin", label: "비트코인" }
+    { key: "economy", cls: "economy", label: "경제" },
+    { key: "realestate", cls: "realestate", label: "부동산" },
+    { key: "safety", cls: "safety", label: "안전" },
+    { key: "bitcoin", cls: "bitcoin", label: "비트코인" }
   ];
 
   function esc(s) {
@@ -344,46 +248,27 @@
     CATS.forEach(cat => {
       const items = day[cat.key] || [];
       document.getElementById(`count-${cat.key}`).textContent = `${items.length}건`;
-      const list = document.getElementById(`list-${cat.key}`);
+      const holder = document.getElementById(`table-${cat.key}`);
       if (items.length === 0) {
-        list.innerHTML = `<li class="empty-state">이 날짜에는 저장된 ${cat.label} 기사가 없습니다.</li>`;
+        holder.innerHTML = `<p class="empty-state">이 날짜에는 저장된 ${cat.label} 기사가 없습니다.</p>`;
         return;
       }
-      const [hero, ...rest] = items;
-      const heroHtml = `
-        <li class="hero ${cat.cls}">
-          <div class="hero-inner">
-            ${hero.score != null ? `
-              <div class="hero-score ${cat.cls}">
-                <span class="n">${esc(hero.score)}</span><span class="d">/15</span>
-              </div>` : ""}
-            <div class="hero-content">
-              <div class="hero-meta">
-                <span class="tag ${cat.cls}">${cat.tag}</span>
-                <span>${esc(hero.time)}</span>
-                <span>·</span>
-                <span>${esc(hero.source)}${hero.coverage > 1 ? ` · ${hero.coverage}개 매체 보도` : ""}</span>
-              </div>
-              <a class="hero-title" href="${esc(hero.link)}" target="_blank" rel="noopener">${esc(hero.title)}</a>
-              <p class="hero-snippet">${esc(hero.snippet)}</p>
-            </div>
-          </div>
-        </li>
-      `;
-      const restHtml = rest.map((item, i) => `
-        <li class="compact-row">
-          <span class="compact-rank ${cat.cls}">${i + 2}</span>
-          <span class="compact-time">${esc(item.time)}</span>
-          <a class="compact-title" href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a>
-          ${item.score != null ? `
-            <span class="compact-score-wrap">
-              <span class="compact-score">${esc(item.score)}/15</span>
-              <span class="compact-score-bar"><span class="compact-score-bar-fill ${cat.cls}" style="width:${Math.round(item.score / 15 * 100)}%"></span></span>
-            </span>` : ""}
-          <span class="compact-source">${esc(item.source)}</span>
-        </li>
+      const rows = items.map((item, i) => `
+        <tr>
+          <td class="rank">${i + 1}</td>
+          <td class="time">${esc(item.time)}</td>
+          <td class="title"><a href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a></td>
+          <td class="score">${item.score ?? "-"}</td>
+          <td class="src">${esc(item.source)}${item.coverage > 1 ? ` · ${item.coverage}` : ""}</td>
+        </tr>
       `).join("");
-      list.innerHTML = heroHtml + restHtml;
+      holder.innerHTML = `
+        <table class="rank-table">
+          <colgroup><col class="c-rank"><col class="c-time"><col><col class="c-score"><col class="c-src"></colgroup>
+          <thead><tr><th class="num">#</th><th>시간</th><th>제목</th><th class="num">점수</th><th>매체</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+      `;
     });
   }
 
@@ -415,8 +300,8 @@
       const res = await fetch("./data/archive.json");
       archive = await res.json();
     } catch (e) {
-      document.getElementById("list-economy").innerHTML =
-        `<li class="empty-state">data/archive.json을 불러오지 못했습니다. 로컬에서 열었다면 정적 서버(예: python -m http.server)로 실행해주세요.</li>`;
+      document.getElementById("table-economy").innerHTML =
+        `<p class="empty-state">data/archive.json을 불러오지 못했습니다. 로컬에서 열었다면 정적 서버(예: python -m http.server)로 실행해주세요.</p>`;
       return;
     }
     const select = document.getElementById("date-select");
