@@ -9,9 +9,10 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import KST, QUERIES, cluster_items, jaccard, normalize_title, score_cluster
+from common import KST, QUERIES, cluster_items, jaccard, score_cluster
 
 DEDUP_THRESHOLD = 0.5  # 1차 클러스터링을 통과한 뒤, 최종 상위 N 안에서 서로 겹치는 이슈를 한 번 더 거른다
+DEDUP_MIN_SHARED_DECIMALS = 2
 
 ROOT = Path(__file__).parent.parent
 BUFFER_PATH = ROOT / "data" / "buffer.json"
@@ -51,13 +52,19 @@ def main():
         scored.sort(key=lambda x: (x[0], x[1], x[2]["rep"]["pubDate"]), reverse=True)
 
         top = []
-        picked_shingles = []
+        picked = []  # list of (rep_shingles, rep_decimals)
         for score, coverage, c in scored:
-            rep_shingles = normalize_title(c["rep"]["title"])
-            if any(jaccard(rep_shingles, s) >= DEDUP_THRESHOLD for s in picked_shingles):
+            rep_shingles = c["rep_shingles"]
+            rep_decimals = c["rep_decimals"]
+            is_dup = any(
+                jaccard(rep_shingles, s) >= DEDUP_THRESHOLD
+                or len(rep_decimals & d) >= DEDUP_MIN_SHARED_DECIMALS
+                for s, d in picked
+            )
+            if is_dup:
                 continue
             top.append((score, coverage, c))
-            picked_shingles.append(rep_shingles)
+            picked.append((rep_shingles, rep_decimals))
             if len(top) >= TOP_N:
                 break
         result[category] = [

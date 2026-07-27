@@ -110,14 +110,24 @@ def normalize_title(title):
 
     같은 이슈라도 매체마다 "李대통령"/"이 대통령", "지지율"/"국정지지율"처럼
     표현이 달라 공백 기준 단어 비교로는 겹치지 않는 경우가 많다. 문자 단위
-    2-gram은 이런 표현 차이에 훨씬 강건하고, 퍼센트·날짜 같은 숫자 표현이
-    같은 이슈를 가리키는 강한 신호로 자연스럽게 포함된다.
+    2-gram은 이런 표현 차이에 훨씬 강건하다.
     """
     t = re.sub(r"\[[^\]]*\]", "", title)
     t = re.sub(r"[^\w]", "", t)
     if len(t) < 2:
         return {t} if t else set()
     return {t[i:i + 2] for i in range(len(t) - 1)}
+
+
+def extract_decimals(title):
+    """제목에 나오는 소수점 숫자(46.3, 41.3 등)만 뽑는다.
+
+    여론조사·주가·환율처럼 매체마다 헤드라인에서 서로 다른 사실을 강조해도
+    (예: "국정지지율 46.3%" vs "부동산 민심 반발" vs "2주 연속↓") 같은
+    발표에서 나온 수치 자체는 그대로 반복되는 경우가 많다. "24일"처럼 흔한
+    정수(날짜 등)는 우연히 겹칠 수 있어 제외하고, 소수점이 있는 숫자만 쓴다.
+    """
+    return set(re.findall(r"\d+\.\d+", title))
 
 
 def jaccard(a, b):
@@ -128,24 +138,30 @@ def jaccard(a, b):
     return inter / union if union else 0.0
 
 
-def cluster_items(items, threshold=0.4):
+def cluster_items(items, threshold=0.4, min_shared_decimals=2):
     """category 내 유사 제목 기사를 하나의 클러스터로 묶는다.
 
-    새 기사는 각 클러스터의 '대표 기사' 한 편의 shingle과만 비교한다.
+    새 기사는 각 클러스터의 '대표 기사' 한 편의 shingle/숫자와만 비교한다.
     (클러스터에 들어온 모든 기사의 shingle을 계속 합집합으로 누적하면
     클러스터가 커질수록 기준이 느슨해져 관련 없는 기사까지 끌어들이기 쉽다.)
+
+    제목 유사도가 기준 미만이라도, 소수점 숫자가 2개 이상 겹치면 같은
+    발표/이슈를 다르게 보도한 것으로 보고 병합한다.
     """
-    clusters = []  # list of dict: rep_shingles, domains(set), rep(item), items(list)
+    clusters = []  # list of dict: rep_shingles, rep_decimals, domains(set), rep(item), items(list)
     for item in items:
         shingles = normalize_title(item["title"])
+        decimals = extract_decimals(item["title"])
         best = None
-        best_sim = 0.0
+        best_sim = -1.0
         for c in clusters:
             sim = jaccard(shingles, c["rep_shingles"])
-            if sim > best_sim:
+            shared_decimals = len(decimals & c["rep_decimals"])
+            is_match = sim >= threshold or shared_decimals >= min_shared_decimals
+            if is_match and sim > best_sim:
                 best_sim = sim
                 best = c
-        if best is not None and best_sim >= threshold:
+        if best is not None:
             best["domains"].add(item["domain"])
             best["items"].append(item)
             rep_tier = outlet_of(best["rep"]["domain"])[1]
@@ -153,9 +169,11 @@ def cluster_items(items, threshold=0.4):
             if item_tier > rep_tier:
                 best["rep"] = item
                 best["rep_shingles"] = shingles
+                best["rep_decimals"] = decimals
         else:
             clusters.append({
                 "rep_shingles": shingles,
+                "rep_decimals": decimals,
                 "domains": {item["domain"]},
                 "items": [item],
                 "rep": item,
