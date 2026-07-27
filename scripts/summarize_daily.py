@@ -12,6 +12,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from common import KST, QUERIES, cluster_items, jaccard, score_cluster
 
 DEDUP_THRESHOLD = 0.5  # 1차 클러스터링을 통과한 뒤, 최종 상위 N 안에서 서로 겹치는 이슈를 한 번 더 거른다
+DEDUP_ASSIST_THRESHOLD = 0.15
 DEDUP_MIN_SHARED_DECIMALS = 2
 
 ROOT = Path(__file__).parent.parent
@@ -59,6 +60,7 @@ def main():
             is_dup = any(
                 jaccard(rep_shingles, s) >= DEDUP_THRESHOLD
                 or len(rep_decimals & d) >= DEDUP_MIN_SHARED_DECIMALS
+                or (len(rep_decimals & d) >= 1 and jaccard(rep_shingles, s) >= DEDUP_ASSIST_THRESHOLD)
                 for s, d in picked
             )
             if is_dup:

@@ -138,15 +138,17 @@ def jaccard(a, b):
     return inter / union if union else 0.0
 
 
-def cluster_items(items, threshold=0.4, min_shared_decimals=2):
+def cluster_items(items, threshold=0.4, assist_threshold=0.15, min_shared_decimals=2):
     """category 내 유사 제목 기사를 하나의 클러스터로 묶는다.
 
     새 기사는 각 클러스터의 '대표 기사' 한 편의 shingle/숫자와만 비교한다.
     (클러스터에 들어온 모든 기사의 shingle을 계속 합집합으로 누적하면
     클러스터가 커질수록 기준이 느슨해져 관련 없는 기사까지 끌어들이기 쉽다.)
 
-    제목 유사도가 기준 미만이라도, 소수점 숫자가 2개 이상 겹치면 같은
-    발표/이슈를 다르게 보도한 것으로 보고 병합한다.
+    제목 유사도가 기준(threshold) 미만이어도 같은 이슈로 보는 경우:
+    - 소수점 숫자가 2개 이상 겹치면(예: 46.3, 41.3) 텍스트 유사도와 무관하게 병합
+    - 소수점 숫자가 1개만 겹쳐도, 텍스트 유사도가 assist_threshold 이상이면 병합
+      (예: 헤드라인 수치는 하나만 공유하면서 나머지 표현이 다른 경우)
     """
     clusters = []  # list of dict: rep_shingles, rep_decimals, domains(set), rep(item), items(list)
     for item in items:
@@ -157,7 +159,11 @@ def cluster_items(items, threshold=0.4, min_shared_decimals=2):
         for c in clusters:
             sim = jaccard(shingles, c["rep_shingles"])
             shared_decimals = len(decimals & c["rep_decimals"])
-            is_match = sim >= threshold or shared_decimals >= min_shared_decimals
+            is_match = (
+                sim >= threshold
+                or shared_decimals >= min_shared_decimals
+                or (shared_decimals >= 1 and sim >= assist_threshold)
+            )
             if is_match and sim > best_sim:
                 best_sim = sim
                 best = c
