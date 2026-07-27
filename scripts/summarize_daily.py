@@ -9,7 +9,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import KST, QUERIES, cluster_items, score_cluster
+from common import KST, QUERIES, cluster_items, jaccard, normalize_title, score_cluster
+
+DEDUP_THRESHOLD = 0.5  # 1차 클러스터링을 통과한 뒤, 최종 상위 N 안에서 서로 겹치는 이슈를 한 번 더 거른다
 
 ROOT = Path(__file__).parent.parent
 BUFFER_PATH = ROOT / "data" / "buffer.json"
@@ -48,7 +50,16 @@ def main():
             scored.append((score, coverage, c))
         scored.sort(key=lambda x: (x[0], x[1], x[2]["rep"]["pubDate"]), reverse=True)
 
-        top = scored[:TOP_N]
+        top = []
+        picked_shingles = []
+        for score, coverage, c in scored:
+            rep_shingles = normalize_title(c["rep"]["title"])
+            if any(jaccard(rep_shingles, s) >= DEDUP_THRESHOLD for s in picked_shingles):
+                continue
+            top.append((score, coverage, c))
+            picked_shingles.append(rep_shingles)
+            if len(top) >= TOP_N:
+                break
         result[category] = [
             {
                 "time": datetime.fromisoformat(c["rep"]["pubDate"]).strftime("%H:%M"),

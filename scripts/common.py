@@ -106,10 +106,18 @@ def parse_pubdate(raw):
 
 
 def normalize_title(title):
-    t = re.sub(r"\[[^\]]*\]", " ", title)
-    t = re.sub(r"[\"'“”‘’…·,.!?()\[\]{}<>~%:;\-–—]", " ", t)
-    tokens = [tok for tok in t.split() if len(tok) >= 2]
-    return set(tokens)
+    """제목을 문자 2-gram(shingle) 집합으로 바꾼다.
+
+    같은 이슈라도 매체마다 "李대통령"/"이 대통령", "지지율"/"국정지지율"처럼
+    표현이 달라 공백 기준 단어 비교로는 겹치지 않는 경우가 많다. 문자 단위
+    2-gram은 이런 표현 차이에 훨씬 강건하고, 퍼센트·날짜 같은 숫자 표현이
+    같은 이슈를 가리키는 강한 신호로 자연스럽게 포함된다.
+    """
+    t = re.sub(r"\[[^\]]*\]", "", title)
+    t = re.sub(r"[^\w]", "", t)
+    if len(t) < 2:
+        return {t} if t else set()
+    return {t[i:i + 2] for i in range(len(t) - 1)}
 
 
 def jaccard(a, b):
@@ -120,15 +128,20 @@ def jaccard(a, b):
     return inter / union if union else 0.0
 
 
-def cluster_items(items, threshold=0.45):
-    """category 내 유사 제목 기사를 하나의 클러스터로 묶는다."""
-    clusters = []  # list of dict: tokens, domains(set), rep(item with best tier), items(list)
+def cluster_items(items, threshold=0.4):
+    """category 내 유사 제목 기사를 하나의 클러스터로 묶는다.
+
+    새 기사는 각 클러스터의 '대표 기사' 한 편의 shingle과만 비교한다.
+    (클러스터에 들어온 모든 기사의 shingle을 계속 합집합으로 누적하면
+    클러스터가 커질수록 기준이 느슨해져 관련 없는 기사까지 끌어들이기 쉽다.)
+    """
+    clusters = []  # list of dict: rep_shingles, domains(set), rep(item), items(list)
     for item in items:
-        tokens = normalize_title(item["title"])
+        shingles = normalize_title(item["title"])
         best = None
         best_sim = 0.0
         for c in clusters:
-            sim = jaccard(tokens, c["tokens"])
+            sim = jaccard(shingles, c["rep_shingles"])
             if sim > best_sim:
                 best_sim = sim
                 best = c
@@ -139,10 +152,10 @@ def cluster_items(items, threshold=0.45):
             item_tier = outlet_of(item["domain"])[1]
             if item_tier > rep_tier:
                 best["rep"] = item
-            best["tokens"] = best["tokens"] | tokens
+                best["rep_shingles"] = shingles
         else:
             clusters.append({
-                "tokens": tokens,
+                "rep_shingles": shingles,
                 "domains": {item["domain"]},
                 "items": [item],
                 "rep": item,
