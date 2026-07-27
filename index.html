@@ -22,6 +22,7 @@
     --safety-bg: rgba(176, 54, 42, 0.09);
     --bitcoin: #6B4FA0;
     --bitcoin-bg: rgba(107, 79, 160, 0.09);
+    --gutter: 24px;
 
     --font-display: "Source Serif 4", "Noto Serif KR", "Nanum Myeongjo", "Batang", Georgia, serif;
     --font-body: "Pretendard Variable", Pretendard, "Noto Sans KR", -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
@@ -44,7 +45,9 @@
 
   body {
     margin: 0;
-    background: var(--bg);
+    background:
+      radial-gradient(1100px 520px at 50% -12%, var(--accent-soft), transparent 60%),
+      var(--bg);
     color: var(--ink);
     font-family: var(--font-body);
     line-height: 1.6;
@@ -52,16 +55,22 @@
   }
 
   a { color: inherit; }
-  a:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+  a:focus-visible, select:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
-  .page { max-width: 740px; margin: 0 auto; padding: 56px 24px 96px; }
+  .page { max-width: 740px; margin: 0 auto; padding: 56px var(--gutter) 96px; }
 
-  header.masthead { padding-bottom: 22px; border-bottom: 2px solid var(--ink); margin-bottom: 40px; }
+  header.masthead {
+    padding-bottom: 24px; margin-bottom: 44px;
+    border-image: linear-gradient(90deg, var(--ink), var(--line) 75%) 1;
+    border-bottom: 2px solid var(--ink);
+  }
 
   .eyebrow {
-    font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.12em;
-    text-transform: uppercase; color: var(--accent); margin: 0 0 14px;
+    display: flex; align-items: center; gap: 8px;
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--accent); margin: 0 0 16px;
   }
+  .eyebrow::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); flex: none; }
 
   h1 {
     font-family: var(--font-display); font-weight: 600; font-size: clamp(26px, 4.4vw, 42px);
@@ -85,14 +94,15 @@
 
   .masthead-meta { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); }
 
-  .cat-field { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .cat-field { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
   .cat-toggle {
     font-family: var(--font-body); font-size: 13px; font-weight: 600; cursor: pointer;
     padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line);
     background: transparent; color: var(--ink-faint);
-    transition: background-color .15s, color .15s, border-color .15s;
+    transition: background-color .18s ease, color .18s ease, border-color .18s ease, transform .18s ease;
   }
-  .cat-toggle:hover { border-color: var(--ink-faint); }
+  .cat-toggle:hover { border-color: var(--ink-faint); transform: translateY(-1px); }
+  .cat-toggle:active { transform: translateY(0); }
   .cat-toggle.all.is-active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
   .cat-toggle.economy.is-active { background: var(--economy-bg); border-color: var(--economy); color: var(--economy); }
   .cat-toggle.realestate.is-active { background: var(--realestate-bg); border-color: var(--realestate); color: var(--realestate); }
@@ -101,19 +111,27 @@
 
   .archive-note { margin: 14px 0 0; font-size: 13px; color: var(--ink-soft); }
 
-  section.category { margin-bottom: 48px; }
+  section.category { margin-bottom: 52px; }
   section.category:last-of-type { margin-bottom: 0; }
   section.category[hidden] { display: none; }
 
   .category-head {
-    display: flex; align-items: baseline; gap: 12px; padding-bottom: 10px;
-    border-bottom: 1px solid var(--line); margin-bottom: 4px;
+    display: flex; align-items: baseline; gap: 12px; padding-bottom: 12px;
+    border-bottom: 1px solid var(--line); margin-bottom: 4px; position: relative;
   }
+  .category-head::after {
+    content: ""; position: absolute; left: 0; bottom: -1px; height: 2px; width: 46px;
+  }
+  .category-head.economy::after { background: var(--economy); }
+  .category-head.realestate::after { background: var(--realestate); }
+  .category-head.safety::after { background: var(--safety); }
+  .category-head.bitcoin::after { background: var(--bitcoin); }
+
   .category-dot { width: 10px; height: 10px; border-radius: 50%; flex: none; transform: translateY(-1px); }
-  .category-dot.economy { background: var(--economy); }
-  .category-dot.realestate { background: var(--realestate); }
-  .category-dot.safety { background: var(--safety); }
-  .category-dot.bitcoin { background: var(--bitcoin); }
+  .category-dot.economy { background: var(--economy); box-shadow: 0 0 0 4px var(--economy-bg); }
+  .category-dot.realestate { background: var(--realestate); box-shadow: 0 0 0 4px var(--realestate-bg); }
+  .category-dot.safety { background: var(--safety); box-shadow: 0 0 0 4px var(--safety-bg); }
+  .category-dot.bitcoin { background: var(--bitcoin); box-shadow: 0 0 0 4px var(--bitcoin-bg); }
 
   .category-head h2 { font-family: var(--font-display); font-size: 22px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
   .category-count { font-family: var(--font-mono); font-size: 12px; color: var(--ink-faint); margin-left: auto; }
@@ -126,38 +144,67 @@
   .tag.safety { color: var(--safety); background: var(--safety-bg); }
   .tag.bitcoin { color: var(--bitcoin); background: var(--bitcoin-bg); }
 
-  /* 1위 헤드라인 (히어로) */
-  .hero { padding: 24px 0 22px; border-top: 3px solid var(--ink); margin-bottom: 6px; }
-  .hero.economy { border-top-color: var(--economy); }
-  .hero.realestate { border-top-color: var(--realestate); }
-  .hero.safety { border-top-color: var(--safety); }
-  .hero.bitcoin { border-top-color: var(--bitcoin); }
+  /* 1위 헤드라인 (히어로, 카테고리색 풀블리드 밴드) */
+  .hero {
+    display: block;
+    margin: 0 calc(50% - 50vw) 14px;
+    padding: 28px calc(50vw - 50% + var(--gutter));
+    border-top: 3px solid var(--ink);
+  }
+  .hero.economy { background: var(--economy-bg); border-top-color: var(--economy); }
+  .hero.realestate { background: var(--realestate-bg); border-top-color: var(--realestate); }
+  .hero.safety { background: var(--safety-bg); border-top-color: var(--safety); }
+  .hero.bitcoin { background: var(--bitcoin-bg); border-top-color: var(--bitcoin); }
+
+  .hero-inner { display: flex; gap: 22px; align-items: flex-start; max-width: 740px; margin: 0 auto; }
+
+  .hero-score {
+    flex: none; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    width: 60px; height: 60px; border-radius: 50%; border: 2px solid; background: var(--bg);
+    font-family: var(--font-mono);
+  }
+  .hero-score .n { font-size: 20px; font-weight: 800; line-height: 1; font-variant-numeric: tabular-nums; }
+  .hero-score .d { font-size: 9px; font-weight: 600; opacity: .8; margin-top: 1px; }
+  .hero-score.economy { border-color: var(--economy); color: var(--economy); }
+  .hero-score.realestate { border-color: var(--realestate); color: var(--realestate); }
+  .hero-score.safety { border-color: var(--safety); color: var(--safety); }
+  .hero-score.bitcoin { border-color: var(--bitcoin); color: var(--bitcoin); }
+
+  .hero-content { min-width: 0; }
 
   .hero-meta {
     display: flex; align-items: center; gap: 8px; font-family: var(--font-mono);
-    font-size: 11.5px; letter-spacing: 0.02em; color: var(--ink-faint); margin-bottom: 10px;
+    font-size: 11.5px; letter-spacing: 0.02em; color: var(--ink-soft); margin-bottom: 10px;
   }
-  .hero-meta .rank-score { font-size: 13px; }
 
   .hero-title {
     display: block; font-family: var(--font-display); font-weight: 700;
-    font-size: clamp(21px, 3.2vw, 27px); line-height: 1.32; margin: 0 0 10px;
+    font-size: clamp(21px, 3.2vw, 28px); line-height: 1.32; margin: 0 0 10px;
     text-decoration: none; text-wrap: balance; color: var(--ink); word-break: keep-all;
+    transition: opacity .15s ease;
   }
-  .hero-title:hover { text-decoration: underline; text-underline-offset: 4px; }
+  .hero-title:hover { text-decoration: underline; text-underline-offset: 4px; opacity: .85; }
 
   .hero-snippet { font-size: 15px; color: var(--ink-soft); margin: 0; max-width: 64ch; }
 
   /* 2위 이하 순위 목록 (콤팩트) */
   .compact-row {
-    display: flex; align-items: baseline; gap: 10px; padding: 9px 0; border-bottom: 1px solid var(--line);
+    display: flex; align-items: center; gap: 10px; padding: 9px 6px; margin: 0 -6px;
+    border-bottom: 1px solid var(--line); border-radius: 4px;
+    transition: background-color .15s ease;
   }
+  .compact-row:hover { background: var(--surface); }
   .compact-row:last-child { border-bottom: none; }
 
   .compact-rank {
-    flex: none; width: 16px; font-family: var(--font-mono); font-size: 12px; font-weight: 700;
-    color: var(--ink-faint); font-variant-numeric: tabular-nums;
+    flex: none; width: 18px; font-family: var(--font-mono); font-size: 12px; font-weight: 700;
+    font-variant-numeric: tabular-nums;
   }
+  .compact-rank.economy { color: var(--economy); }
+  .compact-rank.realestate { color: var(--realestate); }
+  .compact-rank.safety { color: var(--safety); }
+  .compact-rank.bitcoin { color: var(--bitcoin); }
+
   .compact-time { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
 
   .compact-title {
@@ -166,21 +213,35 @@
   }
   .compact-title:hover { text-decoration: underline; text-underline-offset: 3px; }
 
+  .compact-score-wrap { flex: none; display: flex; flex-direction: column; align-items: flex-end; gap: 4px; width: 42px; }
   .compact-score {
-    flex: none; font-family: var(--font-mono); font-size: 11.5px; font-weight: 700; color: var(--ink-soft);
+    font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--ink-soft);
     font-variant-numeric: tabular-nums;
   }
-  .compact-source { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); max-width: 96px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .compact-score-bar { width: 100%; height: 3px; border-radius: 2px; background: var(--line); overflow: hidden; }
+  .compact-score-bar-fill { height: 100%; border-radius: 2px; }
+  .compact-score-bar-fill.economy { background: var(--economy); }
+  .compact-score-bar-fill.realestate { background: var(--realestate); }
+  .compact-score-bar-fill.safety { background: var(--safety); }
+  .compact-score-bar-fill.bitcoin { background: var(--bitcoin); }
 
-  .rank-score-max { font-weight: 400; color: var(--ink-faint); }
+  .compact-source { flex: none; font-family: var(--font-mono); font-size: 11px; color: var(--ink-faint); max-width: 88px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
   .empty-state, .load-state { padding: 28px 0; color: var(--ink-faint); font-size: 14px; font-style: italic; }
 
   footer.colophon {
-    margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--line);
-    font-size: 12.5px; color: var(--ink-faint); display: flex; flex-direction: column; gap: 6px;
+    margin-top: 56px; padding-top: 22px;
+    border-image: linear-gradient(90deg, var(--line), transparent 85%) 1;
+    border-top: 1px solid var(--line);
+    font-size: 12.5px; color: var(--ink-faint); display: flex; flex-direction: column; gap: 7px;
   }
   footer.colophon code { font-family: var(--font-mono); background: var(--accent-soft); padding: 1px 5px; border-radius: 3px; color: var(--accent); }
+
+  @media (max-width: 560px) {
+    .hero-inner { gap: 14px; }
+    .hero-score { width: 48px; height: 48px; }
+    .hero-score .n { font-size: 16px; }
+  }
 
   @media (max-width: 480px) {
     .compact-source { display: none; }
@@ -211,22 +272,22 @@
   </header>
 
   <section class="category" data-cat="economy">
-    <div class="category-head"><span class="category-dot economy"></span><h2>경제</h2><span class="category-count" id="count-economy"></span></div>
+    <div class="category-head economy"><span class="category-dot economy"></span><h2>경제</h2><span class="category-count" id="count-economy"></span></div>
     <ol class="articles" id="list-economy"><li class="load-state">불러오는 중…</li></ol>
   </section>
 
   <section class="category" data-cat="realestate">
-    <div class="category-head"><span class="category-dot realestate"></span><h2>부동산</h2><span class="category-count" id="count-realestate"></span></div>
+    <div class="category-head realestate"><span class="category-dot realestate"></span><h2>부동산</h2><span class="category-count" id="count-realestate"></span></div>
     <ol class="articles" id="list-realestate"></ol>
   </section>
 
   <section class="category" data-cat="safety">
-    <div class="category-head"><span class="category-dot safety"></span><h2>안전</h2><span class="category-count" id="count-safety"></span></div>
+    <div class="category-head safety"><span class="category-dot safety"></span><h2>안전</h2><span class="category-count" id="count-safety"></span></div>
     <ol class="articles" id="list-safety"></ol>
   </section>
 
   <section class="category" data-cat="bitcoin">
-    <div class="category-head"><span class="category-dot bitcoin"></span><h2>비트코인</h2><span class="category-count" id="count-bitcoin"></span></div>
+    <div class="category-head bitcoin"><span class="category-dot bitcoin"></span><h2>비트코인</h2><span class="category-count" id="count-bitcoin"></span></div>
     <ol class="articles" id="list-bitcoin"></ol>
   </section>
 
@@ -289,23 +350,34 @@
       const [hero, ...rest] = items;
       const heroHtml = `
         <li class="hero ${cat.cls}">
-          <div class="hero-meta">
-            <span class="tag ${cat.cls}">${cat.tag}</span>
-            <span>${esc(hero.time)}</span>
-            <span>·</span>
-            ${hero.score != null ? `<span class="rank-score">${esc(hero.score)}<span class="rank-score-max">/15</span></span><span>·</span>` : ""}
-            <span>${esc(hero.source)}${hero.coverage > 1 ? ` · ${hero.coverage}개 매체 보도` : ""}</span>
+          <div class="hero-inner">
+            ${hero.score != null ? `
+              <div class="hero-score ${cat.cls}">
+                <span class="n">${esc(hero.score)}</span><span class="d">/15</span>
+              </div>` : ""}
+            <div class="hero-content">
+              <div class="hero-meta">
+                <span class="tag ${cat.cls}">${cat.tag}</span>
+                <span>${esc(hero.time)}</span>
+                <span>·</span>
+                <span>${esc(hero.source)}${hero.coverage > 1 ? ` · ${hero.coverage}개 매체 보도` : ""}</span>
+              </div>
+              <a class="hero-title" href="${esc(hero.link)}" target="_blank" rel="noopener">${esc(hero.title)}</a>
+              <p class="hero-snippet">${esc(hero.snippet)}</p>
+            </div>
           </div>
-          <a class="hero-title" href="${esc(hero.link)}" target="_blank" rel="noopener">${esc(hero.title)}</a>
-          <p class="hero-snippet">${esc(hero.snippet)}</p>
         </li>
       `;
       const restHtml = rest.map((item, i) => `
         <li class="compact-row">
-          <span class="compact-rank">${i + 2}</span>
+          <span class="compact-rank ${cat.cls}">${i + 2}</span>
           <span class="compact-time">${esc(item.time)}</span>
           <a class="compact-title" href="${esc(item.link)}" target="_blank" rel="noopener">${esc(item.title)}</a>
-          ${item.score != null ? `<span class="compact-score">${esc(item.score)}/15</span>` : ""}
+          ${item.score != null ? `
+            <span class="compact-score-wrap">
+              <span class="compact-score">${esc(item.score)}/15</span>
+              <span class="compact-score-bar"><span class="compact-score-bar-fill ${cat.cls}" style="width:${Math.round(item.score / 15 * 100)}%"></span></span>
+            </span>` : ""}
           <span class="compact-source">${esc(item.source)}</span>
         </li>
       `).join("");
