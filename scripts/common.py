@@ -138,38 +138,50 @@ def jaccard(a, b):
     return inter / union if union else 0.0
 
 
+def _is_match(shingles, decimals, other_shingles, other_decimals, threshold, assist_threshold, min_shared_decimals):
+    sim = jaccard(shingles, other_shingles)
+    shared_decimals = len(decimals & other_decimals)
+    matched = (
+        sim >= threshold
+        or shared_decimals >= min_shared_decimals
+        or (shared_decimals >= 1 and sim >= assist_threshold)
+    )
+    return matched, sim
+
+
 def cluster_items(items, threshold=0.4, assist_threshold=0.12, min_shared_decimals=2):
     """category 내 유사 제목 기사를 하나의 클러스터로 묶는다.
 
-    새 기사는 각 클러스터의 '대표 기사' 한 편의 shingle/숫자와만 비교한다.
-    (클러스터에 들어온 모든 기사의 shingle을 계속 합집합으로 누적하면
-    클러스터가 커질수록 기준이 느슨해져 관련 없는 기사까지 끌어들이기 쉽다.)
+    새 기사는 각 클러스터에 이미 들어있는 기사 '전원'의 shingle/숫자와 비교한다
+    (single-linkage). 클러스터의 '대표 기사' 한 편하고만 비교하면, 대표가
+    언론사 체급 때문에 다른 기사로 바뀌는 순간 그 뒤에 들어오는 진짜 중복
+    기사가 엉뚱한(대표가 바뀌기 전과 무관한) 기준과 비교되어 병합을 놓칠 수
+    있다 — 처리 순서에 따라 결과가 달라지는 버그였다.
 
     제목 유사도가 기준(threshold) 미만이어도 같은 이슈로 보는 경우:
     - 소수점 숫자가 2개 이상 겹치면(예: 46.3, 41.3) 텍스트 유사도와 무관하게 병합
     - 소수점 숫자가 1개만 겹쳐도, 텍스트 유사도가 assist_threshold 이상이면 병합
       (예: 헤드라인 수치는 하나만 공유하면서 나머지 표현이 다른 경우)
     """
-    clusters = []  # list of dict: rep_shingles, rep_decimals, domains(set), rep(item), items(list)
+    clusters = []  # list of dict: members(list of {shingles,decimals}), domains(set), rep(item), items(list)
     for item in items:
         shingles = normalize_title(item["title"])
         decimals = extract_decimals(item["title"])
         best = None
         best_sim = -1.0
         for c in clusters:
-            sim = jaccard(shingles, c["rep_shingles"])
-            shared_decimals = len(decimals & c["rep_decimals"])
-            is_match = (
-                sim >= threshold
-                or shared_decimals >= min_shared_decimals
-                or (shared_decimals >= 1 and sim >= assist_threshold)
-            )
-            if is_match and sim > best_sim:
-                best_sim = sim
-                best = c
+            for m in c["members"]:
+                matched, sim = _is_match(
+                    shingles, decimals, m["shingles"], m["decimals"],
+                    threshold, assist_threshold, min_shared_decimals,
+                )
+                if matched and sim > best_sim:
+                    best_sim = sim
+                    best = c
         if best is not None:
             best["domains"].add(item["domain"])
             best["items"].append(item)
+            best["members"].append({"shingles": shingles, "decimals": decimals})
             rep_tier = outlet_of(best["rep"]["domain"])[1]
             item_tier = outlet_of(item["domain"])[1]
             if item_tier > rep_tier:
@@ -178,11 +190,12 @@ def cluster_items(items, threshold=0.4, assist_threshold=0.12, min_shared_decima
                 best["rep_decimals"] = decimals
         else:
             clusters.append({
-                "rep_shingles": shingles,
-                "rep_decimals": decimals,
+                "members": [{"shingles": shingles, "decimals": decimals}],
                 "domains": {item["domain"]},
                 "items": [item],
                 "rep": item,
+                "rep_shingles": shingles,
+                "rep_decimals": decimals,
             })
     return clusters
 
