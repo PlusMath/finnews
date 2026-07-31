@@ -2,12 +2,921 @@
   "items": [
     {
       "category": "economy",
+      "pubDate": "2026-08-01T05:33:00+09:00",
+      "title": "최태원 14억 잭팟 vs 개미 10조 매도…역대급 상승장 두 얼굴",
+      "snippet": "거듭되면서 정부는 기록적인 증권거래세 수입을 올린 것으로 나타났다. 이날 재정경제부에 따르면 올해 상반기 증권거래세 수입은 세율 인상과 거래대금 증가가 맞물려 지난해보다 338.7% 늘어난 6조8000억원을 기록했다.",
+      "domain": "thescoop.co.kr",
+      "source": "thescoop.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/665/0000007854?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:32:00+09:00",
+      "title": "형소법 개정안의 판별법",
+      "snippet": "경제학에는 '현시 선호(revealed preference)'라는 개념이 있다. 사람은 말보다 행동으로 자신의 진짜 선호를 드러낸다는 이론이다. 정치도 크게 다르지 않다. 누군가는 거창한 명분을 외치지만, 정작 이해관계가 가장 큰 사람이...",
+      "domain": "ngonews.kr",
+      "source": "ngonews.kr",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=234318"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:32:00+09:00",
+      "title": "\"지금도 수백억 자체 조달하는데\"…교육교부금 개편에 다문화 교육 우려",
+      "snippet": "30일 경기일보 취재를 종합하면 기획예산처는 최근 3년간 평균 경제성장률과 학령인구 변화를 반영해 교부금을 산정하는 개편안을 8월 말까지 도출할 예정이다. 올해 내국세의 20.79% 자동 배정으로 형성된 교육교부금...",
+      "domain": "kyeonggi.com",
+      "source": "kyeonggi.com",
+      "link": "https://n.news.naver.com/mnews/article/666/0000117414?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:32:00+09:00",
+      "title": "청와대 \"호르무즈 기여 방안, 다양한 가능성 검토하는 단계\"",
+      "snippet": "또 \"정부는 호르무즈 자유 통항은 우리 경제와 안보에도 중요한 이해관계가 있는 사안인 만큼 적극적으로 참여하고 기여해야 한다는 판단 아래 우리가 할 수 있는 옵션을 검토하는 상황\"이라고 거듭 설명했습니다. 미국이...",
+      "domain": "jtbc.co.kr",
+      "source": "JTBC",
+      "link": "https://n.news.naver.com/mnews/article/437/0000504068?sid=100"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T05:31:00+09:00",
+      "title": "“죽도록 모아서 쥔 게 한 달 용돈 30만원, 풍족한 노후는 환상이었어”",
+      "snippet": "김씨는 “종잣돈을 모아 부동산을 마련한 것이 결국 노후 자산이 됐다”고 말했습니다. 인테리어업을 하는 이모(58) 씨는 4명의 자녀 양육비와 교육비에 수입을 쏟아부었습니다. 이씨는 “아이들이 아직 학생이라 한...",
+      "domain": "chosun.com",
+      "source": "조선일보",
+      "link": "https://n.news.naver.com/mnews/article/023/0003990834?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:30:00+09:00",
+      "title": "뉴욕증시, 아마존 훈풍에 일제히 상승 마감…나스닥 1%↑",
+      "snippet": "브라운브라더스해리먼의 엘리아스 하다드는 \"견조한 미국 경제 활동이 달러에 주는 순풍은, 워시 의장이... 주요 경제 지표를 둘러싼 변동성이 커질 수 있다고 내다봤다. 그는 \"노동 여건이 예상 밖으로 과열된다면...",
+      "domain": "newspim.com",
+      "source": "newspim.com",
+      "link": "https://www.newspim.com/news/view/20260801000017"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T05:30:00+09:00",
+      "title": "집값 하락론자 돌아섰다…한문도 \"공급 없는 세금 정책은 실패\"",
+      "snippet": "강세훈 기자, 정재훈 인턴기자 = 대표적인 부동산 하락론자로 꼽혀온 한문도 서울디지털대 교수가 최근 자신의 기존 전망과 관련해 입장을 밝히며 정부의 부동산 정책을 비판했다. 한 교수는 지난 29일 부동산 전문 유튜브...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102057?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:28:00+09:00",
+      "title": "파주시, '자동차 과태료 알림톡' 도입…8월부터 시행",
+      "snippet": "한경희 차량등록사업소장은 모바일 전자고지를 통해 시민이 과태료 부과 사실을 신속히 확인하고 경제적 불이익을 피할 수 있도록 납부 편의를 확대하겠다고 말했다. 파주시 측은 자동차 명의이전이나 폐차 과정에서...",
+      "domain": "bizwnews.com",
+      "source": "bizwnews.com",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=141945"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:28:00+09:00",
+      "title": "한-아르헨 정상회담...내년부터 아르헨 원유 정식 수입",
+      "snippet": "회담 성과를 지속해서 관리하고 새 사업을 발굴하기 위해 양국은 경제공동위원회와 에너지자원협력위원회를... 위 실장은 \"오늘 확대회담에서는 한반도 평화보다 경제나 AI 협력 등이 주로 논의됐다\"며 \"브라질의 경우...",
+      "domain": "tjb.co.kr",
+      "source": "tjb.co.kr",
+      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/101818"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:26:00+09:00",
+      "title": "뉴욕주, 예측 시장 플랫폼 칼시 고소...\"불법 도박\"",
+      "snippet": "미국의 경제 매체인 CNBC는 CFTC가 뉴욕주의 소송 제기 직전인 7월 30일 밤, 연방 법원에 뉴욕주의 주법 적용 및... 이후 스포츠와 정치, 경제 이벤트까지 거래 대상이 확대되면서 감독 권한이 연방 정부에 있는지, 개별 주...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002387445?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:26:00+09:00",
+      "title": "위성락 안보실장 \"호르무즈 기여 가능한 옵션 검토 중\"",
+      "snippet": "위 실장은 현지 시각 7월 31일 부에노스아이레스에서 진행한 브리핑에서, 호르무즈 자유 통항은 우리 경제 안보의 중요한 이해관계라며 이같이 말했습니다. 다만, 미국 측이 구체적으로 요구하고 있진 않고, 우리가 할 수...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002387444?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:23:00+09:00",
+      "title": "아르헨티나산 원유 88만배럴 시범도입 후 내년 수입 개시…원유공급선...",
+      "snippet": "뉴시스 양국은 이번 정상회담의 성과를 지속적으로 관리하고 새로운 사업을 발굴할 후속 추진체계로서 경제공동위원회와 에너지자원협력위원회도 재가동하기로 했다. 위 실장은 “경제공동위원회에서는 교역과 투자...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004147518?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:22:00+09:00",
+      "title": "청와대 “호르무즈 기여 방안, 다양한 가능성 검토하고 있는 단계”",
+      "snippet": "이어 \"정부는 호르무즈해협의 자유로운 통항이 우리 경제 안보에 중요한 이해관계이기 때문에 적극 참여하고 기여해야 한다는 생각 하에 할 수 있는 가능한 옵션을 검토하는 중에 있다\"고 거듭 설명했습니다. 최근 경기...",
+      "domain": "kbs.co.kr",
+      "source": "KBS",
+      "link": "https://n.news.naver.com/mnews/article/056/0012229445?sid=100"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T05:21:00+09:00",
+      "title": "교황청도 ‘짭짤한’ 투자 수익…채권·금·주식순 투자",
+      "snippet": "금 가격 상승과 보유 부동산의 가치 오름세에 힘입어 교황청의 순자산이 작년 한 해 큰 폭으로 늘어난... 자산 가치 상승을 견인한 핵심 축은 금과 부동산이다. 글로벌 원자재 시장의 금값 강세로 교황청 보유 금...",
+      "domain": "dt.co.kr",
+      "source": "dt.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/029/0003040057?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:19:00+09:00",
+      "title": "靑 “호르무즈 안정 기여 방안 검토 중…국회·여론 공감대 우선”",
+      "snippet": "이어 “호르무즈 해협의 자유 통항은 우리 경제와 안보에 직결된 핵심 이해관계”라며 “국제사회의 노력에 적극 동참한다는 기본 방침 아래 실행 가능한 모든 옵션을 면밀히 따져보고 있다”고 덧붙였다. 최근 경기 파주...",
+      "domain": "mk.co.kr",
+      "source": "매일경제",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715239?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:16:00+09:00",
+      "title": "'진보·보수 넘어 기질 잘 맞았다'…李·밀레이, AI·속도전 공감대”",
+      "snippet": "이어 “밀레이 대통령은 보수 성향의 경제학자 출신 정치인이고 이 대통령은 진보적인 정치인이라 선입견을... 경제협력 논의에서는 교역 확대 필요성도 강조됐다. 양국 교역 규모는 지난해 기준 약 14억달러 수준으로...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341821?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:13:00+09:00",
+      "title": "靑 \"美, 호르무즈 해협 기여 가능한 영역 타진해와 협의\"",
+      "snippet": "그는 \"정부는 호르무즈 자유 통항은 우리 경제와 안보에 있어서도 중요한 이해관계가 있는 사안인 만큼 적극 참여하고 기여해야 한다는 판단 아래 우리가 할 수 있는 옵션을 검토하는 상황\"이라고 설명했다....",
+      "domain": "hankyung.com",
+      "source": "한국경제",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316237?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:12:00+09:00",
+      "title": "한·아르헨티나 정상회담…\"내년 아르헨 원유 수입, 핵심광물 협력\"",
+      "snippet": "아울러 아르헨티나산 원유 도입을 본격화하고 이중과세방지협정 협상을 최종 타결했으며, 한·메르코수르(Mercosur·남미공동시장) 무역협정 협상을 연내 재개하는 데 뜻을 모으는 등 경제협력의 외연을 넓혔다. 위성락...",
+      "domain": "fnnews.com",
+      "source": "파이낸셜뉴스",
+      "link": "https://n.news.naver.com/mnews/article/014/0005555798?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:10:00+09:00",
+      "title": "청와대 \"호르무즈 기여 방안, 다양한 가능성 검토하는 단계\"",
+      "snippet": "위 실장은 \"정부는 호르무즈 자유 통항은 우리 경제와 안보에 있어서도 중요한 이해관계가 있는 사안인 만큼 적극 참여하고 기여해야 한다는 판단 아래 우리가 할 수 있는 옵션을 검토하는 상황\"이라고 거듭 설명했습니다....",
+      "domain": "sbs.co.kr",
+      "source": "SBS",
+      "link": "https://n.news.naver.com/mnews/article/055/0001377155?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:10:00+09:00",
+      "title": "靑 \"한-메르코수르 무역협정 협상 연내 재개…내년부터 아르헨 원유 수...",
+      "snippet": "이를 위한 한-칠레 자유무역위원회 재개뿐 아니라 한-브라질 경제·통상위원회 가동, 한-아르헨... 양국은 경제공동위원회와 에너지자원협력위원회를 재가동해 이날 정상회담 합의 사항의 후속 추진을 관리하기로 했다....",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102055?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:10:00+09:00",
+      "title": "李·밀레이 정상회담 “핵심 광물·에너지 경제 안보 협력 강화”",
+      "snippet": "주요 경제 안보 사안에 대한 협력 강화에 뜻을 모았다. 한국 대통령이 다자회의 개최지가 아닌 양자... 남미 최대 경제 협력체인 메르코수르에서 아르헨티나는 브라질과 함께 핵심 회원국 위치에 있다. 한국과...",
+      "domain": "chosun.com",
+      "source": "조선일보",
+      "link": "https://n.news.naver.com/mnews/article/023/0003990833?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:07:00+09:00",
+      "title": "韓-남미 3국 '핵심광물 공급망' 협력…\"메르코수르 협상 재개\"(종합)",
+      "snippet": "아울러 경제공동위원회와 에너지자원협력위원회를 재가동하기로 했다. 위 안보실장은 \"경제공동위에서 교역과 투자, 기업 애로사항과 시장 접근 문제를 폭넓게 점검하고, 에너지자원협력위에서 리튬과 구리, 원유 및...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091430?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:06:00+09:00",
+      "title": "“호화 주택 월세에 사교육비까지”…무려 23억 횡령한 경리, 감형받은...",
+      "snippet": "1일 법조계에 따르면 수원고법 제14형사부는 특정경제범죄가중처벌법상 횡령 및 업무상배임 혐의로... 재판부는 피해 회사가 입은 경제적 손실이 막대함에도 피해 회복이 제대로 이뤄지지 않은 점은 불리한...",
+      "domain": "sedaily.com",
+      "source": "서울경제",
+      "link": "https://n.news.naver.com/mnews/article/011/0004647492?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:05:00+09:00",
+      "title": "취임 한 달 韓총리의 국정 색깔…'현장·효율·조용한 리더십'",
+      "snippet": "한 총리는 지난 29일 매주 열리던 비상경제점검회의를 필요한 경우 개최하기로 했다. 차관급 공무원들도 각종... 배경훈 부총리 겸 과학기술정보통신부 장관은 AI를 중심으로 한 기술 분야를, 구윤철 부총리 겸 재정경제부...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091428?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:04:00+09:00",
+      "title": "[최주현의 객석에서] 뮤지컬 베토벤, 음악은 깊었지만 감정은 서둘렀다",
+      "snippet": "사진=EMK뮤지컬컴퍼니 한국금융경제신문=최주현 기자 | 뮤지컬 <베토벤>은 위대한 음악가 루트비히 판 베토벤의 삶을 단순한 위인전으로 풀어내지 않는다. 청력을 잃어가면서도 끝내 음악을 포기하지 않았던 한 인간의...",
+      "domain": "kfenews.co.kr",
+      "source": "kfenews.co.kr",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661721"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:03:00+09:00",
+      "title": "韓·아르헨, 핵심광물 MOU 체결…내년부터 원유 수입 본격화",
+      "snippet": "경제 통상 분야에서는 이중과세방지협정이 최종 타결돼 현지 진출 한국 기업들의 세금 부담을 줄이고 투자 예측 가능성을 높이게 됐다. 아울러 양국은 브라질·아르헨티나 등이 속한 남미 최대 경제 블록인 메르코수르...",
+      "domain": "mk.co.kr",
+      "source": "매일경제",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715238?sid=100"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T05:02:00+09:00",
+      "title": "[마켓인]\"설립 수개월만에 수백억\"…실적 없이 투자금 몰린 이 사업, 뭐...",
+      "snippet": "AI 반도체는 항공기나 부동산보다 기술 변화가 빨라 고가에 구입한 장비의 가치가 단기간에 떨어질 수 있다. 장비가 노후화하기 전에 안정적인 장기 고객을 얼마나 확보하느냐가 수익성을 가를 것으로 보인다. 세드릭...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341819?sid=101"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T05:02:00+09:00",
+      "title": "'폭염' 속 주말 도심 물놀이장…집회 등 교통 통제는 유의[사회in]",
+      "snippet": "수영장과 물놀이장에 설치된 폐쇄회로(CC)TV 136대로 범죄와 안전사고를 확인하고 탈의실과 화장실 등에는 불법촬영 예방 안내문과 현수막을 설치했다. 하루 3회 이상 안전수칙 안내방송도 한다. 2일에는 시에서 개최하는...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341818?sid=102"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-01T05:02:00+09:00",
+      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 2억 8969만 달러 청산",
+      "snippet": "암호화폐 청산 데이터 / 코인글래스 코인별로는 비트코인(BTC) 관련 포지션이 가장 많이 청산되었다. 24시간 동안 비트코인 포지션에서 약 1억 2610만 달러가 청산되었으며, 4시간 기준으로는 최대 74만 달러의...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/383458"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-01T05:02:00+09:00",
+      "title": "[모닝 시세브리핑] 암호화폐 시장 하락세… 비트코인 62,955달러, 이더리...",
+      "snippet": "토큰포스트마켓에 따르면 현재 기준 비트코인은 전날 대비 2.74% 하락한 62,955.25달러(약 9,089만 원)에 거래되고 있다. 이더리움은 전날 대비 2.92% 내린 1,866.25달러(약 269만 원)를 기록했다. 암호화폐 시세 데이터...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/briefing/383457"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "상반기는 국장의 들쑥날쑥 변동에 지쳤다면 \"하반기는 미장\"[경제적 본...",
+      "snippet": "핵심요약 '경제적본능'은 주중 오후 5시 CBS표준FM 98.1Mhz와 6시 유튜브 채널 CBS경제연구실에 업로드되는 경제 전문 프로그램입니다. 부자가 되고 싶은 우리의 경제적 본능을 인정하고 우리 경제를 둘러싼 조건을 탐구하며...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004174466?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "제조업 탈탄소를 성장 동력으로…'K-GX' 전략 발표 임박[기후로운 경제...",
+      "snippet": "편집자 주 '기후로운 경제생활'은 CBS가 국내 최초로 '기후'와 '경제'를 접목한 경제 유튜브/라디오 프로그램입니다. 한국의 대표 기후경제학자 서울대 환경대학원 홍종호 교수와 함께합니다. 매주 목/금 오후 9시...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004174469?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "\"박살 난 계좌, 내 인생도 망했다\"…병원 찾는 2030[주식 우울증①]",
+      "snippet": "최근 청년층의 취업난과 고용 불안, 치솟는 주거비, 치열한 경쟁 등 사회·경제적 부담이 청년들의... 자산 규모와 관계없이 '앞으로 경제적으로 가난해질 것'이라는 두려움에 사로잡히고, 이러한 경제적 불안이 기존의...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102050?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "“상한가에도 눈물이”…계좌 녹아내린 삼전닉스 개미들, 다음주도 가시...",
+      "snippet": "마냥 어렵다고 느낄 수 있는 ‘돈’에 대한 허물이 벗겨지는 순간 경제에 대한 흥미로움을 느낄 수 있습니다. 돈과 관련된 다양한 사례들이 쏟아지는 사회, 돈에 얽힌 각종 이야기와 함께 경제 이슈를 짚어보는 시간을...",
+      "domain": "dt.co.kr",
+      "source": "dt.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/029/0003040056?sid=105"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "\"보수정부도 못한 걸\"…勞반발에도 李정부 '메가프로젝트 올인'?",
+      "snippet": "민주노총 내부의 사회적 대화 논의에 제동이 걸릴 수 있다는 전망과 함께 노정 갈등이 격화할 경우 한국노총이 경제사회노동위원회에서 이탈할 가능성도 거론된다. 오 실장은 \"최악의 경우 민주노총의 사회적 대화...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004174474?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "수사하는 검사, 78년 만에 사라진다…초기 혼란 불가피",
+      "snippet": "앞서 문재인 정부는 2022년 검찰의 직접수사 가능 범죄를 기존 6개(공직자·방위사업·대형참사·선거·경제·부패)에서 2개(경제·부패)로 축소했다. 이어 민주당은 올해 3월, 공소청법을 통과시키며 검사는 기소만 맡도록...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004174467?sid=102"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T05:01:00+09:00",
+      "title": "\"작은 단지라도 좋아\"...306대 1 경쟁률 쓴 이곳 [권준호의 요·아·정]",
+      "snippet": "앞으로 매주, 부동산 플랫폼에서 주간 조회수 1위에 오른 아파트들을 직접 가서 그 특징과 장단점을... 한국부동산원 청약홈에 따르면 이 단지 102동 503호가 불법전매 등 공급질서 교란으로 계약이 취소됐습니다. 다만...",
+      "domain": "fnnews.com",
+      "source": "파이낸셜뉴스",
+      "link": "https://n.news.naver.com/mnews/article/014/0005555795?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "보험사기 데이트?···연인은 그렇게 공범이 됐다 [거짓을 청구하다]",
+      "snippet": "재판부는 \"보험사기 범죄는 다수의 선량한 보험 가입자들에게 경제적 피해를 전가시키는 것은 물론 보험제도 등에 대한 일반의 신뢰를 떨어뜨림으로써 사회 전체적으로 불신에 따른 비용을 증가시킨다\"며 \" A씨와 B씨는...",
+      "domain": "fnnews.com",
+      "source": "파이낸셜뉴스",
+      "link": "https://n.news.naver.com/mnews/article/014/0005555794?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "[임희윤의 시대&뮤직] 방탄소년단과 그래미 파워 게임",
+      "snippet": "임희윤 대중문화평론가: 전 동아일보, 헤럴드경제 기자. 현 한국대중음악상 선정위원, 국립국악원 운영자문위원, YTN 시청자위원. 저서 '예술기: 예술과 기술을 이야기하는 8인의 유니버스', '망작들 3: 당신이 음반을 낼...",
+      "domain": "sidae.com",
+      "source": "sidae.com",
+      "link": "https://n.news.naver.com/mnews/article/417/0001153975?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "靑, 호르무즈 기여 방안 검토…\"가능한 옵션 살펴보는 단계\"",
+      "snippet": "그는 “정부는 호르무즈에서의 자유로운 통항이 우리 경제안보의 중요한 이해관계라고 보고 있다”며 “적극적으로 참여하고 기여해야 한다는 생각 아래 우리가 선택할 수 있는 가능한 옵션을 검토하고 있다”고 말했다....",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341816?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "최태원 매수한 SK하닉 3600주 순간 포착한 슈카?…실제 주인공은 \"XXX\"",
+      "snippet": "최태원 SK그룹 회장의 SK하이닉스 주식 장내 매수 소식이 전해진 뒤 경제 유튜버 슈카의 생방송에서 포착된 대량 매수 주문이 최 회장의 거래였다는 '설'이 확산되며 관심을 불러 모았다. 그러나 해당 거래는 최 회장의...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091415?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "[인터뷰] 송영길 \"오늘부로 정청래 연임 명분 끝…이제 쉬어야\"",
+      "snippet": "문재인 대통령 때는 북방경제협력위원장을 맡았고, 이재명 대통령 대선 때는 당대표로... 직속 북방경제협력위원장 △21대 국회 외교통일위원회 위원장 △더불어민주당 대표 △소나무당 대표 △16·17·18·20·21·22대 국회의원",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091424?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "[이슈] 현대건설 한 분기에 19조 수주... 상반기 83% 몰렸다",
+      "snippet": "8% 증가했다. 매출이 1조원 넘게 빠지는 동안 이익은 오히려 두꺼워진 셈이다. 업계는 상반기에 확보한 수주 물량이 매출로 인식되는 시점부터 외형 감소 흐름이 되돌려질 것으로 본다. 오늘경제",
+      "domain": "startuptoday.co.kr",
+      "source": "startuptoday.co.kr",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808417"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "[딜로이트 글로벌 경제 리뷰] 7월 FOMC '매파적 동결'과 정책 불확실성",
+      "snippet": "하지만 워시 의장은 9월 금리 인상 여부는 확실치 않으며, 결정은 앞으로 발표될 경제 지표에 달려 있다는... ◇ 모호한 연준 의장의 태도 7월 FOMC 성명서는 중동 분쟁 등으로 불확실성이 높아졌음에도 불구하고 경제...",
+      "domain": "financialpost.co.kr",
+      "source": "financialpost.co.kr",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268571"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "[오늘의 날씨] 강원(1일, 토)…낮 최고 37도, 동해안 강풍",
+      "snippet": "동해안·산지는 이날까지 바람이 초속 15m(산지 초속 20m) 안팎으로 강하게 불어 시설물 관리와 안전사고에 유의해야 한다. 또 동해안에는 약한 너울이 유입되는 곳이 있겠다. 바다의 물결은 동해중부 앞바다 0.5...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091426?sid=102"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T05:00:00+09:00",
+      "title": "8월 첫날도 '찜통더위'⋯전국 대부분 열대야 계속 [날씨]",
+      "snippet": "기상청은 항해나 조업하는 선박과 해상교통 이용객은 운항 정보를 미리 확인해 달라고 당부했다. 또 달의 인력이 강해 바닷물의 높이가 높은 기간인 만큼 해안가 저지대에서는 침수 등 안전사고에도 주의해야 한다.",
+      "domain": "etoday.co.kr",
+      "source": "etoday.co.kr",
+      "link": "https://www.etoday.co.kr/news/view/2609870"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:58:00+09:00",
+      "title": "거제시의회, 생명을 구하는 '자살예방 릴레이 캠페인' 전개",
+      "snippet": "이번 캠페인은 최근 심화되는 사회적·경제적 어려움 속에서 정신건강 고위험군을 조기에 발견하고, 시민 모두가 주변 이웃의 아픔에 관심을 기울이는 촘촘한 지역사회 안전망을 구축하기 위해 마련됐다. 안석봉 의장은...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102039?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:52:00+09:00",
+      "title": "아르헨산 원유 88만 배럴 첫 도입…\"포스코 리튬공장 세제 혜택\"(종합)",
+      "snippet": "양국은 경제공동위원회와 에너지자원협력위원회도 재가동하기로 했다. 위 안보실장은 \"경제공동위에서 교역과 투자, 기업 애로사항과 시장 접근 문제를 폭넓게 점검하고, 에너지자원협력위에서 리튬과 구리, 원유 및...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091413?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:51:00+09:00",
+      "title": "靑 \"호르무즈 기여, 여러 가능성 검토하는 단계\"",
+      "snippet": "그러면서 “호르무즈 자유 통항은 우리 경제와 안보에 있어서도 중요한 이해관계가 있는 사안”이라며 기여 필요성을 강조했다. 위 실장은 “적극 참여하고 기여해야 한다는 판단 아래 우리가 할 수 있는 옵션을 검토하는...",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945633?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:48:00+09:00",
+      "title": "위성락 “호르무즈 기여 검토… 정부 혼자 결정할 사안 아니다”",
+      "snippet": "그러면서 위 실장은 “호르무즈해협의 자유통항은 우리의 경제안보에 있어 중요한 이해관계”라며 “그런 과정에 적극적으로 참여하고 기여한다는 입장 아래 가능한 걸 검토하고 있다”고 말했다.",
+      "domain": "hani.co.kr",
+      "source": "한겨레",
+      "link": "https://n.news.naver.com/mnews/article/028/0002816691?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:47:00+09:00",
+      "title": "靑 “호르무즈 해협, 우리가 할 수 있는 영역에 대해 타진 중”",
+      "snippet": "그러면서 “정부는 호르무즈의 자유 통항이 우리의 경제 안보에 중요한 이해관계”라며 “그래서 그런 과정에 적극 참여하고 기여해야 한다는 생각하에 우리가 할 수 있는 가능한 옵션을 검토하는 중에 있다”고 밝혔다....",
+      "domain": "seoul.co.kr",
+      "source": "서울신문",
+      "link": "https://n.news.naver.com/mnews/article/081/0003666666?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:44:00+09:00",
+      "title": "22년 만에 다시 맞잡은 한·아르헨…李, 리튬·원유 공급망 넓힌다",
+      "snippet": "그는 \"포스코가 이미 대규모 투자를 통해 리튬을 생산하고 있으며, 생산성과 경제성도 확보했다\"며 \"그동안... 내년 이후 도입 규모는 시범 물량의 품질과 경제성 등을 확인한 뒤 정유사별로 결정한다. 양국 정부는 향후...",
+      "domain": "daily.hankooki.com",
+      "source": "daily.hankooki.com",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1391784"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:43:00+09:00",
+      "title": "한-아르헨 정상회담…\"광물 협력체계 마련·원유 수입 다변화\"",
+      "snippet": "양국은 또 경제공동위원회와 에너지자원협력위원회를 재가동하는 등 이번 회담 성과를 지속적으로 관리해 나갈 후속 추진체계도 마련했다. 경제공동위원회에서는 교역과 투자, 기업 애로사항과 시장 접근 문제를 폭넓게...",
+      "domain": "mt.co.kr",
+      "source": "머니투데이",
+      "link": "https://n.news.naver.com/mnews/article/008/0005394178?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:41:00+09:00",
+      "title": "아르헨서 내년부터 원유 수입…이중과세 방지협정 최종 타결(종합)",
+      "snippet": "가동…경제공동委 재가동해 韓 남미 접근성 강화 임형섭 황윤기 기자 = 아르헨티나를 공식 방문 중인 이재명... 이 같은 회담 성과를 지속해 관리하고 새 사업을 발굴하기 위해 양국은 경제공동위원회와...",
+      "domain": "yna.co.kr",
+      "source": "연합뉴스",
+      "link": "https://n.news.naver.com/mnews/article/001/0016227931?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:38:00+09:00",
+      "title": "'전기톱 대통령'과도 통했다…李대통령, 밀레이와 AI·속도전 공감대",
+      "snippet": "국가의 역할을 둘러싼 경제철학은 정반대였지만, 인공지능(AI)과 산업 경쟁력, 정책의 '속도'를 놓고는... 이를두고 청와대는 양국 정상이 경제안보와 기술 경쟁력이라는 새로운 시대 과제를 놓고 예상보다 깊은 공감대를...",
+      "domain": "einfomax.co.kr",
+      "source": "einfomax.co.kr",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428133"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:38:00+09:00",
+      "title": "한울본부, 2027년도 한수원지원사업 공모…7월 31일부터 접수",
+      "snippet": "교육·복지·지역 경제 등 6개 분야 지원…8월 말까지 온라인·오프라인 병행 접수 아주경제=최주호 기자 cjh@ajunews.com 한울원자력본부 전경. [사진=한울원자력본부] 한국수력원자력 한울원자력본부가 원전 주변지역...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20260801043405360"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:37:00+09:00",
+      "title": "美·日·韓 등 11개국, '북한 IT 인력 사기' 공동경보 발령",
+      "snippet": "(사진=연합뉴스) 이번 경보는 미국 국무부·연방수사국(FBI)을 비롯해 우리나라 외교부·경찰청과 일본 외무성·국가사이버안보국·경찰청·재무성·경제산업성, 호주 외교통상부, 캐나다 외교부·왕립기마경찰(RCMP), 프랑스...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341814?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:37:00+09:00",
+      "title": "靑 \"내년 아르헨티나 원유 수입 개시...공급선 확대 전기\"",
+      "snippet": "당장은 경제성이 떨어질 수 있지만 잦은 분쟁으로 수급 안정성이 떨어지는 중동 원유 도입 의존도를 중장기적으로 낮추겠다는 구상이다. 한·아르헨티나 양국은 교역과 투자, 기업 애로사항을 점검하는 경제공동위원회와...",
+      "domain": "hankyung.com",
+      "source": "한국경제",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316235?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:37:00+09:00",
+      "title": "위성락, 호르무즈 군 자산 파견에 \"국회·여론 등 공감대 남아\"",
+      "snippet": "위 실장은 \"호르무즈에서의 자유 통항은 우리 경제안보에 중요한 이해관계\"라며 \"그렇기 때문에 그런 과정에 적극 참여하고 기여해야 한다는 생각 하에 가능한 옵션을 검토하고 있다\"고 밝혔다. 위 실장은 한미 연합훈련 중...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102036?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:36:00+09:00",
+      "title": "'20년 묵은 과세 장벽 걷었다'…아르헨 이중과세방지협정 타결의 의미",
+      "snippet": "리튬과 구리, 원유·가스 등 경제안보 분야에서 양국 기업의 투자가 확대되는 시점에 과세권 배분 원칙을 명확히 명문화 함으로써 기업의 세 부담과 투자 불확실성을 낮출 제도적 기반을 마련했다는 평가가 나온다....",
+      "domain": "einfomax.co.kr",
+      "source": "einfomax.co.kr",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428132"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:35:00+09:00",
+      "title": "靑 \"호르무즈 기여 방안, 다양한 가능성 검토하는 단계\"",
+      "snippet": "그는 \"정부는 호르무즈 자유 통항은 우리 경제와 안보에 있어서도 중요한 이해관계가 있는 사안인 만큼 적극 참여하고 기여해야 한다는 판단 아래 우리가 할 수 있는 옵션을 검토하는 상황\"이라고 거듭 설명했다. 최근 경기...",
+      "domain": "yna.co.kr",
+      "source": "연합뉴스",
+      "link": "https://n.news.naver.com/mnews/article/001/0016227913?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:32:00+09:00",
+      "title": "동해 중부 연안 고수온 예비특보…포항시, 양식수산물 피해 예방 총력",
+      "snippet": "고수온 대응 7개 사업에 40억원 투입…순환펌프·액화산소 등 2000여 대 장비 확보 아주경제=최주호 기자 cjh@ajunews.com 육상양식장 강도다리 수조에 사육에 필요한 액화산소를 공급하는 장면. [사진=포항시] 동해 중부...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20260801042544359"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T04:32:00+09:00",
+      "title": "[오늘의 날씨] 북태평양고기압 영향으로 낮 최고 39도…전국 폭염·열대...",
+      "snippet": "등 안전사고에 각별히 유의해야 한다. 바다에서는 당분간 서해상과 남해서부해상에 해수면과 공기 온도 차이로 바다 안개가 자주 발생하면서 일부 섬 지역에는 가시거리 200m 미만의 매우 짙은 안개와 함께 이슬비가...",
+      "domain": "topstarnews.net",
+      "source": "topstarnews.net",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151810"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:30:00+09:00",
+      "title": "미·사우디 원자력 협정과 한국의 대응 방안 [4강의 시선]",
+      "snippet": "특정 현안만을 분리해 접근하기보다는 동맹 전반을 안정적으로 관리해 나가면서, 장기적 시각을 갖고 관련 사안들을 단계적으로 풀어 나가야 한다. 엘렌 김 한미경제연구소(KEI) 선임연구원",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945626?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:30:00+09:00",
+      "title": "밀양시 농촌 체류형 복합단지 조성 국비 15억 원 확보",
+      "snippet": "특히 기존 지역 자원과 연계해 농촌에 머무르는 인구를 늘리고 지역 경제에 활력을 불어넣는 계기가 될 것으로 전망된다. 박상웅 의원은 \"이번 공모 선정은 밀양이 지방소멸 위기에 대응하고 새로운 농촌 모델을...",
+      "domain": "pinpointnews.co.kr",
+      "source": "pinpointnews.co.kr",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472952"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T04:30:00+09:00",
+      "title": "3주 만에 '검수완박' 마침표 찍은 민주당… 개혁의 늪 빠져나와 민생 향...",
+      "snippet": "검찰개혁 입법에 종지부를 찍은 민주당은 부동산 등 민생 이슈로 무게중심을 옮길 계획이지만, 향후 당내 노선 갈등, 보완수사권 폐지 후폭풍 등 적잖은 난관이 예상된다. \"10년 검찰개혁 매듭짓고 민생 이슈로 전환\" 민주당...",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945621?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:28:00+09:00",
+      "title": "韓·아르헨 정상, 핵심광물 MOU 체결...원유 수입 늘리기로",
+      "snippet": "남미 최대 경제 협력체인 메르코수르에서 아르헨티나는 브라질과 함께 핵심 회원국 위치에 있다. 한국과... 또 양국은 경제공동위원회와 에너지자원협력위원회를 재가동하기로 했다. 경제공동위원회는 교역과 투자, 기업...",
+      "domain": "chosun.com",
+      "source": "조선일보",
+      "link": "https://n.news.naver.com/mnews/article/023/0003990831?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:28:00+09:00",
+      "title": "위성락 \"호르무즈 기여, 가능한 옵션 검토…美구체 요구 없어\"",
+      "snippet": "특히 \"호르무즈에서의 자유 통항이 우리의 경제 안보의 중요한 이해관계\"라면서 \"그런 과정에 적극 참여하고 기여해야 된다는 생각 하에 우리가 할 수 있는 가능한 옵션을 검토하는 중에 있다\"고 강조했다. 이 밖에 위...",
+      "domain": "fnnews.com",
+      "source": "파이낸셜뉴스",
+      "link": "https://n.news.naver.com/mnews/article/014/0005555791?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:28:00+09:00",
+      "title": "'영주의 밤을 더 시원하게! 더 짜릿하게! 만들 트롯거성' 이찬원, '2026 영...",
+      "snippet": "축제에서는 다양한 장르의 공연과 지역 먹거리, 감성적인 야장 공간, 세대가 함께 참여할 수 있는 체험 프로그램을 운영하여 방문객 만족도를 높이고, 지역 상권과 연계한 축제 운영으로 지역경제 활성화와 원도심에...",
+      "domain": "topstarnews.net",
+      "source": "topstarnews.net",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151784"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:28:00+09:00",
+      "title": "오픈AI, 활성이용자 10억명 달성…출시 3년 8개월만",
+      "snippet": "새러 프라이어 오픈AI 최고재무책임자(CFO)는 이와 같은 가격 인하를 \"풍요의 경제학\" 전략이라고 소개했다. 프라이어 CFO는 \"유용한 지능의 비용이 낮아지면 수행할 가치가 있는 작업의 범위가 넓어진다\"며...",
+      "domain": "yna.co.kr",
+      "source": "연합뉴스",
+      "link": "https://n.news.naver.com/mnews/article/001/0016227911?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:27:00+09:00",
+      "title": "트럼프 승리 맞혀 뜨더니…\"벌금 52조원\" 뉴욕주, 칼시에 불법도박 소송",
+      "snippet": "선거 결과 외에 스포츠, 정치, 경제 사안까지 거래 대상이 확대되면서 감독 권한이 연방 정부에 있는지, 주정부에도 있는지를 둘러싼 소송이 이어지고 있다. 칼시는 뉴욕시에 본사를 두고 있다.",
+      "domain": "mt.co.kr",
+      "source": "머니투데이",
+      "link": "https://n.news.naver.com/mnews/article/008/0005394177?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:26:00+09:00",
+      "title": "내년부터 아르헨티나산 원유 수입…이중과세방지협정도 타결 [종합]",
+      "snippet": "자원과 에너지 협력에 기업 투자와 시장 진출을 뒷받침할 제도적 기반까지 더하면서 양국 경제협력이 한층... 이후 정제 적합성과 경제성 등을 검증한 뒤 상업적 구매 여부와 도입 규모를 결정하게 된다. 다만 당장 내년...",
+      "domain": "etoday.co.kr",
+      "source": "etoday.co.kr",
+      "link": "https://www.etoday.co.kr/news/view/2609946"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T04:26:00+09:00",
+      "title": "[강원도 날씨예보] 동해안 37도 폭염 지속…열대야·강풍까지 건강관리...",
+      "snippet": "강원동해안과 산지 일부에는 강풍도 예상돼 시설물 관리와 안전사고에 주의가 요구된다. 기상청에 따르면 현재 강원동해안과 동해산지, 삼척산지, 춘천에는 폭염경보가, 강원내륙(춘천 제외)과 인제·속초·양양·강릉...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83825"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:22:00+09:00",
+      "title": "인천 미추홀구의회, 소상공인연합회와 골목상권 살리기 머리 맞대",
+      "snippet": "김진구 미추홀구의회 의장은 “어려운 여건 속에서도 지역 경제를 버텨주는 소상공인들에게 감사하다”라며 “의회 차원에서도 실질적인 지원책이 마련될 수 있도록 의회 차원의 역할을 다하겠다\"고 말했다.",
+      "domain": "kpenews.com",
+      "source": "kpenews.com",
+      "link": "https://kpenews.com/View.aspx?No=4170600"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:22:00+09:00",
+      "title": "새마을금고 'MG따숨봉사단', 취약 어르신 주거 환경 개선 봉사활동 전개",
+      "snippet": "지난 6월 'MG희망나눔 사회연대경제조직 육성사업'선정 기업인 '화수정원마을관리사회적협동조합'과 함께 독거 어르신 주거환경 정화 활동을 진행한 데 이어 두 번째 연계 활동이라고 한다. 이날 봉사에는...",
+      "domain": "bizwnews.com",
+      "source": "bizwnews.com",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=142043"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:20:00+09:00",
+      "title": "내년부터 아르헨 원유 수입… 리튬 채굴 공동 프로젝트 추진",
+      "snippet": "양국은 아울러 한국·메르코수르 무역협정 협상의 조속한 재개를 추진하는 데에도 뜻을 모았다. 이 같은 회담 성과를 관리하고 새 사업을 발굴하기 위한 양국 경제공동위원회·에너지자원협력위원회도 재가동된다.",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000945620?sid=100"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T04:20:00+09:00",
+      "title": "[충남권 날씨예보] 최고 35도 폭염 지속…열대야 이어져 건강관리 비상",
+      "snippet": "항해나 조업 선박은 안전사고에 유의해야 하며, 해상교통 이용객은 운항 정보를 미리 확인하는 것이 좋다. 또 1일까지는 달의 인력 영향으로 바닷물의 높이가 높은 만큼 해안가 저지대에서는 침수와 안전사고에도 주의가...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83824"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:18:00+09:00",
+      "title": "韓, 내년부터 아르헨 원유 본격 도입…수입선 남미로 확장한다",
+      "snippet": "아주경제=부에노스아이레스(아르헨티나 )=김봉철 기자 nicebong@ajunews.com 위성락 국가안보실장이 지난 7월 9일... 양국은 경제공동위원회와 에너지자원협력위원회를 재가동해 이날 정상회담 합의 사항의 후속 추진을...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20260801041535352"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:18:00+09:00",
+      "title": "경주시, 문체부 글로벌 관광특구 육성사업 선정…국비 30억원 확보",
+      "snippet": "내년까지 총 사업비 60억원 투입…AI·야간관광·외국인 편의 강화, 체류형 관광도시 도약 아주경제=최주호... 조성하고 지역 경제에 실질적인 활력을 불어넣을 수 있도록 사업을 차질 없이 추진하겠다\"고 강조했다.",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20260801040652351"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-01T04:18:00+09:00",
+      "title": "Zhibao, 2380 BTC 조달…비미국 투자자 참여",
+      "snippet": "중국 상장사 Zhibao Technology가 비미국 투자자로부터 비트코인(BTC) 출자 방식의 사모 자금 조달을 완료했다. 조달 규모는 2380 BTC, 금액으로는 1억5470만 달러(약 2150억원)다. 오데일리는 회사 발표를 인용해 이번...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/383453"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T04:16:00+09:00",
+      "title": "[광주·전남 날씨예보] 폭염 계속…낮 최고 36도·열대야 이어져",
+      "snippet": "한편 당분간 광주·전남은 대체로 맑은 날씨가 이어지겠으며, 서해남부와 남해서부 해상에는 바다 안개가 끼는 곳이 있어 항해와 조업 선박은 안전사고에 유의해야 한다. 또한 1일까지는 바닷물의 높이가 높은 기간인 만큼...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83823"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:14:00+09:00",
+      "title": "이 대통령, 아르헨티나 정상회담서 “리튬 공동투자… 내년부터 원유 수...",
+      "snippet": "양국은 정상회담 성과를 지속적으로 관리하기 위해 ‘경제공동위원회’와 ‘에너지자원협력위원회’를 재가동하기로 했다. 이밖에도 위 실장은 “밀레이 대통령이 ‘한국 화장품 애호가’라고 얘기했다”며 “화장품...",
+      "domain": "hani.co.kr",
+      "source": "한겨레",
+      "link": "https://n.news.naver.com/mnews/article/028/0002816689?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:10:00+09:00",
+      "title": "내년부터 아르헨 원유 수입…이중과세방지협정도 최종 타결(종합)",
+      "snippet": "이재명 대통령의 아르헨티나 국빈방문을 계기로 한국과 아르헨티나가 원유와 핵심광물을 축으로 한 경제안... 이후 정제 적합성과 경제성 등을 검증한 뒤 상업적 구매 여부와 규모를 결정하게 된다. 청와대는 당장 내년...",
+      "domain": "einfomax.co.kr",
+      "source": "einfomax.co.kr",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428131"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T04:10:00+09:00",
+      "title": "[부울경 날씨예보] 폭염·열대야 지속…부산 38℃·경남 일부 40℃",
+      "snippet": "축사 온도를 낮추는 등 가축 피해 예방에 신경 써야 한다. 1일 하늘은 대체로 맑겠으며, 해안 지역은 달의 인력이 강해 바닷물의 높이가 높은 기간인 만큼 해안가 저지대에서는 침수와 안전사고에도 주의가 필요하다.",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83822"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:06:00+09:00",
+      "title": "위성락 \"호르무즈 기여, 가능한 옵션 검토 중…美 구체적 요구는 없어\"",
+      "snippet": "이어 \"호르무즈에서의 자유통항이 우리의 경제안보에 중요한 이해관계\"라며 \"그런 과정에 적극 참여하고 기여해야 한다는 생각 하에 우리가 할 수 있는 가능한 옵션을 검토하는 중\"이라고 덧붙였다. 위 안보실장은 한미...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091395?sid=100"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-01T04:06:00+09:00",
+      "title": "[전국 날씨예보] 폭염 특보…낮 최고 38도·열대야 지속",
+      "snippet": "1일까지 강원 동해안과 산지, 경북 동해안과 북동산지를 중심으로 순간풍속 초속 15m 안팎(산지 초속 20m 안팎)의 강한 바람이 불어 시설물 관리와 안전사고에 주의가 요구된다. 해상에서는 서해상과 남해서부해상에 바다...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83821"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:04:00+09:00",
+      "title": "내년부터 아르헨티나산 원유 본격 수입…李대통령·밀레이 정상회담",
+      "snippet": "메르코수르는 아르헨티나·브라질·파라과이·우루과이로 구성된 남미 관세동맹으로 남미 최대 경제... 양국은 이러한 정상회담 성과를 지속적으로 관리하기 위해 경제공동위원회와 에너지자원협력위원회를 재가동하기로...",
+      "domain": "seoul.co.kr",
+      "source": "서울신문",
+      "link": "https://n.news.naver.com/mnews/article/081/0003666665?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:02:00+09:00",
+      "title": "李대통령, 칠레 거쳐 아르헨行 … 핵심 광물 공급망 협력",
+      "snippet": "이날 행사에는 장인화 포스코홀딩스 회장, 구자은 LS 회장, 최윤범 고려아연 회장, 이우현 OCI홀딩스 회장 등 한국 기업인 11명이 참석했고, 칠레 측 경제계 인사 11명이 자리했다. 이 대통령은 LS와 칠레 국영 구리 기업...",
+      "domain": "mk.co.kr",
+      "source": "매일경제",
+      "link": "https://n.news.naver.com/mnews/article/009/0005715237?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:01:00+09:00",
+      "title": "엄마 리더십 손화정 \"4년간 '웰빙 삶터' 영종구 기반 다질 것\"",
+      "snippet": "인천 경제를 움직이는 심장이다. 이젠 섬 전체가 하나의 구가 됐다. 그러나 화려한 성장의 이면에는 짙은... 이어 \"영종 면적의 70%가 경제자유구역으로 묶여 인천국제공항공사와 인천경제자유구역청, LH 등으로 관리 주체가...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004174465?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:01:00+09:00",
+      "title": "美, 위구르 강제노동 명단에 中기업 43곳 추가…역대 최대",
+      "snippet": "아리스 코르쿠멜리스 DHS 무역·경제안보 담당 차관보는 “이번 조치를 회피하거나 강제노동으로 생산된 제품임을 알고도 수입하는 자는 법이 허용하는 최대한도로 기소될 것”이라고 경고했다. DHS는 개정된 UFLPA...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341813?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:00:00+09:00",
+      "title": "쿠바 대통령 \"7개월간 유조선 한 척만 입항...견디기 힘든 수준\"",
+      "snippet": "디아스카넬 대통령은 이런 미국의 해상 봉쇄에 대항해 자체적인 경제 개혁을 단행하고 있다면서 \"가는 길은 험난하고 상황도 복잡하지만, 승리에 대한 의지는 꺾이지 않는다\"고 말했습니다.",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002387439?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:00:00+09:00",
+      "title": "청와대 \"내년부터 아르헨티나산 원유 수입\"…남미로 공급선 다변화",
+      "snippet": "등 경제협력의 외연을 넓혔다. 위성락 청와대 국가안보실장은 이날 아르헨티나 부에노스아이레스 현지... 아울러 양국은 경제공동위원회와 에너지자원협력위원회를 재가동하기로 했다. 경제공동위원회에서는 교역과 투자...",
+      "domain": "fnnews.com",
+      "source": "파이낸셜뉴스",
+      "link": "https://n.news.naver.com/mnews/article/014/0005555790?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T04:00:00+09:00",
+      "title": "9월에도 동결 지킬까…'반란표 3장' 새 의장 워시 시험대",
+      "snippet": "카슈카리는 지난 3월 경제전망에서 2026년에 기준금리가 한 차례 0.25%포인트 내려갈 것으로 예상했다. 그러나 이날 “물가가 좀처럼 꺾이지 않는다면 기다린 끝에 더 과감한 조치가 필요하다고 판단하기보다 소폭의 금리...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102014?sid=104"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-01T04:00:00+09:00",
+      "title": "부산 더샵트리센트 등 전국 3034가구 분양[분양캘린더]",
+      "snippet": "1일 부동산114에 따르면 청약 일정은 강원 강릉시 교동 '리쉐스302', 경남 거제시 상동동 '센트레빌아스테리움거제', 부산 남구 문현동 '더샵트리센트', 충남 아산시 둔포면 '아산테크노밸리더원7차(Ab4)' 등에서...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014102015?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:54:00+09:00",
+      "title": "日 엔화 방어에 미국까지…이례적 공조에 시장 '촉각'",
+      "snippet": "라쿠텐증권 경제연구소의 아타고 노부야스 수석 이코노미스트는 \"베선트의 영향력은 상당하다\"며 \"미국이... 가타야마 재무상은 \"시장에 가장 정통한 전문가 중 한 명인 베선트 장관이 다카이치 정부의 경제·재정...",
+      "domain": "newspim.com",
+      "source": "newspim.com",
+      "link": "https://www.newspim.com/news/view/20260801000009"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:50:00+09:00",
+      "title": "임종룡의 우리금융에게, 소기업은 봉인가",
+      "snippet": "필자는 경제전문가들에게 전화를 돌렸다. 우리금융의 소기업 대상 거래 규모 삭감 방식이 이래도 되는 것이냐고 물었다. 민주당 국회의원 출신 경제 전문가는 \"소기업 위주로 거래 규모를 후려친다면 그건 포용금융 정신과...",
+      "domain": "choicenews.co.kr",
+      "source": "choicenews.co.kr",
+      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169146"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:49:00+09:00",
+      "title": "내년부터 아르헨티나 원유 수입… 리튬 채굴 공동 프로젝트 추진",
+      "snippet": "이밖에 양국은 경제공동위원회와 에너지자원협력위원회를 재가동한다. 또 운전면허 상호인정협정의 조속한 체결을 추진하고 방산·우주·남극·보건 분야에서 새로운 협력사업을 발굴하기로 했다. 이 대통령은 지난달...",
+      "domain": "donga.com",
+      "source": "동아일보",
+      "link": "https://n.news.naver.com/mnews/article/020/0003738131?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:48:00+09:00",
+      "title": "[종합] 李대통령, 미·남미 순방 마무리…\"글로벌 AI 중심국 입지 확보\"",
+      "snippet": "com ◆ 남미 거대 시장 접근성 확대…무역 장벽 완화 두 번째 성과는 남미 경제 대국들과의 교역·투자... 또한 칠레와는 자유무역협정(FTA) 현대화 논의를 본격화하고, 한-브라질 경제통상위원회 가동, 한-아르헨티나...",
+      "domain": "newspim.com",
+      "source": "newspim.com",
+      "link": "https://www.newspim.com/news/view/20260801000013"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:46:00+09:00",
+      "title": "광주소극장축제 8월 개막",
+      "snippet": "출처=(사)광주소극장협회 한국금융경제신문=김영권 기자 | 광주지역 소공연장을 무대로 다양한 공연예술을 선보이는 <2026 제29회 광주소극장축제>가 8월 1일 개막한다. 광주소극장축제는 광주광역시 소재 300석 이하 민간...",
+      "domain": "kfenews.co.kr",
+      "source": "kfenews.co.kr",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661720"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:42:00+09:00",
+      "title": "트럼프 \"이란 신뢰 잃어…매우 강력하게 타격할 것\"",
+      "snippet": "로이터는 전쟁이 경제에 미치는 영향이 11월 중간선거에서 의회 탈환을 노리는 민주당과 맞서야 하는 공화당 내 우려를 키우고 있다고 전했다. 트럼프, 이례적 캠프 데이비드 회의 후 골프장으로 이번 회의는 트럼프...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006341812?sid=104"
+    },
+    {
+      "category": "economy",
       "pubDate": "2026-08-01T03:39:00+09:00",
       "title": "한국, 내년부터 아르헨티나산 원유 수입…중동 의존도 낮춘다",
       "snippet": "경제공동위원회도 재가동한다. 위원회에서는 교역과 투자, 한국 기업의 현지 애로사항과 시장 접근 문제를 폭넓게 점검하고, 정상회담에서 합의한 사업이 실제 투자와 거래로 이어질 수 있도록 후속 조치를 관리할...",
       "domain": "edaily.co.kr",
       "source": "이데일리",
       "link": "https://n.news.naver.com/mnews/article/018/0006341811?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-01T03:39:00+09:00",
+      "title": "靑 \"韓-아르헨 핵심광물·원유 공급망 협력…메르코수르 협상 연내 재개...",
+      "snippet": "이밖에 양국은 경제공동위원회와 에너지자원협력위원회를 재가동하기로 했다. 위 안보실장은 \"경제공동위에서 교역과 투자, 기업 애로사항과 시장 접근 문제를 폭넓게 점검하고, 에너지자원협력위에서 리튬과 구리, 원유...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009091394?sid=100"
     },
     {
       "category": "realestate",
@@ -67130,2472 +68039,6 @@
       "domain": "yna.co.kr",
       "source": "연합뉴스",
       "link": "https://n.news.naver.com/mnews/article/001/0016222966?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:34:00+09:00",
-      "title": "[기자수첩] JS코퍼 CB, \"합법\"은 답이 아니다",
-      "snippet": "경제적 가치가 큰 선택권이 최대주주 일가에 귀속된다면 그 대가와 필요성, 회사와 주주에게 돌아오는... 리스크와 조달비용은 법인이 부담하면서 경제적 가치가 큰 권리는 특정인에게 돌아가는 구조라면, 주주가...",
-      "domain": "newstopkorea.com",
-      "source": "newstopkorea.com",
-      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46611"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:34:00+09:00",
-      "title": "당국, 단일종목 레버리지 투자한도 추진...긴급시 배율도 손본다",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관이 29일 서울 종로구 정부서울청사에서 긴급 시장상황점검회의를 주재하고 있다. [사진: 연합뉴스] 경제·금융당국이 삼성전자와 SK하이닉스 단일종목 레버리지 상장지수펀드(ETF)에...",
-      "domain": "digitaltoday.co.kr",
-      "source": "digitaltoday.co.kr",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688136"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:34:00+09:00",
-      "title": "투자 매력 떨어진 물류센터에 '쿠팡 화재' 악재…기관 투자심리 냉기류",
-      "snippet": "실수요로 사는 펀드와 리츠(REITs·부동산투자회사)를 통한 투자성 거래에는 신중한 태도를 이어가고 있다.... 공무원연금과 우정사업본부가 지난달 각각 5000억원 규모의 국내 부동산 위탁운용사 선정에 나서면서 오피스와...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608760"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:32:00+09:00",
-      "title": "앞으로 '레버리지 몰빵' 못한다…개미들 이미 56조 손실 추산",
-      "snippet": "정부는 29일 구윤철 부총리 겸 재정경제부 장관 주재로 '긴급 시장상황점검회의'를 열고 단일종목 레버리지 ETF 투자 규제를 대폭 강화하기로 했다. 먼저 개인별 투자 한도를 총 투자금액의 일정 비율 이내로...",
-      "domain": "thescoop.co.kr",
-      "source": "thescoop.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/665/0000007840?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:32:00+09:00",
-      "title": "호르무즈 파견 군불때는 美…“필요시 지원하면 경제·안보 도움될 것”",
-      "snippet": "다른 경제 문제나 다른 안보 문제를 해결하는 데도 큰 도움이 될 것”이라고 말했다. 권영세 국민의힘 의원이 22일 서울 여의도 국회에서 이데일리와 인터뷰를 하고 있다. 박근혜 정부에서 초대 주중대사를 지냈고...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339557?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:32:00+09:00",
-      "title": "절박함 없는 국힘…장동혁 퇴진 등 확 바꿔 쇄신해야",
-      "snippet": "부동산 문제가 굉장히 크다. 지금 중장년 이상은 부동산 문제가 어느 정도 해결됐거나 현재 상태를 받아들이지만, 청년은 더 어려울 것 같다고 본다. 또 한 개인과 세력을 위해 공소 취소하는 부분에 대해 젊은 세대는...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339558?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:32:00+09:00",
-      "title": "96만건 뉴욕 세컨드하우스 부자들 공개…맘다니, 증세 경고장",
-      "snippet": "미국 뉴욕시가 고가 '세컨드 하우스'를 소유한 부동산 부자 명단을 공개했습니다. 미 일간 월스트리트저널(WSJ)은 \"맘다니 행정부가 부동산 소유주 명단을 온라인에 공개하며 경고를 보냈다\"고 28일(현지시간)...",
-      "domain": "biz.sbs.co.kr",
-      "source": "biz.sbs.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/374/0000524494?sid=104"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:32:00+09:00",
-      "title": "전세난인데 늘어난 전세 매물, 왜",
-      "snippet": "서울 시내 부동산 중개업체_[연합뉴스 자료사진] 29일 국토교통부 실거래가 공개시스템에 따르면 이달... KB부동산 기준 이달 서울 아파트 평균 전세 가격은 7억458만 원으로 관련 통계를 발표하기 시작한 2011년 6월 이후...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339561?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T05:32:00+09:00",
-      "title": "공기 1㎥당 미세플라스틱 300개라는데…물, 공기 다 불안한 물놀이장 [물...",
-      "snippet": "충격 흡수를 통한 안전 사고 예방을 위해서다. 하지만 국립환경과학원이 탄성포장재를 만드는 데 쓰이는 합성 고무 타이어에서 미세플라스틱이 발생하고 있다는 연구 결과를 내놓으면서 아이들이 호흡이나 물을 먹는...",
-      "domain": "kyeonggi.com",
-      "source": "kyeonggi.com",
-      "link": "https://n.news.naver.com/mnews/article/666/0000117160?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:31:00+09:00",
-      "title": "美가 상장 막으니 中은 시장을 뚫었다 [글로벌 모닝 브리핑]",
-      "snippet": "※[글로벌 모닝 브리핑]은 서울경제가 전하는 글로벌 소식을 요약해 드립니다. 세계 IPO 격전지에 부는 훈풍... 리스 계약과 점점 얽히면서 경제 전반에 전염될 수 있는 잠재적 위험 경로가 되고 있다고 경고했습니다.",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646684?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:31:00+09:00",
-      "title": "충분히 자도 피곤한 직장인… 범인은 ‘회사’에 있었다",
-      "snippet": "연구팀은 \"폐경이나 노화 같은 연령 관련 요인뿐 아니라 가족 돌봄 부담, 경제적 스트레스, 업무 스트레스 등 다양한 요소가 수면을 방해한다\"며 \"수면은 개인의 문제가 아니라 직장 차원에서 관리해야 할 건강 문제\"라고...",
-      "domain": "health.chosun.com",
-      "source": "health.chosun.com",
-      "link": "https://n.news.naver.com/mnews/article/346/0000113594?sid=004"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:31:00+09:00",
-      "title": "퇴직 후 집 팔까 고민하다 이곳 갔다가 인생이 달라졌다",
-      "snippet": "내 집 월세 놓고 연금 활용 실버타운 입주 전략 “총자산이 많은 분보다 매월 안정적인 현금 흐름이 들어오는 분이 실버타운을 선택하기 훨씬 유리합니다” 30일 방송된 조선일보 경제 유튜브 채널 ‘조선일보 머니’...",
-      "domain": "chosun.com",
-      "source": "조선일보",
-      "link": "https://n.news.naver.com/mnews/article/023/0003990426?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:30:00+09:00",
-      "title": "\"공부 안 하면 저 아저씨처럼 돼\"…독기 품은 경비원, 8수 끝 명문대 합...",
-      "snippet": "경제적 부담 때문에 통상 3년 과정인 대학원을 2년 안에 마치는 것이 목표이며 이후에는 하버드대 전액 장학금 박사과정에 진학해 무형문화유산 연구를 이어가겠다는 계획이다. 사연이 알려지자 누리꾼들은...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086945?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:30:00+09:00",
-      "title": "천안시의회 경제산업위원회, '2026년도 주요업무 보고' 청취",
-      "snippet": "천안시의회(의장 엄소영)는 29일 오후 2시 경제산업위원회(위원장 복아영)가 간담회를 개최하고, 3일간 경제산업위원회 소관 부서들로부터 '2026년도 주요업무 보고'를 청취한다고 밝혔다. 제10대 천안시의회 전반기 원 구성...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=712157"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:30:00+09:00",
-      "title": "순방 중 돌아가는 세제 발표 시계…李 없이도 속도내는 정부",
-      "snippet": "발표 절차와 실무는 재정경제부가 주관하고 있어, 대통령 부재와 무관하게 준비가 이어지는 모습이다. 부동산 대책이나 세제 개편 발표 때 관례적으로 재경부 장관(부총리)이 총리, 국토교통부 장관 등과 함께 브리핑을...",
-      "domain": "dailian.co.kr",
-      "source": "dailian.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/119/0003116305?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:28:00+09:00",
-      "title": "7월 FOMC 성명 전문 번역",
-      "snippet": "경제 활동은 중동 분쟁에서 부분적으로 기인한 고조된 불확실성에도 불구하고 견조한 속도로 확장하고 있다. 생산성 증가와 자본 투자는 강하다. 고용 증가는 노동력 증가 속도에 보조를 맞추고 있으며, 실업률은 거의...",
-      "domain": "einfomax.co.kr",
-      "source": "einfomax.co.kr",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427637"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T05:27:00+09:00",
-      "title": "준공 44년 창원 연립주택…사용 제한·금지에도 50가구 거주",
-      "snippet": "시는 혹시 모를 안전사고 발생에 대비해 각 동에 변위 계측기 등을 설치해 건물 기울기 변화, 균열 양상 등을 주기적으로 점검하고 있습니다. 지난해 이후 다행히 현재까지 특별한 변화는 없는 것으로 파악됐습니다. 시...",
-      "domain": "sbs.co.kr",
-      "source": "SBS",
-      "link": "https://n.news.naver.com/mnews/article/055/0001376578?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:26:00+09:00",
-      "title": "‘5세대 도요다’ 후계 구도 가속화… 토요타, 회장 아들 다이스케 본사...",
-      "snippet": "7월 29일(현지시각) 일본 종합 경제 미디어 닛케이 아시아(Nikkei Asia) 보도에 따르면, 도요다 아키오(Toyoda Akio) 토요타 회장의 장남이자 그룹 내 미래 모빌리티 자회사 '우븐 바이 토요타(Woven by Toyota)'의 수석 부사장인...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=2026072918023845220c8c1c064d_1"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:26:00+09:00",
-      "title": "전격 트레이드 그 후…하주석 \"김범수가 매일 전화해\", \"노시환 죽었다...",
-      "snippet": "유로결(한화) 선수 어머님께서 마침 부동산을 하고 계셔서 많은 도움을 주신다\"고 말하며 미소 지었다. KIA에선 2루수, 유격수 등 내야의 주축으로 기회를 얻고 있다. 하주석은 \"올해 한화에선 주로 퓨처스팀에 머물렀다....",
-      "domain": "spotvnews.co.kr",
-      "source": "spotvnews.co.kr",
-      "link": "https://m.sports.naver.com/kbaseball/article/477/0000620861"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:25:00+09:00",
-      "title": "장기물 금리 급등에 주가도 하락…\"Fed가 싸움서 물러섰다\" [Fed 워치]",
-      "snippet": "지난달과 크게 다르지 않은 경제 상황 인식에 '인플레이션 억제에 대해 Fed가 소극적'이란 지적이 나오며 '인플레이션'에 민감한 미 국채 30년물 금리는 급등(채권 가격 하락)했다. 5년 넘게 이어온 인플레이션을...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315437?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:25:00+09:00",
-      "title": "물가안정 재확인한 美연준…'금리인상' 전망에는 선그어[일문일답]",
-      "snippet": "단순히 이번 금리 결정을 둘러싼 찬반 논의가 아니라 향후 정책 전략과 경제를 바라보는 시각까지 폭넓게... 우리가 확인하려는 것은 이런 충격이 단순히 일시적인 영향을 주는지, 아니면 경제 전반으로 확산돼 더...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393086?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:24:00+09:00",
-      "title": "[뉴욕증시] 기준금리 동결, 美 국채 금리 급등…하락",
-      "snippet": "[사진=연합뉴스] | 서울=한스경제 최천욱 기자 | 29일(현지시간) 뉴욕증시 3대 주가지수 모두가 일제히 하락 마감했다. 미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 3.70~3.75%로 동결한 후...",
-      "domain": "hansbiz.co.kr",
-      "source": "hansbiz.co.kr",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=853316"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:24:00+09:00",
-      "title": "美 금리 동결에도 30년물 5.21%…19년 만에 최고",
-      "snippet": "시장이 경제 상황 변화에 직접적이고 여과 없이 반응하는 모습을 지켜볼 필요가 있다\"고 말했다. 이어... 제리 템플먼 뮤추얼오브아메리카캐피털매니지먼트 경제·채권 리서치 부사장은 \"지금부터 9월 회의 사이에...",
-      "domain": "view.asiae.co.kr",
-      "source": "아시아경제",
-      "link": "https://n.news.naver.com/mnews/article/277/0005796465?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:23:00+09:00",
-      "title": "양도세 고차익에 정조준…한시적 매도 유인 카드 '만지작'",
-      "snippet": "▲ 서울 강남권 한 부동산 중개업소 정부가 '실거주 보호, 초고가·고차익 부담 강화' 방향의부동산 세제 개편안을 두고 막판 조율에 들어갔습니다. 양도소득세는 단순히 집값이 비싼 초고가 주택이 아니라 양도차익이...",
-      "domain": "sbs.co.kr",
-      "source": "SBS",
-      "link": "https://n.news.naver.com/mnews/article/055/0001376575?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "[오토노머스 크로니클] 웨이모ㆍ바이두ㆍ테슬라 ‘한국 상륙작전’…해...",
-      "snippet": "바이두, 6세대 전용차 ‘RT6’ 테스트 포니AI, 현대차 ‘코나’ 기반 임시허가 웨이모, 법인 설립… 테슬라, 인력채용 국토부 승인 재량ㆍ개조 요건 등 변수 [대한경제=강주현 기자] 구글의 자율주행 자회사 웨이모가 최근...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291513074690019"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "‘쌍둥이맘’ 성유리, 똥머리 하나로 요정 시절 소환..나이는 나만 먹었...",
-      "snippet": "결국 성유리는 활동을 중단했고, 안성현은 지난해 특정경제범죄가중처벌 등에 관한 법률 위반(사기)·배임수재 혐의로 징역 4년 6개월을 선고받았다. 이와 관련 성유리는 “우리 가정이 겪고 있는 억울하고 힘든 일들에...",
-      "domain": "heraldmuse.com",
-      "source": "heraldmuse.com",
-      "link": "https://m.entertain.naver.com/article/112/0003802881"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "AI 기기 진화에 배터리도 변신… ‘고밀도·초박형’ 경쟁 본격화",
-      "snippet": "[대한경제=이계풍 기자]인공지능(AI) 기술이 스마트폰을 넘어 안경, 시계, 반지 등 다양한 웨어러블 기기로 침투하면서 배터리 산업의 기술 패러다임이 바뀌고 있다. 과거 단순히 배터리 용량을 키우던 ‘크기 경쟁’에서...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607281524482170852"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "“PF 규제 풀어야 주택 공급 ‘물꼬’ 터진다”",
-      "snippet": "PF대출 위험가중치 150% 적용 비우량 사업장 자금조달 난항 지속 이주비도 사업비 대출로 관리해야 [대한경제=황은우 기자]정부가 마련한 부동산 토론회 이후 수요자 금융규제의 핀셋 해제가 논의되자 이와 맞물린...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291504124910014"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "[美훈풍 올라탄 K조선] 올 상반기 순항…하반기 마스가 프로젝트 본격 ...",
-      "snippet": "빅3 실적 동반 호조…전년대비 성장 두자릿수 껑충 함정 설계ㆍMRO부터 AI까지…대미 사업 확대 기회 존스법ㆍ1500억달러 투자 배분ㆍ인력난 등 걸림돌 [대한경제=이근우 기자]K-조선의 올해 상반기 실적이...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291349413970992"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "서울 준공업지역에 주택공급 카드 관심",
-      "snippet": "이명범 한국산업경제연구소 소장은 “준공업지역 내 주택공급은 60여 년 이어온 뿌리산업의 기술력과 집적기능을 유지해야 하는 전제가 깔려 있다”며 “공공에서 이전 부지 확정과 토지 수용, 소상공인 이전 등 각각의...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607291201075810973"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:22:00+09:00",
-      "title": "연준, 5연속 금리 동결…매파 연은 총재 3명 인상 반대표(상보)",
-      "snippet": "성명은 경기 판단과 관련해 \"경제 활동은 중동 분쟁에서 부분적으로 기인한 고조된 불확실성에도 불구하고 견조한 속도로 확장하고 있다\"는 표현을 그대로 사용했다. 성명은 실업률은 \"거의 변하지 않았다\"면서...",
-      "domain": "einfomax.co.kr",
-      "source": "einfomax.co.kr",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427636"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:21:00+09:00",
-      "title": "뉴욕증시, 하락 마감... 다우존스지수, 1년 3개월 만에 최대 낙폭",
-      "snippet": "국제 유가 급등은 주유소 기름값뿐만 아니라 공장 가동 비용과 물류비를 끌어올려 경제 전반 물가를 자극한다. 이 경우 연준이 금리를 내리기 더 어려워지는 악순환이 벌어진다. 인공지능(AI) 열풍을 주도하던 반도체...",
-      "domain": "biz.chosun.com",
-      "source": "조선비즈",
-      "link": "https://n.news.naver.com/mnews/article/366/0001182981?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:21:00+09:00",
-      "title": "관계라는 빚, 개그우먼 이영자가 현금을 잃고 얻은 것",
-      "snippet": "경제적 곤경에 처한 동료들에게 아낌없이 현금을 건네던 모습 때문에 생긴 별명이었다. 단순히 돈을 빌려주는 것을 넘어 그녀는 동료의 재능을 알아보는 데도 남다른 감각을 보였다. 신인이던 홍진경을 프로그램에...",
-      "domain": "segye.com",
-      "source": "세계일보",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147023?sid=103"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:20:00+09:00",
-      "title": "구윤철 \"집값 잡으려 세제 운영 안해…정상화가 목적\"",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관은 \"이재명 정부는 집값을 잡기 위해 부동산 세제를 운영하지 않는다\"라며, \"거래 정상화와 부동산 시장 안정을 목적으로 하는 것\"이라고 밝혔습니다. 구 부총리는 국회 업무보고에서...",
-      "domain": "yonhapnewstv.co.kr",
-      "source": "연합뉴스TV",
-      "link": "https://n.news.naver.com/mnews/article/422/0000890394?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:20:00+09:00",
-      "title": "경기 주민 서울 집 샀더니…5명 중 1명은 강남3구 택했다",
-      "snippet": "서울부동산정보광장에 따르면 6월 강남구와 서초구 아파트 평균 거래금액은 각각 30억 207만 원, 28억 8742만... 김인만 김인만부동산연구소 소장은 \"서울로 갈아탈 때도 가치가 확실한 지역을 선택한다\"며 \"가격 부담을...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086938?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:19:00+09:00",
-      "title": "'김관영 내란 동조 의혹 제기' 이원택 전북지사 경찰 조사(종합)",
-      "snippet": "전북경찰청 반부패경제범죄수사대는 지난 29일 오후 6시30분께 공직선거법 위반(허위사실 공표) 등 혐의로 고발당한 이원택 지사를 불러 조사했다. 조사는 자정을 넘긴 30일 오전 1시께 종료돼 약 6시간30분 가량 소요됐다....",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096891?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:18:00+09:00",
-      "title": "미 연준, 기준금리 3.50~3.75% 동결···5차례 연속 유지",
-      "snippet": "연준은 정책 결정문에서 \"중동 분쟁 등으로 불확실성이 고조됐으나 경제 활동은 견조한 속도로 확대되고 있다\"며 \"인플레이션은 2% 목표치 대비 여전히 높은 수준을 유지하고 있어 물가 안정을 실현하는 데 주력할 것...",
-      "domain": "globale.co.kr",
-      "source": "globale.co.kr",
-      "link": "https://www.globale.co.kr/news/articleView.html?idxno=39608"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:18:00+09:00",
-      "title": "美연준, 금리 5연속 동결…12명 중 3명 ‘인상’ 주장",
-      "snippet": "연준의 이날 금리 동결 이유에 대해 “중동 분쟁 등으로 인한 불확실성이 고조됐음에도 경제 활동은 견조한 속도로 확대되고 있다”고 설명했다. 이어 “생산성 향상과 자본 투자는 강력하다”며 “일자리 증가는...",
-      "domain": "kukinews.com",
-      "source": "kukinews.com",
-      "link": "https://www.kukinews.com/article/view/kuk202607300002"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:16:00+09:00",
-      "title": "트럼프 \"USMCA 관심 없다\" 선언… 캐나다 고위급 워싱턴 급파에 북미 통...",
-      "snippet": "독자적인 경제 구조를 가져가는 편이 유리하다고 강조했다. 북미무역협정은 16년 기한으로 체결되어 6년 차를... 이들 노조는 양국이 오랜 기간 구축해 온 경제 및 방위 통합 체계를 바탕으로 중국의 불공정 무역 관행과...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=2026072922535531452bd56fbc3c_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:15:00+09:00",
-      "title": "연준 금리 동결…매파 목소리 커지며 9월 주목",
-      "snippet": "성명에서는 금리 동결의 배경으로 미국 경제의 견조한 성장세와 안정적인 노동시장을 제시했다. 연준은 \"중동 분쟁에 따른 높은 불확실성에도 경제 활동은 견조한 속도로 확대되고 있다\"고 평가했다. 노동인구가...",
-      "domain": "fnnews.com",
-      "source": "파이낸셜뉴스",
-      "link": "https://n.news.naver.com/mnews/article/014/0005554888?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:15:00+09:00",
-      "title": "李 대통령, 칠레 도착…\"한·칠레 FTA 진화해야\"",
-      "snippet": "인터뷰에서 \"오늘날의 경제는 디지털 무역, 인공지능(AI), 청정 기술, 회복력 있는 공급망, 탄소중립 전환을... 강화해 경제협력 수준을 높여야 한다고 강조했다. FTA를 개정하면서 노동 기준, 성평등 등 분야도 포함해야...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315436?sid=100"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-07-30T05:14:00+09:00",
-      "title": "밴 홀런, 클래리티 법안 반대…안보 쟁점 제기",
-      "snippet": "크리스 밴 홀런(Chris Van Hollen) 미 민주당 상원의원이 비트코인(BTC)·암호화폐 클래리티 법안(CLARITY Act)에 반대표를 던지겠다고 밝혔다. 밴 홀런 의원의 발언은 미국의 암호화폐 규제 명확화 입법 논의에 국가안보 쟁점을...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382771"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:13:00+09:00",
-      "title": "호남 반도체 성공의 열쇠는 '규제 네거티브제'[안종범의 나라살림]",
-      "snippet": "전국규제지도는 전국 228개 지방자치단체를 대상으로 기업이 체감하는 행정서비스와 조례상 경제활동 친화성을 조사해 등급으로 공개했다. 효과는 즉각적이었다. 2015년 4월 기준 경제활동 친화성 우수 등급 지자체가...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339556?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:13:00+09:00",
-      "title": "[속보] 미국채 30년물 금리, 연준 동결후 5.2%대 '급등'…2007년 이후 최...",
-      "snippet": "美연준, 5연속 금리 동결…한미 금리차 1.00%P 연준 워시 \"미 경제, 최근 충격에도 인상적인 회복력 보여줘\" 미국채 30년물 금리, 연준 동결후 급등세…5.2% 돌파",
-      "domain": "wowtv.co.kr",
-      "source": "wowtv.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/215/0001260464?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:12:00+09:00",
-      "title": "워시 \"2% 물가 목표 흔들림 없다\"…금리 동결에도 매파 기조 재확인",
-      "snippet": "그는 경제가 여전히 견조한 성장세를 이어가고 있지만 물가가 목표 수준으로 충분히 복귀했다고... 그는 \"경제 여건이 불확실한 상황에서 성급한 포워드가이던스(선제 안내)는 적절하지 않다\"며 앞으로 발표될 경제지표를...",
-      "domain": "dailian.co.kr",
-      "source": "dailian.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/119/0003116304?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:12:00+09:00",
-      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-      "snippet": "고양=에너지경제신문 강근주기자 고양특례시가 일산테크노밸리 기업 유치를 위해 성장 가능성이 높은... 고양=에너지경제신문 강근주기자 고양문화재단이 내달 8일과 9일 이틀 동안 오후 8시 고양아람누리 노루목...",
-      "domain": "ekn.kr",
-      "source": "ekn.kr",
-      "link": "https://www.ekn.kr/web/view.php?key=20260730026517659"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:12:00+09:00",
-      "title": "‘내 주식 오늘은?’…美, 기준금리 ‘매파적 동결’…‘인상’ 의견 3...",
-      "snippet": "연준은 성명에서 “중동 분쟁이 부분적으로 초래한 높은 불확실성에도 경제 활동은 견조한 속도로... Fed 위원들은 지난 6월 공개한 경제전망 점도표에서 중간값 기준으로 연내 1회 금리 인상을 예상한다고 적은 바...",
-      "domain": "munhwa.com",
-      "source": "문화일보",
-      "link": "https://n.news.naver.com/mnews/article/021/0002807902?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:12:00+09:00",
-      "title": "[속보] 연준 금리 동결에 '채권 발작'...다우 1,152P 폭락",
-      "snippet": "경제방송 CNBC에 따르면 이날 다우존스30 산업평균지수는 전 거래일 대비 1,152포인트(2.18%) 폭락하며 2025년 4월 이후 최악의 하루를 보냈다. 스탠더드앤드푸어스(S&P) 500 지수도 112.55포인트(1.51%) 하락했으며, 기술주...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202607300508443474e250e8e188_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:11:00+09:00",
-      "title": "[데스크 시각] 폭염은 오늘도 약자를 노린다",
-      "snippet": "1995년 참사 이후 시카고 당국은 희생자들의 사회경제적 환경을 꼼꼼하게 살폈다. 조사 결과 인종, 연령, 빈곤율이 죽음에 영향을 끼친다는 사실을 발견하고 대응체계를 바꿨다. 덕분에 1999년 다시 폭염이 닥쳤을 때...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003666006?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:11:00+09:00",
-      "title": "[씨줄날줄] 韓·브라질의 민항기 협력",
-      "snippet": "중소 도시에 자주 띄워 승객 편의를 높이고 경제성 있는 기체로 항공사 비용을 크게 줄인 ‘E-Jet’는 크게 히트했다. 엠브라에르는 수송기 C390도 생산한다. 한국 공군은 미국의 C130을 대체하는 차세대 수송기로 C390의...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003666007?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:11:00+09:00",
-      "title": "[현장영상] 이 대통령, 칠레 도착…카스트 대통령과 정상회담",
-      "snippet": "칠레 동포들과 만찬 간담회를 갖고, 칠레 독립 영웅인 베르나르도 오히긴스 장군 동상에 헌화합니다. 아울러 양국 경제인들이 참석하는 비즈니스 라운드 테이블을 통해 기업 간 교역과 투자 확대 방안도 논의할 예정입니다.",
-      "domain": "yonhapnewstv.co.kr",
-      "source": "연합뉴스TV",
-      "link": "https://n.news.naver.com/mnews/article/422/0000890390?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:10:00+09:00",
-      "title": "[강성원의 현장톡(TALK)] AI로 시흥의 미래를 준비하는 임병택 시장",
-      "snippet": "바꾸기 위한 수단이라는 것이 임 시장의 일관된 시정 철학이다. 대한민국 대표도시 K-시흥을 향한 AI 기반 산업전환이 양질의 일자리 창출과 지역경제 활성화, 시민 삶의 질 향상이라는 결실로 이어질 수 있을지 주목된다.",
-      "domain": "fieldnews.kr",
-      "source": "fieldnews.kr",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30311"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:10:00+09:00",
-      "title": "중국인 치료해 주고 8억 못 받은 병원…권익위 “무연고 외국인 치료비...",
-      "snippet": "A씨의 가족은 중국에 거주하고 있었지만 경제적 사정을 이유로 의료비를 부담할 수 없다는 의사를 병원 측에 전달했고, 치료 포기서도 제출한 것으로 전해졌다. 막대한 의료비 부담을 떠안게 된 병원은 지난해 7월...",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646679?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:09:00+09:00",
-      "title": "Fed, 9대3으로 금리 동결…9월 인상론 확산",
-      "snippet": "Fed는 \"중동 분쟁에 일부 기인한 높은 불확실성에도 경제활동이 견조한 속도로 확장하고 있다\"고 평가했다.... 데이터센터와 컴퓨팅 설비에 수천억달러가 투입되면서 경제의 공급 능력을 넘어서는 수요가 발생할 수...",
-      "domain": "view.asiae.co.kr",
-      "source": "아시아경제",
-      "link": "https://n.news.naver.com/mnews/article/277/0005796463?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:09:00+09:00",
-      "title": "이 대통령, 칠레 도착… \"FTA 현대화·광물 MOU 체결 추진\"",
-      "snippet": "간 경제 협력 확대 방안을 논의한다. 정상회담에서는 2004년 한국이 최초로 체결한 한·칠레 FTA 관련 논의가 오갈 전망이다. 이 대통령은 이날 공개된 스페인 EFE통신 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945235?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:06:00+09:00",
-      "title": "[강대웅의 정문일침(頂門一鍼)] 정명근 화성시장의 \"복지사각지대 제로...",
-      "snippet": "아주경제=화성=강대웅 기자 dwkang@ajunews.com 정명근 시장이 대한적십자사 화성특례시지부 창립식에서 축사를... (2026년 7월 28일 자 아주경제 보도) 정 시장은 이를 위해 그동안 대한적십자사 경기지사와 긴밀한 유대 관계를...",
-      "domain": "ajunews.com",
-      "source": "ajunews.com",
-      "link": "https://www.ajunews.com/view/20260729235348135"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:06:00+09:00",
-      "title": "30억 '똘똘한 한 채' 정조준…野 \"징벌적 과세\"",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관이 29일 국회에서 열린 재정경제기획위원회 전체회의에서 위원들의 질의에 답하고 있다.(사진=연합뉴스) 구윤철 부총리 겸 재정경제부 장관은 29일 국회 재정경제기획위원회 전체회의에...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339554?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:06:00+09:00",
-      "title": "美하원의원 “미국 기업 표적 삼는 ‘마피아’ 같은 외국 공무원 책임져...",
-      "snippet": "바움가트너가 발의한 법안은 이민·국적법을 개정해 미국인을 대상으로 경제적 차별을 행하는 외국 정부 공직자를 ‘미국 입국 불허 대상자’로 지정해 미국에서 추방할 것을 요구하고 있다. 합법적이고 공정한 규제는...",
-      "domain": "chosun.com",
-      "source": "조선일보",
-      "link": "https://n.news.naver.com/mnews/article/023/0003990424?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:06:00+09:00",
-      "title": "美연준, 9대3으로 기준금리 동결…워시 \"필요하다면 주저않고 행동\"",
-      "snippet": "연준은 성명에서 \"중동 갈등으로 인한 불확실성에도 불구하고 경제 활동은 견조하게 확대되고 있다\"고 밝혔다. 또한 노동력 감소에도 불구하고 고용 증가가 노동력과 보조를 맞추고 있으며 실업률은 거의 변하지...",
-      "domain": "mediapen.com",
-      "source": "mediapen.com",
-      "link": "https://www.mediapen.com/news/view/1113126"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:06:00+09:00",
-      "title": "최연숙 충남도의원, 광역 문화관광정책 제안",
-      "snippet": "최연숙 의원은 끝으로 \"관광객이 하루 더 머물면 음식점과 숙박업소·전통시장과 지역상권이 살아난다\"면서 \"충남의 역사와 자연·사람을 잇는 길이 지역경제와 지역소멸 문제를 풀어가는 현실적인 해법이 될 수 있다\"고...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=712156"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:06:00+09:00",
-      "title": "칠레 도착한 李 “한-칠레 FTA, 진화해야…광물 MOU 체결”",
-      "snippet": "이 대통령은 칠레 방문에 앞서 공개된 EFE 통신과의 서면 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능... 강화해 경제 파트너십을 한 단계 발전시키고자 한다고 강조했다. 이 대통령은 “이번 협정 현대화가 단순히...",
-      "domain": "kmib.co.kr",
-      "source": "국민일보",
-      "link": "https://n.news.naver.com/mnews/article/005/0001863956?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:05:00+09:00",
-      "title": "美금리 3.50∼3.75% 5연속 동결…연준 의장 \"인플레 2% 목표\"(종합2보)",
-      "snippet": "연준 \"동결 9명 vs 인상 3명 표결…중동 불확실성에도 경제활동 확대\" \"생산성·투자 탄탄…인플레는... 연준은 \"중동 분쟁 등으로 인한 불확실성이 고조됐음에도 경제 활동은 견조한 속도로 확대되고 있다\"고 밝혔다. 또...",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016222959?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:05:00+09:00",
-      "title": "컴투스, ‘제우스: 오만의 신’ 출격 임박… 그리스 신화 새롭게 풀어냈...",
-      "snippet": "경제 시스템도 차별화했다. 생산 특화 클래스인 ‘아티산’은 채집과 제작, 거래를 통해 전투 클래스의 성장을 지원하며, 통합 거래소와 재화 환원 시스템을 통해 게임 내 경제가 유기적으로 순환하도록 설계했다.﻿",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665981?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:05:00+09:00",
-      "title": "예측할 수 없게 진화하는 AI 공격 위협… 글로벌 빅테크들 AI 보안에 ‘...",
-      "snippet": "2030년 내로 AI가 수백만 명을 사망하게 하거나 수백조 원 규모의 경제적 손실을 야기할 수 있는 확률이 20%를 넘는다는 뜻이다. 특히 ‘위험한 능력을 보유한 AI’(21.5%), ‘사이버 공격, 무기 개발 또는 사용에 의한...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665968?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:05:00+09:00",
-      "title": "李대통령, 칠레 산티아고 도착…“한-칠레 FTA 진화해야”",
-      "snippet": "앞서 이날 공개된 남미 스페인어권 EFE(에페)와 서면 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능(AI)... 한국이 FTA를 체결한 첫 국가인 칠레는 2004년 협정 체결 뒤 20년이 넘은 만큼 시대 변화에 맞는 경제·산업...",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646678?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:05:00+09:00",
-      "title": "신규 택지·그린벨트 풀고 세제·대출 조인다…부동산 대책 윤곽",
-      "snippet": "정부가 조만간 발표할 부동산 종합대책의 윤곽이 드러나고 있다. 신규 택지 발굴과 수도권 일부 개발제한구역... 30일 부동산 업계에 따르면 이번 대책은 공급 확대와 시장 안정을 동시에 추진하는 데 초점을 맞추고 있다....",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086930?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "현대차그룹, 브라질에 남미 수소 거점 구축… 생태계 조성 나선다",
-      "snippet": "이재명 대통령의 브라질 국빈 방문에 경제사절단으로 동행한 정의선 현대차그룹 회장은 28일(현지시간) 상파울루의 한 호텔에서 열린 비즈니스 라운드테이블에서 이런 구상을 밝혔다. 김용범 청와대 정책실장은...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665966?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "[손열 칼럼] 인도·태평양에서 태평양으로 바꾼 트럼프",
-      "snippet": "한국 등 동맹국들은 제1도련선을 중심으로 한 미국의 대중 억제적 지역 개념에 안보상 보조를 맞추어야 하겠지만 무역, 투자, 첨단기술, 인프라 개발, 해양안보, 경제안보 분야 등에서는 입장을 달리하고 있다. 설사 인태...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665955?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "■ 7월 30일 목 경제 캘린더",
-      "snippet": "■삼성전자, 2분기 경영실적 발표 삼성전자가 2분기 실적 확정 발표를 통해 반도체 부문 실적을 공개합니다. 2분기 삼성전자 전체 잠정실적은 매출 171조, 영업이익은 89조 4천억 원입니다. ■한국부동산원, 주간 아파트...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002386425?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "캠코, 장기 연체채권 1.1조 새도약기금에 매각 [서울신문 보도 그 후]",
-      "snippet": "캠코는 장기 연체 채무자의 경제적 재기를 돕기 위해 오는 31일 1조 1000억원 규모의 장기 연체채권을 새도약기금에 매각한다고 29일 밝혔다. 단순 연체자 수 기준으로는 8만 8000차주, 중복 인원을 제외하면 7만...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665962?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "후지모리 페루 대통령 취임… 중남미 ‘우향우’ 본격화",
-      "snippet": "취임을 하루 앞둔 27일에는 친미 성향의 인사를 경제부와 외교부 장관에 내정하기도 했다. 다만 향후 국정 운영 과정은 순탄치 않을 것으로 보인다. 30년 만에 양원제로 전환된 페루 의회에서 여당인 ‘민중의힘’은 과반...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665947?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "“창간 기획 ‘청년·청탁 시리즈’ 돋보여… 해법 제시는 더 필요” [독...",
-      "snippet": "27일자 ‘“서울 가면 성공” 옛말… 부모 경제력이 ‘상경 효과’ 좌우’ 기사와 16일자 ‘‘장윤기 부실... 경제·부동산 보도로는 12일자 ‘레버리지 위험경보–‘음의 복리’ 레버리지, 코스피 뒤흔들다’와 27일자...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665946?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:04:00+09:00",
-      "title": "법인카드 시장 진짜 1위는? 세금 넣으면 KB, 빼면 신한 [경제 블로그]",
-      "snippet": "대기업 등 법인회원에게 제공할 수 있는 경제적 이익이 연간 이용액의 0.5% 이내로 제한되기 때문입니다. 또 다른 업계 관계자는 “계열사와 공동 영업에 나서거나 기업별 결제·자금관리 서비스를 묶는 방식 등으로...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665965?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:03:00+09:00",
-      "title": "서민 위로한 96년 향토기업… ‘부산과의 상생’ 깊어진다",
-      "snippet": "지역 경제’를 지켜내기 위한 해결책 마련이 시급하다. 향토기업이 겪고 있는 자본 격차는 구체적인 수치로... 한라산(제주), 보해양조(전남광주), 금복주(대구경북) 등 각 지역 경제를 든든하게 받치고 있던 대표적인...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665937?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:03:00+09:00",
-      "title": "워시 \"금리도 해법 될 수 있다\"…추가 긴축 가능성 열어둬[일문일답]",
-      "snippet": "장기 국채금리 상승과 금융여건 악화가 사실상 추가 긴축 효과를 내고 있는 만큼 그 영향이 경제에 어떻게... 국채시장과 외환시장에서 투자자들이 연준의 발언보다 실제 경제 상황을 반영해 가격을 결정하도록 하는 것이...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339552?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:03:00+09:00",
-      "title": "“세금 8억 더 낼바엔 아들에게 증여”…상담 급증",
-      "snippet": "29일 부동산 업계에 따르면 최근 세무·자산관리 현장에서는 장특공제 개편 가능성에 대비해 증여와 가족 간... 남혁우 우리은행 부동산 연구원은 “실제 거주하지 않고 재건축 주택만 보유한 고령층은 제도 개편 전에...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339549?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:03:00+09:00",
-      "title": "실거주만 공제 소식에…장기보유자 선택 기로",
-      "snippet": "29일 부동산 업계에 따르면 정부는 장특공제의 보유기간 공제를 축소하거나 폐지하고 거주기간에 따른... 남혁우 우리은행 부동산연구원은 “모든 고가 주택 보유자가 한꺼번에 매도에 나서는 것은 아니지만...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339551?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "“7억 베팅했는데 2.2억 남았다”…‘두 배’ 올라탄 개미들의 비명 [숫...",
-      "snippet": "동시에 마이크론 등 해외 반도체주에서도 변동성이 더 크게 확대됐다며 거시경제와 업황 불확실성 등 여러 요인을 함께 봐야 한다고 짚었다. ◆허용 두 달 만에 고개 숙인 금융당국 단일종목 레버리지 상품은 국내외...",
-      "domain": "segye.com",
-      "source": "세계일보",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147013?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "은퇴 후 갈 곳은 자영업뿐...일본의 2배, ‘생계형 창업’의 비극 [창업...",
-      "snippet": "이는 경제협력개발기구(OECD) 31개국 평균(16.5%)은 물론 유럽연합(EU, 14.3%), 미국(2024년 기준 6.2%)을 훌쩍 넘어서는 수치다. 일본(9.0%)과 비교하면 2.5배다. 자영업자가 2015년 677.6만명에서 2025년 645.1만명으로 감소하면서 총...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608567"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "“7억 베팅했는데 2.2억 남았다”…‘두 배’ 올라탄 개미들의 비명 [숫...",
-      "snippet": "동시에 마이크론 등 해외 반도체주에서도 변동성이 더 크게 확대됐다며 거시경제와 업황 불확실성 등 여러 요인을 함께 봐야 한다고 짚었다. ◆허용 두 달 만에 고개 숙인 금융당국 단일종목 레버리지 상품은 국내외...",
-      "domain": "segye.com",
-      "source": "세계일보",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147013?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "은퇴 후 갈 곳은 자영업뿐...일본의 2배, ‘생계형 창업’의 비극 [창업...",
-      "snippet": "이는 경제협력개발기구(OECD) 31개국 평균(16.5%)은 물론 유럽연합(EU, 14.3%), 미국(2024년 기준 6.2%)을 훌쩍 넘어서는 수치다. 일본(9.0%)과 비교하면 2.5배다. 자영업자가 2015년 677.6만명에서 2025년 645.1만명으로 감소하면서 총...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608567"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "알바보다 못버는 ‘사장님’...\"좀비 자영업, 폐업하면 다행\" [창업, 지...",
-      "snippet": "실제 한국경제인협회의가 발표한 '2026년 자영업자 경영환경 인식 조사' 결과에 따르면 자영업자의 34.0%는 인건비·재료비·임대료 등을 제외한 월 실수령액이 주 40시간 근로 기준 법정 최저임금(월 215만6880원)에 미치지...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608573"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "[전문가기고] ADAS의 다음 기준, 전천후 센싱을 준비할 때",
-      "snippet": "이상민 칼테라 한국지사장 아주경제=이상민 칼테라 한국지사장 sunlight@ajunews.com 이상민 칼테라 한국지사장 [사진=칼테라] 자동차 센싱 기술의 경쟁축이 달라지고 있다. 과거에는 '얼마나 멀리, 얼마나 정확히 감지하는가...",
-      "domain": "ajunews.com",
-      "source": "ajunews.com",
-      "link": "https://www.ajunews.com/view/20260729104714609"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "한·브라질 손잡고 차세대 항공기·핵심 광물·K뷰티 성과 만든다",
-      "snippet": "이재명 대통령은 28일(현지시간) 한국과 브라질 간 경제 협력과 관련해 “앞으로 차세대 민항기 공동 개발을... 이 대통령은 전날 룰라 다시우바 대통령과의 정상회담에서 합의한 희토류 등 광물에 대한 협력 등 경제 협력...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665910?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "테슬라, 벌써 무인 상용차 첫발…韓도 기술·제도·SW 연계 시급",
-      "snippet": "운전자의 고령화 등 생리적 한계로 인한 가동률 저하를 무인화로 극복하는 순간 경제적 효과가 폭발하기 때문이다. 게다가 상용차 자율주행은 보행자 및 교차로 변수가 적은 고속도로 기반으로 운행된다. 물류 거점을...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339545?sid=103"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "정부 ‘혁신기업 키운다’…제약업계, R&D·구조조정·M&A 재편 본격화[...",
-      "snippet": "제네릭 중심 사업만으로는 수익성을 유지하기 어려워지면서 규모의 경제를 확보하기 위한 M&A나 전략적 제휴가 활발해질 것이라는 분석이다. 특히 R&D 역량과 자금력을 갖춘 상위 제약사들은 유망 바이오벤처나 기술력을...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2607540"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "[마감 후] 희망을 만드는 자영업 퇴로",
-      "snippet": "이미 포화상태인 자영업에 고령 은퇴자들의 유입은 골목경제의 낮은 생산성과 출혈 경쟁, 금융건전성... 문 뒤의 퇴로가 잔인한 가시밭길이 되지 않고, 골목경제를 위협하는 뇌관이 되지 않기 위해선 이제 노동시장과...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608576"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "트럭운전자 '고령화·구인난' 해법…초기투자 지원·제도정비 서둘러야",
-      "snippet": "전동화는 자율주행이 요구하는 에너지와 전력 기반을 제공하고, 자율주행은 공기저항 저감, 군집주행, 가동률 향상 및 운행 최적화를 통해 전동화 차량의 경제성을 개선한다. 따라서 미래 상용 모빌리티 경쟁력은 개별...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339546?sid=103"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "트럼프 지지율 34~45%…엇갈린 조사 속 민심 이탈",
-      "snippet": "경제와 의료, 무역, 외교정책을 비롯한 나머지 분야에서는 부정평가가 우세했다. 백악관은 뉴스위크에 트럼프 행정부의 경제정책이 일자리와 실질임금 증가, 투자 유치, 처방약 가격 인하와 상품무역 적자 축소에...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=2026072922422640019a1f309431_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "부동산업·임대업 불황 심화… 기업銀 연체율 14년來 최고 [경제레이더...",
-      "snippet": "중소기업 25% “내년, 올해보다 부진” 상업용 부동산 경기 침체에 최근 시중금리 상승 흐름이 겹치면서 중소기업 특화 은행인 IBK기업은행에서 관련 업종 연체율이 14년 만에 최고치를 기록했다. 다른...",
-      "domain": "segye.com",
-      "source": "세계일보",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147017?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "“용적률 올려 분담금 낮추던 시대는 끝났다”…‘재건축 이후’를 설계...",
-      "snippet": "송승현 도시와경제 대표는 일정 규모의 정비사업은 여전히 필요하다고 했다. 대수선이나 리모델링만으로는... 조정흔 경제정의실천시민연합(경실련) 토지주택위원장은 사업성이 충분한 곳에는 추가 용적률 인센티브를...",
-      "domain": "hani.co.kr",
-      "source": "한겨레",
-      "link": "https://n.news.naver.com/mnews/article/028/0002816348?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "[서울 중심 금융 탈피] 국민연금 1500조 잡아라…4대 금융·글로벌 IB, 전...",
-      "snippet": "양준석 가톨릭대학교 경제학과 교수는 \"금융산업은 기업과 인력이 한곳에 모이는 집적 효과가 중요한 산업\"이라면서 \"정부 정책만으로 금융 중심지를 조성하기는 어렵고 금융권들이 지속적으로 참여할 수 있는 환경과...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202607291440351768cd0bfacc1c_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "李대통령 “브라질 자원·시장에 韓 기술·혁신 더해 공동 번영” [李대...",
-      "snippet": "것은 경제적 성취만이 아니다. 여러분은 누구보다 성실하고 열심히 일하며 한국인에 대한 신뢰를 브라질... 이어 “룰라 대통령이 과거 두 차례 재임했을 때 브라질 경제가 급성장했다. 소득·교육 불평등도 엄청나게...",
-      "domain": "segye.com",
-      "source": "세계일보",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147014?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "[이코노 브리핑] 우리금융 ‘전북 금융타운’ 개소식 개최 외",
-      "snippet": "내달 개인투자용 국채 1500억원 발행 재정경제부는 다음달 개인투자용 국채를 1500억원 규모로 발행한다고 29일 밝혔다. 종목별 발행 한도는 3년물 이표채 30억원, 3년물 복리채 70억원, 5년물 700억원, 10년물...",
-      "domain": "segye.com",
-      "source": "세계일보",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147018?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "60조원 번 하닉도 ‘패닉셀’ 못 막았다",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관은 이날 재정경제기획위원회 업무보고에서 “레버리지 제도를 도입하고 상품을 출시하면서 향후 영향을 꼼꼼하게 챙기지 못한 측면에 대해 송구하게 생각한다”고 사과했다....",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665905?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "[단독] 20억 한 채는 종부세 안 낸다… 기본공제 12억 →14억 상향",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관도 이날 “이재명 정부는 집값을 잡으려고 부동산 세제를 운영하지 않는다. 거래 정상화와 부동산 시장 안정을 목적으로 한다”며 보유세 강화가 ‘증세’가 아닌 ‘정상화’라는 점을...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665913?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "수명 긴 주택·소규모 정비사업…재건축 아닌 ‘다른 길’도 있다",
-      "snippet": "김현수 단국대 교수(도시계획·부동산학부)는 “지금 방식으로 지어도 사업성이 나오지 않는데, 장수명 주택을 조합이 선택하기는 어렵다”고 말했다. 사업 규모를 줄여 기존 주민의 부담을 낮춘 사례도 있다. 서울...",
-      "domain": "hani.co.kr",
-      "source": "한겨레",
-      "link": "https://n.news.naver.com/mnews/article/028/0002816344?sid=102"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "“수도권 그린벨트, 진짜 풀리나” 해제 검토에 매물 문의 이어져",
-      "snippet": "김윤덕 국토부 장관은 지난 27일 열린 부동산 정책 국민 대토론회에서 “장관이 된 이후 그린벨트를... 김효선 KB국민은행 부동산수석전문위원은 지난 27일 열린 토론회에 참석해 “서울은 대한민국의 경쟁력”이라며...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339548?sid=101"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 7억 964만 달러 청산",
-      "snippet": "24시간 동안 이더리움 포지션에서 약 6292만 달러가 청산되었으며, 비트코인(BTC)은 5310만 달러의 청산이 발생했다. 주요 알트코인들 중에서는 SORA(7053만 달러), SNDK(2728만 달러), XRP(1460만 달러) 순으로 많은 청산이...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/382770"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "\"검증자 85% 찬성\"...XRP 레저, 보안 체계 업그레이드",
-      "snippet": "거래쌍은 원화와 비트코인(Bitcoin, BTC), USDT로 구성됐다. [기사 핵심 요약] -XRP 레저의 fixCleanup3_2_0 개정안이 검증자 85.71%의 지지를 얻어 메인넷에서 활성화됐다. -XRPL 3.2.0에는 대출 프로토콜과 허가형...",
-      "domain": "coinreaders.com",
-      "source": "coinreaders.com",
-      "link": "http://coinreaders.com/250262"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-07-30T05:02:00+09:00",
-      "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 63,517달러, 이더리...",
-      "snippet": "토큰포스트마켓에 따르면 2026년 7월 30일 오전 5시 7분 50초(KST) 기준 비트코인은 전날 대비 0.46% 하락한 63,517.12달러(약 92,240,491원)에 거래되고 있다. 이더리움은 전날 대비 1.73% 내린 1,886.37달러(약 2,739...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/briefing/382769"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "중기대출 270조 짊어진 IBK…불황 땐 건전성 우려",
-      "snippet": "금융계의 한 고위 관계자는 “당장은 자금난을 겪는 중소기업에 대한 지원이 급하지만 주기적으로 찾아오는 경제위기도 고민하지 않을 수 없다”며 “기업은행의 부실이 늘어나면 결국 정부와 국민의 부담으로...",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646677?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "美 FOMC, 금리 3.50~3.75% 5연속 동결…3명은 금리인상 주장",
-      "snippet": "연준은 미국 경제 상황에 대해선 기존 기조를 유지했다. 해맥 위원 등 3명이 금리 인상을 주장했다는 내용을 제외하면 이날 정책 결정문에 담긴 경제 상황 진단 관련 문구는 6월 결정문과 비슷했다. 연준은 \"중동 분쟁...",
-      "domain": "nocutnews.co.kr",
-      "source": "nocutnews.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/079/0004173623?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "[열린송현] 청소년 SNS 이용, 차단 아닌 ‘핀셋 규제’로",
-      "snippet": "단 1초라도 체류 시간을 늘려 수익을 극대화하려는 거대 플랫폼의 탐욕적인 ‘주목 경제(attention economy)’와 미성년자를 수익 창출의 수단으로 삼는 구조 탓이다. 미국 사법부가 메타와 구글 등에 천문학적 징벌적 배상을...",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646674?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "'4년 연임제' 발언들 살펴보니…李는 선긋고, 측근은 불지펴",
-      "snippet": "다만 지난 4월 7일 청와대 여야정 민생경제협의체 회담에서 간접적으로 같은 입장을 내놨다. 당시 비공개 오찬에서 장동혁 국민의힘 대표는 \"개헌을 논의하기 전 중임 또는 연임하지 않겠다는 선언을 국민께 선제적으로...",
-      "domain": "nocutnews.co.kr",
-      "source": "nocutnews.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/079/0004173615?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "전쟁도, IMF도 아닌데 대폭락장…9천피→5천피 '수직낙하'[영상]",
-      "snippet": "최근엔 뚜렷한 경제 관련 악재도 없는데 금융위기 때나 보던 낙폭이 나타나면서 투자자들은 속수무책으로 더욱 패닉 상태다. IMF나 글로벌 금융위기도 아닌데 더 큰 낙폭이 나왔나 이번 급락의 직접적인 방아쇠는...",
-      "domain": "nocutnews.co.kr",
-      "source": "nocutnews.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/079/0004173617?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "“원자력, 바다·극지·우주로…AI 전력 전쟁 ‘누어블’이 해법”",
-      "snippet": "송철화 한양대 원자력공학과 연구교수는 29일 서울경제신문과의 인터뷰에서 “재생에너지는 확대하되 원전과 소형모듈원전(SMR)으로 변동성을 보완하는 에너지 믹스가 필요하다”며 “AI·반도체 등 산업 경쟁력 확보와...",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646675?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:01:00+09:00",
-      "title": "'신호탄 쏜' 中 반도체 자립…속도와 美 규제에 달렸다",
-      "snippet": "중국 상무부 국제무역경제협력연구원의 저우미 연구원은 \"만약 노광장비의 일부 국산 대체가 가능해진다면, 대외 봉쇄를 깨고 자립·혁신을 실현하는 데 있어 '0에서 1로 가는' 한 걸음이 될 것\"이라고 말했다. 성능...",
-      "domain": "nocutnews.co.kr",
-      "source": "nocutnews.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/079/0004173620?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "“내가 잘생겨진 비결” 룰라도 극찬한 브라질 ‘대세 아이템’",
-      "snippet": "이상목 아모레퍼시픽홀딩스 사장, 김병훈 에이피알 대표, 천주혁 구다이글로벌 대표, 김성운 실리콘투 대표 등이 경제사절단 자격으로 브라질 순방에 참여했다. 중소기업벤처부는 브라질 현지에서 29일까지 ‘K뷰티...",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541162?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "공정시장가액비율 60%→70% 상향…비거주 1주택 공제 9억원 축소",
-      "snippet": "구윤철 경제부총리 겸 재정경제부 장관은 이날 국회 재정경제기획위원회 업무보고에서 “거주하는 1주택에 대해서는 혜택을 드리고, 여러 채를 보유하면서 한 채만 거주하고 나머지는 (거주하지 않는) 경우에는 세제...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608650"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "\"울산·광저우서 브라질까지\"…현대차그룹, 글로벌 '수소 벨트' 구축 나...",
-      "snippet": "정 회장은 이 대통령의 브라질 국빈 방문에 경제사절단으로 동행해 해당 행사에 참석했다. 현대차그룹은 브라질에서 그린수소 생산과 수소연료전지시스템 공급, 재생에너지 발전소 건설 등을 추진할 계획이다....",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096871?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "美 30년 국채 금리 2007년 이후 최고…연준 동결 뒤 장기채 투매",
-      "snippet": "이는 채권시장이 경제를 부양하지도 억제하지도 않는 이론적 금리 수준인 연준의 중립금리를 이전보다 높게 보고 있음을 시사한다고 블룸버그는 설명했다. 매킨타이어는 현재 금리 수준을 고려하면 연준이 지난해...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086928?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[오늘의 국회일정] (30일, 목)",
-      "snippet": "한국의 경제안보 전략 및 산업경쟁력 확보 정책과제 (본관 316호) 10:00 나경원 의원실 등, 노란봉투법 주52시간 규제 부작용과 국민 일자리 보호를 위한 노동 정책의 미래 (의원회관 제9간담회의실) 10:00 안태준...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086908?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[오늘의 국회일정] 상임위·세미나·기자회견·주요 정당 - 7월 30일",
-      "snippet": "한국의 경제안보 전략 / 본관 316호 10:00 나경원 의원실 등, 노란봉투법 주52시간 규제 부작용과 국민 일자리 보호를 위한 노동 정책의 미래 / 의원회관 제9간담회의실 10:00 안태준 의원실, 발주청 참여형...",
-      "domain": "newspim.com",
-      "source": "newspim.com",
-      "link": "https://www.newspim.com/news/view/20260729001275"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[데스크칼럼] 빼빼로와 로스팜의 어색한 동거...롯데웰푸드, 분리가 필...",
-      "snippet": "​​김형규 부국장 (생활경제부장)​​ 롯데제과와 롯데푸드가 한 회사가 된 지 4년이 흘렀다. 롯데는 2022년... 제품과 영업소를 줄이고 중복 기능을 정리해 규모의 경제를 만들겠다는 계산도 있었다. 롯데그룹은 현재도...",
-      "domain": "pinpointnews.co.kr",
-      "source": "pinpointnews.co.kr",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472557"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "증평군의회, 올해 국외연수 예산 전액 삭감",
-      "snippet": "증평군의회(의장 장천배)는 29일 어려운 경제 여건 속에서 군민과 고통을 분담하고 민생안정에 힘을 보태기... 지속되는 경기침체와 고물가 등으로 군민들의 경제적 어려움이 커지고 있는 상황에서 군민의 고충에 깊이...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=712155"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "美 “中로봇 동작 그만”…‘차머노이드’ 퇴출에 현대차 웃을까",
-      "snippet": "인공지능(AI) ‘두뇌’를 탑재한 휴머노이드 로봇이 미국 경제나 국가안보에 위협을 가할 수 있다는... 또 “이들 장비가 미국 공급망의 취약성을 키워 미국 경제·국가안보를 해치고, 핵심 인프라에 사이버보안 위험을...",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541158?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[강성원의 현장톡(TALK)] 재정 위기 정면 돌파 나선 추미애 경기도지사",
-      "snippet": "지난 22일 경기도경제과학진흥원에서 열린 '도지사·시장·군수 간담회'에서도 \"경기도가 풀어야 할 과제가 너무 많고 재정 면에서도 대단히 심각하고 어렵다\"고 토로했다. 그러면서도 민생과 미래를 위한 투자는 흔들림...",
-      "domain": "fieldnews.kr",
-      "source": "fieldnews.kr",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30298"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[시대광장/박창억] 청년을 잃은 민주, 미래도 잃는다",
-      "snippet": "당규의 예외 규정을 공평하게 개정하고, 청년층의 경제적 장벽을 낮추는 기탁금 제도의 전면 혁신이 선행되어야 한다. 청년과 정치 신인의 대표성을 제도적으로 보장하는 지속 가능한 시스템을 구축해야 신뢰를 회복할...",
-      "domain": "sidae.com",
-      "source": "sidae.com",
-      "link": "https://n.news.naver.com/mnews/article/417/0001153623?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "\"월급 가져다주면 내 몫은 20만뿐\"…가족 ATM 노릇하다 탈출한 여성",
-      "snippet": "28일 JTBC '사건반장'에 따르면 20대 후반 A 씨는 가족의 경제적 착취와 통제에서 벗어나기 위해 집을 떠났다.... A 씨는 경제적인 착취뿐 아니라 일상적인 통제도 심했다고 주장했다. 그는 \"외출하면 부모에게서 전화와 문자가...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086906?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "무기만 팔던 시대는 끝났다… 방산·자원 패키지 고민해야",
-      "snippet": "안보, 경제, 외교를 동시에 강화하는 국가 전략이다. 세계 각국은 국방력 증강과 공급망 다변화를 추진하면서 방산외교의 중요성을 강화하고 있다. 안보적 이유 외에도 방산외교가 중요한 이유는 경제 성장과 일자리...",
-      "domain": "weekly.chosun.com",
-      "source": "weekly.chosun.com",
-      "link": "https://n.news.naver.com/mnews/article/053/0000060306?sid=105"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "증시 이틀 연속 급락에…F4 저녁 긴급회의, 레버리지 손봤다",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관과 신현송 한국은행 총재, 이억원 금융위원장, 이찬진 금융감독원장 등은... 변명과 궤변을 늘어놓는다니 분노를 금할 수 없다”며 김 실장을 포함한 경제 라인 전면 교체를 주장했다.",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541160?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "장특공제 축소·거주공제 10억원 상한 검토…양도세 실거주 중심 개편",
-      "snippet": "이투데이=세종=정호영 기자 | 부동산 양도세 세제 개편 강화 정부가 부동산 양도소득세를 실거주 중심으로 개편해 장기보유특별공제(장특공제)는 축소하고 거주공제에도 최대 10억원의 상한을 두는 방안을 검토하고...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608731"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[출근길 포인트] 개미 매수 지속·日 지진 공급망 불안…신형 아반떼 공...",
-      "snippet": "◇이억원 \"대출 풀면 집값 자극…주거사다리 멀어져\" 이억원 금융위원장이 부동산 시장의 대출 규제를... 이 위원장은 \"결국 대출이 풀렸을 때 이것이 부동산 가격을 자극하고 다시 부동산이 불안해지고 어떻게 보면...",
-      "domain": "pointdaily.co.kr",
-      "source": "pointdaily.co.kr",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313658"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[검사수첩] 법정에 제출된 해외문서…공판검사가 밝혀낸 6500억 사기의 ...",
-      "snippet": "돈을 빌리면 즉시 변제하고 피해자 소유의 부동산도 시세보다 비싸게 매수하겠다고 약속한 것으로 조사됐다.공판검사로 법정에 들어선 최창윤 검사(변호사시험 14회)는 준비 과정에서 피고인들이 재판부에 제출한 해외...",
-      "domain": "asiatoday.co.kr",
-      "source": "asiatoday.co.kr",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260729010010851"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "위기의 건설업…올 상반기만 2092곳 폐업, 12년 만에 최다",
-      "snippet": "올들어 건설사 폐업이 급증한 데에는 고금리 장기화와 부동산 프로젝트파이낸싱(PF) 경색으로 인한 건설경기 불황에 중동 전쟁과 고환율 등 대외 변수까지 겹친 탓이 크다. 여기에 하반기 기준금리 인상 기조에...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096878?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[미완의 한화 김동선④] 테마파크의 '속빈' 청사진",
-      "snippet": "<편집자 주> 김동선 부사장이 중장기적으로 공을 들이고 있는 사업은 부동산 개발이다. 김 부사장은... 백화점과 같은 오프라인 유통사업과 호텔·리조트 역시 넓게 보면 부동산 개발이다. 고객들이 체류하며 쇼핑·휴식...",
-      "domain": "shinailbo.co.kr",
-      "source": "shinailbo.co.kr",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045443"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "대출 막혀 하반기 입주 앞둔 7만 가구 '잔금 비상'…둔촌주공 때는 어땠...",
-      "snippet": "지난 23일 이재명 대통령 주재로 열린 부동산 정책 국민대토론회에서는 경기 수원 매교역 팰루시드 입주... 한국부동산원과 부동산R114가 공동 분석한 ‘공동주택 입주예정물량 정보’에 따르면 올해 8월부터 12월까지...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086914?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "전국 폭염ㆍ낮 최고 39도⋯'생명 위협' 극한 더위 [날씨]",
-      "snippet": "시설물 관리와 안전사고에 주의해야 한다. 새벽부터 아침 사이 전남 내륙에는 가시거리 1㎞ 미만의 안개가 끼는 곳이 있겠다. 서해상에도 바다 안개가 예상돼 항해ㆍ조업 선박과 해상교통 이용객은 운항 정보를 미리...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608931"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T05:00:00+09:00",
-      "title": "[오늘의 날씨] 강원(30일, 목)…무더위 계속, 동해안 낮 최고 37도",
-      "snippet": "오전 사이 동해안과 산지를 중심으로 바람이 순간풍속 초속 15m 안팎으로 강하게 부는 곳이 있겠으니 시설물 관리와 안전사고에 유의해야 한다. 바다의 물결은 동해중부앞바다 0.5~1.0m, 바깥먼바다 1.0~2.0m로 인다....",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086926?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:59:00+09:00",
-      "title": "이 대통령, 칠레 도착…“한·칠레 FTA 현대화, 핵심광물 협력”",
-      "snippet": "이 대통령은 아시아·태평양경제협력체(APEC) 정상회의 기간이던 지난해 10월 경북 경주에서 가브리엘 보리치... 이 대통령은 29일 칠레 방문에 앞서 공개된 스페인어권 통신사 EFE와서면 인터뷰에서 “오늘날 경제는...",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003541157?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:58:00+09:00",
-      "title": "李대통령, 현지 인터뷰에서 \"한·칠레 FTA 현대화\" 강조",
-      "snippet": "공급망 재편과 탄소중립 전환 등 새로운 경제 현실을 협정에 반영하고, 핵심광물과 첨단산업을 아우르는 전략적 경제 협력으로 양국 관계를 발전시켜야 한다는 구상이다. 이재명 대통령 내외가 29일(현지시간) 칠레에...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339544?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:58:00+09:00",
-      "title": "칠레 찾은 李 대통령 \"FTA 현대화…광물 파트너십 MOU 체결할 것\"",
-      "snippet": "대통령은 \"오늘날 경제는 디지털 무역, 인공지능(AI), 청정기술, 회복력 있는 공급망, 탄소중립 전환을... 강화, 경제 파트너십을 한 단계 더 발전시키고자 한다\"고 말했다. 이 대통령은 또 \"이번 협정 현대화가 단순히 무역...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393080?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:58:00+09:00",
-      "title": "이 대통령 “한·칠레 FTA, 현실 반영 진화해야…광물 자원 파트너십 체...",
-      "snippet": "인터뷰에서 \"오늘날 경제는 디지털 무역, 인공지능(AI), 청정 기술, 회복력 있는 공급망, 탄소중립 전환을... 강화함으로써 경제 파트너십을 한 단계 더 발전시키고자 한다\"고 강조했습니다. 이 대통령은 또 이번 FTA 협정...",
-      "domain": "kbs.co.kr",
-      "source": "KBS",
-      "link": "https://n.news.naver.com/mnews/article/056/0012227896?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:58:00+09:00",
-      "title": "산티아고 도착 李대통령 “칠레와 FTA 현대화 추진한다”",
-      "snippet": "이 대통령은 이날 공개된 EFE 통신과의 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능(AI), 청정기술... 강화함으로써 경제 파트너십을 한 단계 더 발전시키고자 한다고 밝혔다. 특히 이 대통령은 이번 FTA 현대화가...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003665903?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:58:00+09:00",
-      "title": "금리 동결한 워시…\"오늘 뉴스가 뭐냐\" 날선 질문에 '진땀' [Fed워치]",
-      "snippet": "또 \"궁극적으로 중요한 것은 우리가 물가안정을 달성하느냐는 점\"이라면서 생산성이나 인구구조, 세계 경제 상황 등을 판단하기 위해 8월 잭슨홀 회의 전까지 TF 팀들을 점검하겠다고 밝혔다. 직설적으로 \"오늘 뉴스가...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315435?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:58:00+09:00",
-      "title": "李대통령, 칠레 도착…FTA·핵심광물 협력 고도화",
-      "snippet": "중심으로 경제안보 협력을 확대하는 데 외교력을 집중할 것으로 보인다. 이 대통령은 이날 오후... 정상회담에 이어 대통령궁에서 공식 환영식과 양해각서(MOU) 서명식, 공식 오찬이 예정돼 있으며, 양국 경제인들이...",
-      "domain": "einfomax.co.kr",
-      "source": "einfomax.co.kr",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427633"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:56:00+09:00",
-      "title": "금리는 묶었지만 인상파 3명… 美 연준, 9월 인상 문 열었다",
-      "snippet": "연준이 금리를 즉각 올리지 않고 경제 상황을 지켜볼 수 있는 여유가 생긴 것이다. 하지만 이달 들어 미국과... 경제 상황에 대한 진단도 지난 6월과 거의 같았다. 연준은 \"인플레이션은 에너지를 포함한 일부 부문의 공급...",
-      "domain": "the-today.com",
-      "source": "the-today.com",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=87980"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:56:00+09:00",
-      "title": "워시, 매파 발언에도 정책은 비둘기…금리 동결에도 국채금리 급등 [박...",
-      "snippet": "시장은 세 명의 반대표보다 워시 의장이 즉각적인 추가 긴축을 예고하지 않았다는 점에 더 주목했고, 9월 회의까지는 경제지표와 시장 흐름을 지켜보겠다는 신호로 받아들이는 분위기입니다. 2. 메타, AI 투자 넘어...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315434?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:55:00+09:00",
-      "title": "[질의응답] 워시 \"목표는 오직 2% 인플레 달성…시장 금리 상승이 긴축...",
-      "snippet": "시장이 Fed 관계자의 발언이나 점도표보다 실제 경제지표에 직접 반응하기 시작했다는 의미다. 구체적인 동결 조건을 명확히 제시하기보다는, 시장금리 상승이 이미 긴축 효과를 내고 있으며 연준이 경제와 시장의 추가...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315433?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:54:00+09:00",
-      "title": "이 대통령 “한·칠레 FTA 진화해야”… 광물 자원 MOU도 체결",
-      "snippet": "아르헨티나 언론 ‘인포바에'에 따르면 이 대통령은 칠레 방문에 앞서 공개된 이에프이(EFE) 통신과의 서면 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능(AI), 청정기술, 회복력 있는 공급망, 탄소 중립 전환을...",
-      "domain": "hani.co.kr",
-      "source": "한겨레",
-      "link": "https://n.news.naver.com/mnews/article/028/0002816342?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:54:00+09:00",
-      "title": "李대통령, 30일 칠레 정상회담…\"FTA, 환경 변화 맞춰 진화해야\"",
-      "snippet": "변화한 경제 환경에 맞춰 진화해야 한다\"며 디지털 무역과 인공지능(AI), 청정기술, 핵심광물 공급망 등을... 세계 경제는 디지털 무역과 AI, 청정기술, 회복력 있는 공급망, 탄소중립 전환을 중심으로 재편되고 있다\"며 \"한...",
-      "domain": "einfomax.co.kr",
-      "source": "einfomax.co.kr",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427631"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:50:00+09:00",
-      "title": "케빈 워시 \"쉬어가기 아니다\"…시장보다 지표 본다",
-      "snippet": "특히 시장의 금리 기대보다 경제지표와 물가 흐름을 중심으로 정책을 결정하겠다는 통화정책 운영 원칙을... 워시 의장은 \"이번 결정을 '쉬어가기'라고 규정하지 않겠다\"며 \"경제 상황과 정책 전략, 정책 수단을...",
-      "domain": "ebn.co.kr",
-      "source": "ebn.co.kr",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718306"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:49:00+09:00",
-      "title": "‘인상 의견 3명’ 연준, 매파적 동결...워시 “인플레 목표 완화는 없...",
-      "snippet": "해맥 위원 등 3명이 금리 인상을 주장했다는 내용을 제외하면 이날 정책 결정문에 담긴 경제 상황 진단... 연준은 또 “중동 분쟁 등으로 인한 불확실성이 고조됐음에도 경제 활동은 견조한 속도로 확대되고 있다”며...",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004646673?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:49:00+09:00",
-      "title": "李 “한-칠레 FTA 진화해야”…오늘 정상회담서 핵심광물 공급망 논의",
-      "snippet": "이 대통령은 한-칠레 정상회담을 앞두고 이날 공개된 에페(EFE) 통신과 서면 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능(AI), 청정기술, 회복력 있는 공급망, 탄소 중립 전환을 중심으로 재편되고 있다”며 이같이...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737636?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:49:00+09:00",
-      "title": "美청문회 소환된 파우치 \"이건 집착\"…111차례 묵비권 진풍경",
-      "snippet": "당시 미·중 당국의 교감 아래 코로나19 바이러스가 유출됐고, 2020년 수많은 미국인의 사망과 사회·경제적 침체 탓에 트럼프 대통령이 그해 재선에 실패했다는 음모론은 트럼프 지지층에서 되풀이되는 '대선 조작설'의 한...",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016222950?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:48:00+09:00",
-      "title": "FED '매파적 금리 동결\"...장중 미국증시 '하락', 30년물금리 '껑충'",
-      "snippet": "미국 경제방송 씨엔비씨에 따르면 이 시각 2년물 미국 국채금리는 4.238%로 전일의 4.267% 대비 하락 중이다. 반면 벤치마크 금리인 10년물 미국 국채금리는 4.659%로 전일의 4.606% 대비 높아졌다. 이 시각 30년물 미국...",
-      "domain": "choicenews.co.kr",
-      "source": "choicenews.co.kr",
-      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168985"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:47:00+09:00",
-      "title": "李대통령 \"한-칠레 FTA 진화해야\"…'광물자원 협력 MOU' 예정",
-      "snippet": "이 대통령은 이날 공개된 남미 스페인어권 EFE(에페)와 서면 인터뷰에서 \"오늘날 경제는 디지털 무역... 2004년 협정 체결 후 20년이 넘은 만큼 양국 및 글로벌 경제·산업·통상 분야 변화상을 반영한 FTA 현대화 논의가...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086897?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:46:00+09:00",
-      "title": "'허위사실 공표 혐의' 이원택 전북지사 경찰 조사‥\"무죄 충분히 입증\"",
-      "snippet": "전북경찰청 반부패경제범죄수사대는 어제 오후 6시 반부터 오늘 오전 1시까지 공직선거법상 허위사실을 공표한 혐의 등으로 이 지사를 불러 조사했습니다. 이 지사는 지난 지방선거 당시 경쟁자인 김 전 지사를 낙선시킬...",
-      "domain": "imnews.imbc.com",
-      "source": "imnews.imbc.com",
-      "link": "https://n.news.naver.com/mnews/article/214/0001514774?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:46:00+09:00",
-      "title": "5회 연속 동결했지만 '매파 신호'…케빈 워시 \"느슨한 물가 목표는 없다...",
-      "snippet": "연준은 성명에서 \"중동 분쟁으로 불확실성이 높아졌음에도 경제 활동은 견조한 속도로 확장되고 있다\"고... 이번 성명은 지난 6월 발표문과 비교해 경제 상황에 대한 평가를 거의 그대로 유지했다. 향후 금리 방향을...",
-      "domain": "mtn.co.kr",
-      "source": "mtn.co.kr",
-      "link": "https://news.mtn.co.kr/news-detail/2026073004354624182"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:46:00+09:00",
-      "title": "李대통령, 칠레 도착…FTA 현대화·핵심광물 공급망 협력 넓힌다",
-      "snippet": "이재명 대통령이 남미 핵심 경제협력국인 칠레를 공식 방문했다. 우리나라 최초의 자유무역협정(FTA)... 실질적인 경제협력 확대 방안을 논의한다. 첫 FTA 체결국과 '통상협력 2.0' 추진 이 대통령은 도착 당일 현지 동포들과...",
-      "domain": "the-today.com",
-      "source": "the-today.com",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=87979"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:46:00+09:00",
-      "title": "이 대통령 \"한-칠레 FTA, 환경에 맞게 진화해야…핵심 광물 협력\"",
-      "snippet": "인터뷰에서 \"오늘날의 경제는 디지털 무역, 인공지능(AI), 청정 기술, 회복력 있는 공급망, 탄소중립 전환을... 강화해 경제협력 수준을 높여야 한다고 강조했습니다. 또 FTA를 개정하면서 노동 기준, 성평등 등 분야도...",
-      "domain": "sbs.co.kr",
-      "source": "SBS",
-      "link": "https://n.news.naver.com/mnews/article/055/0001376572?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:43:00+09:00",
-      "title": "워시 \"연준 목표는 물가 2%…내부 이견, 방법론 차이일 뿐\"",
-      "snippet": "또 금리 동결 결정은 정책 전환이나 긴축 종료를 의미하는 것이 아니라 경제 상황을 다시 면밀히 평가하는... 요인인지 경제 전반의 가격으로 확산되고 있는지를 파악하는 것이 핵심 질문\"이라고 말했다. 워시 의장은 물가...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393079?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:42:00+09:00",
-      "title": "브라질 희토류·칠레 리튬 잇는다…李대통령, 남미 자원벨트 공략",
-      "snippet": "남미 경제외교를 이어간다. 이 대통령은 브라질 방문 기간 루이스 이나시우 룰라 다시우바 대통령과... 바이오경제, 지속가능연료, 산업 탈탄소화 등 첨단 전략산업에서 공동 연구개발과 기업 간 협력을 촉진하기로 했다....",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608948"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:40:00+09:00",
-      "title": "[종합] 연준 금리 동결·3인 반대… 워시 \"2% 반드시 달성, 선제안내는 ...",
-      "snippet": "그는 \"우리가 한 일을 일종의 일시 중단 같다고 보지 않겠다\"며 \"경제 상황과 큰 핵심 질문들에 대한 철저한... 다만 생산성과 인구 구조, 충격 속의 세계 경제 같은 큰 질문에 틀을 잡고 싶다는 구상을 내비쳤다. 워시...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382766"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:38:00+09:00",
-      "title": "李대통령 \"한·칠레 FTA, 새 경제 현실 맞춰 진화해야\"",
-      "snippet": "아주경제=산티아고(칠레)=김봉철 기자 nicebong@ajunews.com 이재명 대통령이 28일(현지시간) 브라질 상파울루 한... 한국경제인협회 회장. [사진=연합뉴스] 이재명 대통령은 29일(현지시간) 한국이 처음으로 체결한 한·칠레...",
-      "domain": "ajunews.com",
-      "source": "ajunews.com",
-      "link": "https://www.ajunews.com/view/20260730043341147"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:38:00+09:00",
-      "title": "李대통령 \"한-칠레 강점 살릴 실용적 방안 논의하겠다\"",
-      "snippet": "(사진=연합뉴스) 이 대통령은 자신의 사회관계망서비스(SNS)를 통해 “세계 GDP 89%를 차지하는 경제권과 연결된 통상 허브이자, 세계 최대 리튬과 구리 매장량을 보유한 자원 강국 칠레는 첨단산업을 선도하는 우리의...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339542?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:38:00+09:00",
-      "title": "더불어민주당 청년 지방의원 74명, \"홈플러스 노동자 보호 시급\"",
-      "snippet": "현장 발언에 나선 김경주 경주시의원은 경주 유일의 대형마트였던 경주 홈플러스 폐점이 지역 경제와 주민... 이어 \"이 사태는 온라인 유통 확대와 소비 패턴 변화, 지방 경제의 구조적 취약성이 맞물려 발생한 산업전환...",
-      "domain": "globale.co.kr",
-      "source": "globale.co.kr",
-      "link": "https://www.globale.co.kr/news/articleView.html?idxno=39606"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:38:00+09:00",
-      "title": "백악관, FOMC 1시간 전 \"연준 독립적으로 최선의 판단 내릴 것\"",
-      "snippet": "최진우 특파원 = 케빈 해싯 백악관 국가경제위원회(NCE) 위원장은 29일(현지시간) 연방공개시장위원회(FOMC)를... 케빈 해싯 백악관 국가경제위원회(NCE) 위원장[연합뉴스 사진 제공] 해싯 위원장은 이날 미 방송사 CNBC와...",
-      "domain": "einfomax.co.kr",
-      "source": "einfomax.co.kr",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427630"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:36:00+09:00",
-      "title": "케빈 워시 “인플레 대응 망설이지 않을 것...화끈한 토론 펼쳐졌다\"",
-      "snippet": "29일(현지시각) 경제방송 CNBC에 따르면 케빈 워시 연준 의장은 위원들 간의 치열한 의견 대립을 ‘가족... 제리 템플먼 뮤추얼 오브 아메리카 캐피털 매니지먼트 부사장은 “9월 회의까지 발표될 경제 데이터가 향후...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202607300430357032e250e8e188_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:35:00+09:00",
-      "title": "정부 긴급회의… “레버리지 과도한 거래엔 추가비용 부과”",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관은 29일 정부서울청사에서 개최한 긴급 시장상황점검회의에서 이런 방안을... 구 부총리, 신현송 한국은행 총재, 이억원 금융위원장, 이찬진 금융감독원장, 하준경 대통령경제성장수석비...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737608?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:35:00+09:00",
-      "title": "코스피 한달새 9114→5663… 공포 휩싸인 개미들 손해봐도 ‘투매’",
-      "snippet": "천소라 인하대 경제학과 교수는 “작은 변수에도 쉽게 급락하는 장세”라며 “당분간 투자 심리가 회복되긴 쉽지 않을 것”이라고 내다봤다. 반면 노동길 신한투자증권 연구원은 “수급 충격이 잦아들고 반도체...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737617?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:35:00+09:00",
-      "title": "연이틀 서킷브레이커… 코스피 초유의 ‘패닉’",
-      "snippet": "증시 불안 확대에 구윤철 부총리 겸 재정경제부 장관은 이날 정부서울청사에서 관계기관과 긴급 시장상황점검회의를 하고 이런 대응 방안을 결정해 발표했다. 코스피는 이날 전 거래일 대비 360.42포인트(5.98...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737611?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:35:00+09:00",
-      "title": "구윤철 “가상자산 과세, 예정대로 내년부터 시행”",
-      "snippet": "구윤철 부총리 겸 재정경제부 장관이 내년 1월 시행을 앞둔 비트코인 등 가상자산 과세에 대해 “예정대로... 구 부총리는 29일 국회 재정경제기획위원회에 출석해 가상자산 과세 유예를 연장해야 한다는 질의에 이같이...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737620?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:35:00+09:00",
-      "title": "李대통령 \"한-칠레 FTA, 현실 반영해 진화해야\"…30일 정상회담",
-      "snippet": "이 대통령은 칠레 방문에 앞서 공개된 EFE 통신과의 서면 인터뷰에서 \"오늘날 경제는 디지털 무역, 인공지능... 강화함으로써 경제 파트너십을 한 단계 더 발전시키고자 한다고 언급했다. 또 이번 협정 현대화가 단순히...",
-      "domain": "fnnews.com",
-      "source": "파이낸셜뉴스",
-      "link": "https://n.news.naver.com/mnews/article/014/0005554880?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:34:00+09:00",
-      "title": "[인천판/게시판]인천 外",
-      "snippet": "□경제 교실=초등학교 3, 4학년생 대상 ‘경제 금융 교실―보드게임’ 참가자 12명. 8월 6일 오전 10시∼낮 12시 검암도서관 어울림터. □예술 강의=초등학교 4∼6학년생 대상 ‘다(多)가치 세계 도자기 보고...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737598?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:34:00+09:00",
-      "title": "李 “韓-브라질, 형제 같아… 민항기-광물-K뷰티 3대 핵심 협력을”",
-      "snippet": "만남이 경제·안보 협력, 민간 교류에 크게 도움이 된다”고 말했다. 또 룰라 대통령이 ‘세상에 노동자... 없다’고 한 발언을 소개하며 “(룰라 대통령이) 과거 두 차례 재임했을 때 브라질 경제가 급성장했다”고 덧붙였다.",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737583?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:34:00+09:00",
-      "title": "대만, TSMC 기술 빼간 직원에 징역 10년… 한국선 6년형 그쳐[인재 통째...",
-      "snippet": "등 경제안보 차원에서 엄단하고 있다. 이창무 중앙대 산업보안학과 교수는 “기술 유출의 법정형은 최대... 반면 미국은 경제스파이법(EEA)을 통해 유출이 미수에 그치거나 공모 단계에 머물렀더라도 브로커 역할을 한...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737585?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:34:00+09:00",
-      "title": "“해양쓰레기 처리비, 경기-서울이 더 내야”",
-      "snippet": "박주희 인천녹색연합 사무처장은 “쓰레기 발생 원인에 맞는 비용 부담 원칙을 적용해 보다 공정한 분담 체계를 마련해야 한다”며 “해양 쓰레기 발생과 처리 문제는 환경보호를 넘어 생태계, 경제, 안전 등 주민의...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737595?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:34:00+09:00",
-      "title": "상반기 서울 찾은 외국인 823만명, 카드 5.6조원 썼다",
-      "snippet": "조성호 서울시 관광체육국장은 “체험형 관광 콘텐츠를 지역상권과 더욱 긴밀하게 연계해 관광객이 서울 곳곳을 즐기고, 관광 효과가 골목 상권과 지역 경제 전반으로 확산되도록 하겠다”고 밝혔다.",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737581?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:34:00+09:00",
-      "title": "[종합2보] 미 연준 금리 동결, 3명은 인상 주장…워시 \"목표는 오직 2%\"",
-      "snippet": "연준은 성명에서 중동 분쟁에서 비롯된 불확실성이 고조됐는데도 경제 활동이 견조한 속도로 확장하고... 않겠다\"며 \"경제 상황에 대한 엄밀한 검토였고, 앞으로 풀어야 할 크고 어려운 질문들을 살펴본 것\"이라고...",
-      "domain": "newspim.com",
-      "source": "newspim.com",
-      "link": "https://www.newspim.com/news/view/20260730000021"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:33:00+09:00",
-      "title": "야구 관중 37% 늘자, 쓰레기 132% 급증",
-      "snippet": "홍수열 자원순환사회경제연구소장은 “일부 매장만이 아니라 야구장 전체가 다회용기를 사용하는 방향으로 전환해 관중들에게 일관된 메시지를 줄 필요가 있다”고 강조했다. 기후부는 전국 프로야구장을 대상으로...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737578?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:33:00+09:00",
-      "title": "‘사회적 금융’으로 소외계층 자립 지원… 포용금융 새 판 짠다",
-      "snippet": "다중채무자가 빚의 악순환을 사전에 차단하도록 돕는 것은 물론이고 경제적인 체질까지 개선하도록 이끄는 것이다. 금융권에서는 재단이 이런 사업을 통해 정부의 포용금융 정책에 발을 맞추면서도 공익재단 특유의...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737566?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:33:00+09:00",
-      "title": "부동산 가족법인 ‘절세 시대’ 끝나… 고용 늘려야 세금 줄여",
-      "snippet": "대한민국에서 부동산 가족법인은 오랫동안 든든한 ‘절세 방파제’ 역할을 해왔다. 개인사업자에게... 정부가 부동산 임대 중심의 가족법인을 정조준해 과세의 칼날을 뽑아 들었기 때문이다. 세 부담 두 배, 9% 구간의...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737562?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:32:00+09:00",
-      "title": "“반도체-바이오 기업 유치”… 익산, 산단 늘리고 규제 푼다",
-      "snippet": "경제국장은 “산업 용지 확충과 규제 개선, 기업 맞춤형 지원을 통해 익산을 기업 하기 좋은 도시로 만들겠다”며 “반도체를 비롯한 미래 신산업 분야의 우수기업을 적극 유치해 양질의 일자리를 창출하고 지역경제에...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737544?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:32:00+09:00",
-      "title": "美 “中 로봇-전력 인버터 수입금지”… AI 모델 이어 기술 패권 경쟁 격...",
-      "snippet": "FCC는 성명을 통해 “이러한 장치들은 미국 경제와 국가 안보를 교란할 수 있고, 핵심 기반시설을 위협하는 사이버보안 위험을 초래할 수 있다”고 밝혔다. 이번 조치는 원칙적으로 모든 국가에 적용되지만, 사실상 중국을...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737541?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:32:00+09:00",
-      "title": "대구 문산정수사업소 현장 점검",
-      "snippet": "29일 대구 달성군 다사읍 문산정수사업소를 찾은 대구시의회 경제환경위원회 위원들이 취수원 개선 사업과 복류수 실증시설 운영 상황을 살펴보고 있다.",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737557?sid=102"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:32:00+09:00",
-      "title": "[오늘의 날씨] 북태평양고기압에 전국 39도 폭염…경남 최고체감온도 3...",
-      "snippet": "시 안전사고에 유의해야 할 것으로 지적했다. 서해상에는 당분간 차고 습한 공기가 해수면 위로 지나면서 바다 안개가 자주 끼겠고, 이 과정에서 일부 섬 지역에는 가시거리 200m 미만의 짙은 안개와 함께 이슬비가 내리는...",
-      "domain": "topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16149386"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "[기억할 오늘] 오늘 인류는 지구 생태 재생력의 한계를 넘었다",
-      "snippet": "거기에 기반을 두고 2006년 영국 신경제재단이 ‘지구 생태자원 초과소비의 날(Earth Overshoot Day)’이란 걸... 생태자원 초과소비라는 발상 자체도 어쩌면, 모든 가치가 경제적 지표로 빠르게 수렴해 가고 있는...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945232?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "“학교가 무균실 되면 학생 성장 멈춰… 닫힌 운동장 활짝 열자”",
-      "snippet": "천 원내대표=경제 사정이 넉넉한 학생들은 공교육에서 체육을 못 하더라도 체육 사교육을 통해 협동 능력과... 오 교장 =코로나19(신종 코로나바이러스 감염증) 팬데믹 이후 경제 수준에 따른 학력 격차보다 신체 활동과 정서...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737528?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "해수욕장은 지금 모래쟁탈전? 기후위기가 집어삼킨 백사장 [기후 1.5도씨...",
-      "snippet": "해운대해수욕장에 보충된 모래는 부산 강서구에서, 제주시 이호테우 해변 백사장 모래는 서해 배타적경제수역(EEZ) 바닷속에서 가져왔습니다. 입자와 색이 가장 비슷한 모래를 찾다 보니 전국 각지에서 이사 온 모래가...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945219?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "유엔 기후총회, 한국이 개최해야 할 이유 [기고]",
-      "snippet": "2028년은 한국이 기후·해양·경제 의제를 한 자리에서 잇는 해가 될 수 있다. 같은 해 한국에서는 G20 정상회의와 제4차 유엔 해양총회가 잇따라 열린다. COP33까지 더해지면, 세계 경제·해양·기후를 다루는 세 개의 대형...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945221?sid=110"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "부동산 잔금까지 '탈탈'... 56조 날린 개미들 '국장 탈출 선언'",
-      "snippet": "이날 온라인 주식 커뮤니티에서 한 투자자는 \"삼성전자 50만 원, SK하이닉스 500만 원까지 간다길래 부동산 잔금 치를 돈을 일부 넣었는데 손실이 커 너무 불안하다\"고 호소했다. 또 다른 투자자는 \"SK하이닉스가 250만...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945234?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "유언대용신탁부터 증여신탁까지… 상속-증여 한 번에 설계",
-      "snippet": "금전뿐 아니라 유가증권과 부동산, 보험금청구권까지 신탁 자산으로 담아 상속·증여를 포함한 생애 전반의... 부동산 등 비금전 재산을 맡길 경우 최소 가입 금액이 올라갈 수 있고 수탁이 가능한지도 사전 협의를 거쳐야...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737531?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "[메아리] '실용적 민주'와  '합리적 보수'가 대결해야",
-      "snippet": "최근의 증시 급변동을 거론하지 않더라도 8·17 전당대회를 앞둔 여당 권력투쟁, 진퇴양난에 처한 부동산 세제개편까지 야당의 호재는 줄줄이 넘쳐난다. 이 와중에 “대통령 연임은 국민이 선택할 문제”라는 현직...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945233?sid=110"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:31:00+09:00",
-      "title": "해경 뜨자 '튀어라'… 밤마다 갯벌서 펼쳐지는 '죽음의 눈치게임'",
-      "snippet": "더 큰 문제는 해루질을 조개, 게 등이 활발히 활동하는 야간에 많이 하기 때문에 안전사고 발생 시 대처가 쉽지 않다는 점이다. 밤에는 밀물 속도를 감지하지 못해 사고 위험이 커지고, 주변에 사람이 없어 도움을...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945218?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "이재명 한마디에 달라진 미프진 논의… 원민경 \"협의 급물살\"",
-      "snippet": "\"우리나라 성별 임금격차는 2024년 기준 29.0% 수준으로 경제협력개발기구(OECD)에서 가장 높은 수준이다. OECD 회원국 평균은 10.3%다. 도입 시기가 이미 많이 늦었다. 일본만 해도 상시근로인원 100인 이상 기업이 공시...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945214?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "中 상반기 비철금속 수급 엇갈려… 한국 제조·소재 업계 공급망 점검 ...",
-      "snippet": "한국 경제연구원 수석연구원은 중국이 특정 품목에서 자급 기반을 다지는 동시에 타 품목의 해외 물량을 공격적으로 흡수하는 현상은 글로벌 수급의 예측 가능성을 떨어뜨린다고 진단했다. 이에 따라 한국기업들은 단기...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=2026072921223976832bd56fbc3c_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "의사도 교수도 아니었다…'연봉 1억4500만원' 일본 최고 몸값 직업은?",
-      "snippet": "지난 29일 일본 매체 동양경제는 일본 후생노동성이 발표한 '2025년 임금구조기본통계조사'를 바탕으로 143개 직종의 추정 연봉을 분석한 결과를 보도했다. 조사는 2025년 6월 급여 지급 실적이 있는 종업원 10명...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393074?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "실효성 논란에… 지방의회 해외연수 줄취소, 예산은 민생으로",
-      "snippet": "이선주 달서구의장은 \"혈세를 민생 회복과 지역 경제 활성화에 돌려드리는 것이 마땅한 도리라 여겨 이같이 결정했다\"고 말했다. 국민권익위원회 조사에서는 지방의회 국외출장의 구조상 문제도 드러났다. 권익위가...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945215?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "복기왕 의원, '사회연대경제기본법' 국회 본회의 통과 강력 촉구",
-      "snippet": "더불어민주당 전국사회적경제위원회(위원장 복기왕 의원)와 사회연대경제입법추진단(단장 김영배 의원)은 지난 28일 오후 2시 국회 소통관 기자회견장에서 긴급 기자회견을 개최하고, \"13년을 기다려온...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=712154"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "머니투데이 오프라인 헤드라인-30일",
-      "snippet": "[건설 부동산] 매수인 돈줄 열고, 매도인 집값 방어…규제가 낳은 新거래법 [스타뉴스] '국민 여동생' 문근영, 깜짝 결혼 발표 [정책사회·문화] \"교부금은 미래투자\" 교육감들, 개편 반기 [사회] 금융수사 베테랑 합류...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393075?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "14층 스틸 모듈러 아파트 도전…GS건설, 프리패브 건설 혁신 속도[짤막...",
-      "snippet": "고공 작업이 줄어 안전사고 위험도 대폭 감소한다. PC공법이 적용된 주택은 천장고를 최대 2.55m까지 확보할 수 있고, 실내 벽체를 자유롭게 옮길 수 있어 맞춤형 공간 구성이 가능하다는 장점도 있다. 이밖에도 GS건설은...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096853?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:30:00+09:00",
-      "title": "[단독] 7억 들여 보수했는데 6개월 만에 '폭삭'… 보릿돌교 관리부실 논...",
-      "snippet": "이번 사고는 해상 시설물 안전관리의 공백도 드러냈다. 보릿돌교는 '시설물의 안전 및 유지관리에 관한 특별법(시설물안전법)'상 정기 안전점검 대상에서 빠져 있다. 해상 인도교는 염분과 파랑, 태풍에 노출돼 내륙...",
-      "domain": "hankookilbo.com",
-      "source": "한국일보",
-      "link": "https://n.news.naver.com/mnews/article/469/0000945216?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:29:00+09:00",
-      "title": "[글로벌 비즈 브리핑] 글로벌 반도체 삭풍...사흘 동안 시총 1천900조 사...",
-      "snippet": "한 눈에 보는 해외 경제 이슈 ▲글로벌 반도체 삭풍...사흘 동안 시총 1천900조 사라져 ▲아마존, 직접 만든... 미 경제매체 비즈니스인사이더가 복수 소식통을 인용해 현지 시각 29일 보도했습니다. 아마존은 그간 노바...",
-      "domain": "biz.sbs.co.kr",
-      "source": "biz.sbs.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/374/0000524491?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:28:00+09:00",
-      "title": "\"군민이 만드는 예산\"…산청군, 내달 25일까지 예산편성 설문조사 실시",
-      "snippet": "현장에서 파악하고 한정된 예산을 우선순위에 맞춰 배분하기 위한 핵심 과정\"이라며 \"내년도 예산에 군민들의 소중한 의견이 실질적으로 반영될 수 있도록 많은 관심과 적극적인 참여를 부탁드린다\"고 전했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82514"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:26:00+09:00",
-      "title": "창원시, 경남도민연금 IRP 미개설자 696명에 독려...\"31일까지 완료해야...",
-      "snippet": "한편 IRP 계좌 개설에 관한 자세한 내용은 경남도민연금 홈페이지 커뮤니티 게시판에서 확인할 수 있으며, 전용 문의는 NH농협은행 또는 BNK경남은행을 통해 가능하다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82503"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:26:00+09:00",
-      "title": "경남경찰청, 해쉬커피와 피싱 대응 신고전화 '1394' 홍보 맞손",
-      "snippet": "사전 예방과 초기 대응이 피해 규모를 줄이는 핵심\"이라며 \"앞으로도 프랜차이즈, 대중교통 등 시민들의 삶과 밀접한 생활 접점 매체를 적극 활용해 금융범죄 피해를 선제적으로 차단해 나가겠다\"고 강조했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82502"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:26:00+09:00",
-      "title": "[충남권 날씨예보] 체감 35도 안팎 폭염 지속…열대야도 이어져",
-      "snippet": "한편 30일 충남권은 가끔 구름이 많겠으며, 서해중부 해상에는 바다 안개가 끼는 곳이 있겠다. 일부 섬 지역에서는 짙은 안개로 가시거리가 크게 짧아질 수 있어 항해와 조업, 해상교통 이용객은 안전사고에 유의해야 한다.",
-      "domain": "thefairnews.co.kr",
-      "source": "thefairnews.co.kr",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83573"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:25:00+09:00",
-      "title": "워시 美연준 의장 \"물가 목표치 오직 2%…흔들림 없다\"",
-      "snippet": "워시 의장은 \"최근의 충격에도 경제는 놀라운 회복력을 보이고 있다. 경제동향은 긍정적이고 견조한 성장을 보인다. 일자리 증가세가 노동력 증가세와 비슷한 수준을 유지하고 있으며 실업률은 큰 변동이 없다\"면서도...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096851?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:24:00+09:00",
-      "title": "경제·금융당국 \"단일종목 레버리지 책임 무겁다…보완책 신속 추진\"",
-      "snippet": "국회 정무위·재경위 업무보고…이억원 \"필요시 기본예탁금 추가 인상\" 경제 당국이 이른바 '단일종목... 구윤철 경제부총리도 같은날 열린 국회 재정경제기획위원회 전체회의 업무보고에서 \"단일종목 레버리지 ETF는 운영...",
-      "domain": "pressian.com",
-      "source": "pressian.com",
-      "link": "https://n.news.naver.com/mnews/article/002/0002450254?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:24:00+09:00",
-      "title": "창원시, 동물단체 '직권남용' 주장에 정면 반박…\"정당한 수사의뢰·적...",
-      "snippet": "책임 여부는 검찰 수사를 통해 밝혀질 것\"이라고 덧붙였다. 또 자원봉사자 248명이 시를 상대로 제기한 5000만 원 규모의 손해배상 청구 및 방해금지 가처분 신청에 대해서도 사실관계와 차이가 크다고 해명했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82505"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:24:00+09:00",
-      "title": "美, '호르무즈 보험 강매' 이란 기관 2곳 제재…\"수익화 차단\"",
-      "snippet": "스콧 베선트 재무장관도 \"경제가 급격히 침체되고 인플레이션이 세 자릿수를 기록하는 상황에서 이란 정권은 현금 확보에 필사적\"이라며 \"미국은 이란이 세계 무역을 인질로 삼거나 국제 해운을 이용해 IRGC의 테러...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086892?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:24:00+09:00",
-      "title": "\"기업 살리고 상권 활력\"…창원시, '기업·노동·상권·청년' 4대 경제 시...",
-      "snippet": "경남 창원특례시가 기업 경쟁력 제고부터 노동자 복지 향상, 소상공인 골목상권 활성화, 청년일자리 창출까지 아우르는 대대적인 종합 경제 시책 추진에 나선다. 조성환 창원시 경제일자리국장은 29일 오전 정례브리핑을...",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82504"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:22:00+09:00",
-      "title": "아마존, 직접 만든 AI모델 '노바' 갈아엎고 재개발",
-      "snippet": "아마존은 기존의 노바 개발 조직을 정리하고 외부 영입 인재 피터 아빌 부사장이 이끄는 '프런티어 모델 연구'(FMR) 계획에 자원을 집중하고 있다고 미 경제매체 비즈니스인사이더가 복수 소식통을 인용해 현지 시각 29일...",
-      "domain": "biz.sbs.co.kr",
-      "source": "biz.sbs.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/374/0000524488?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:22:00+09:00",
-      "title": "부산경총, '부울경 웰컴 청년 인재 지원사업' 네트워크 협의회 개최",
-      "snippet": "이날 행사에는 부산광역시와 경남도를 비롯해 부산지역인적자원개발위원회, 부산경제진흥원, 경남연구원, 경남투자경제진흥원, 창원산업진흥원, 경상국립대학교, 진주상공회의소 및 채용 서비스 전문기업 등 일자리...",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82506"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:22:00+09:00",
-      "title": "미국 기준금리 동결 … 비트코인 매수세 회복 여부 '주목'",
-      "snippet": "최근 비트코인 시장에서 거시경제보다 부족한 매수세가 더 큰 변수로 작용하고 있다는 것이다. 분석진은 최근 비트코인 시세 추이를 봤을 때 기준금리 변수만으로는 흐름을 가늠하기 어렵다고 평가했다. 이번 주...",
-      "domain": "khgames.co.kr",
-      "source": "khgames.co.kr",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306810"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-07-30T04:22:00+09:00",
-      "title": "비트코인(BTC), 법안 통과 확률 30% 추락...SEC가 살릴까?",
-      "snippet": "암호화폐 전문 유튜브 채널 코인뷰로(Coin Bureau)는 7월 29일(현지시간) 업로드된 영상에서 미국 암호화폐... 코인뷰로는 규제기관의 지침이 단기 공백을 메울 수 있지만 장기적인 시장 확실성을 확보하려면...",
-      "domain": "coinreaders.com",
-      "source": "coinreaders.com",
-      "link": "http://coinreaders.com/250251"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:21:00+09:00",
-      "title": "美연준, 동결했지만 ‘매파’는 늘었다…인상의견 3명",
-      "snippet": "연준은 미국 경제 상황에 대해선 기존 기조를 유지했다. 해맥 위원 등 3명이 금리 인상을 주장했다는 내용을 제외하면 이날 정책 결정문에 담긴 경제 상황 진단 관련 문구는 6월 결정문과 비교해 거의 달라지지 않았다....",
-      "domain": "biz.heraldcorp.com",
-      "source": "헤럴드경제",
-      "link": "https://n.news.naver.com/mnews/article/016/0002677061?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:20:00+09:00",
-      "title": "함양군, 민선 9기 4개 분야 57개 공약사업 점검…진병영 군수 \"군민 체감...",
-      "snippet": "이날 보고회에서는 △문화관광 △도시행정 △지역경제 △동행복지 등 4개 분야의 총 57개 공약사업(핵심공약... 공약 실행계획을 보완하고, 최종보고회를 거쳐 확정된 계획을 군민에게 투명하게 공개할 예정이다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82509"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:20:00+09:00",
-      "title": "남해 상주은모래비치페스타, 내달 7일 개막…가수 김현정·포크송 페스...",
-      "snippet": "한편 깨끗한 백사장과 울창한 송림을 자랑하는 상주은모래비치는 이번 페스타 개최를 계기 삼아 한층 더 활력 넘치는 피서지이자 대표 야간 관광 명소로 거듭날 전망이다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82508"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:20:00+09:00",
-      "title": "[시론] 잠실 스포츠·MICE에 소버린 AI 클러스터 추가하자",
-      "snippet": "잠실 스포츠·MICE 민자사업은 앞으로 다가올 30년 서울의 경제 지형을 좌우할 결정적 기회다. 성공적인 토목·건축적 준공도 중요하지만, 그 공간을 채울 콘텐츠가 '디지털 대전환'과 'AI 주권'이라는 시대적 요구를...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607271055104110621"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:18:00+09:00",
-      "title": "함양군, 강우량 예년 3분의 1 수준…저수지 평균 저수율 53% '주의' 단계",
-      "snippet": "실천하고 자가 관정을 공유하는 등 힘을 모은다면 피해를 최소화할 수 있다\"며 \"급수 지원과 시설 관리, 응급복구 등 신속한 대응을 통해 가뭄을 슬기롭게 극복할 수 있도록 최선을 다하겠다\"고 강조했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82510"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:18:00+09:00",
-      "title": "사천시, 35도 넘는 폭염에 총력 대응…박동식 시장 \"시민 생명·안전 최...",
-      "snippet": "피해를 충분히 줄일 수 있는 재난\"이라며 \"행정의 빈틈없는 대응과 함께 시민 여러분께서도 가장 더운 시간대 야외활동을 자제하고 물·그늘·휴식 등 안전수칙을 반드시 실천해 주시길 바란다\"고 당부했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82511"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:18:00+09:00",
-      "title": "박동식 사천시장 \"우주항공수도 경쟁력, 사천공항 확장·국가철도망 연...",
-      "snippet": "사천의 국제적 경쟁력을 높이기 위해서는 광역교통망 확충이 필수적\"이라며 \"사천공항 확장과 CIQ 설치, 사천우주항공선 구축 사업이 국가계획에 최종 반영될 수 있도록 모든 행정력을 집중하겠다\"고 강조했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82512"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:18:00+09:00",
-      "title": "산청군, 폭염·가뭄 이중고에 '총력전'…유명현 군수 \"모든 행정력 집중...",
-      "snippet": "산청군수는 \"기후변화로 폭염과 가뭄의 강도가 거세지고 있어 선제적이고 유기적인 대응이 어느 때보다 중요하다\"며 \"안정적인 농업용수 확보와 군민 안전을 위해 군의 모든 행정력을 집중하겠다\"고 말했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82513"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:17:00+09:00",
-      "title": "“인플레 높다” 연준, 트럼프 인하 압박에도 기준금리 또 동결…위원 ...",
-      "snippet": "연준은 “중동 분쟁 등으로 불확실성이 고조됐지만 경제 활동은 견조한 속도로 확대되고 있다”며 “인플레이션은 위원회의 2% 목표치에 비해 여전히 높은 수준을 유지하고 있으며 이는 부분적으로 에너지 등 특정...",
-      "domain": "kmib.co.kr",
-      "source": "국민일보",
-      "link": "https://n.news.naver.com/mnews/article/005/0001863954?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:16:00+09:00",
-      "title": "창녕군-영원무역, 지방 소멸 극복 맞손…지역 특산품 구매 및 고향사랑...",
-      "snippet": "경남 창녕군이 인구감소 극복과 지역경제 활성화를 위해 향우 기업인 영원무역과 손을 잡았다. 군은 지난... 지역경제에 활력을 불어넣기로 했다. 이날 성기학 회장에 대한 '창녕군민대상' 시상식도 함께 진행됐다. 성...",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82515"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:16:00+09:00",
-      "title": "창녕군, 베트남·중국 출신 결혼이민자 21명 친정 방문 지원…9박 10일 ...",
-      "snippet": "경남 창녕군가족센터가 경제적·시간적 여건으로 오랫동안 고향을 찾지 못한 결혼이민자 가정을 위해 뜻깊은... 꾸려갈 수 있도록 실질적이고 다양한 맞춤형 지원 프로그램을 지속해서 확대해 가겠다\"고 전했다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82516"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:16:00+09:00",
-      "title": "美연준, 물가 우려에 또 금리 동결…9월 인상론 커졌다",
-      "snippet": "성명에서는 미국 경제가 견조한 성장세를 이어가고 있으며 고용시장도 안정적인 흐름을 유지하고 있다고... 연준은 앞으로도 경제지표와 금융시장 상황, 국제 정세 등을 종합적으로 고려해 통화정책을 결정하겠다고...",
-      "domain": "dailian.co.kr",
-      "source": "dailian.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/119/0003116301?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:14:00+09:00",
-      "title": "\"당근 가격 하락 넘는다\"…밀양 얼음골 사과 결합한 가공음료 본격 판매",
-      "snippet": "신제품 출시를 기념해 관내 로컬푸드 직매장에서 시음 행사와 온라인 할인 프로모션을 진행한다. 아울러 향후 수도권 주요 대형마트와 프리미엄 건강음료 시장으로 유통망을 지속해서 넓혀갈 계획이다. 포인트경제",
-      "domain": "pointe.co.kr",
-      "source": "pointe.co.kr",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82517"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:13:00+09:00",
-      "title": "연준은 매파인데 2년물은 하락…채권시장 \"9월 인상 서두르지 않을 것\"",
-      "snippet": "특정 경제지표 하나에 의존해 정책을 결정하지 않는다고 강조했다. 그는 “우리는 개별 데이터가 아니라... 방향을 경제지표와 금융시장 여건을 종합적으로 평가해 판단하겠다는 입장을 밝혔다. 워시 의장은 이날...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339540?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:13:00+09:00",
-      "title": "워시 연준 의장 \"인플레이션 목표는 2%뿐...빅테크 중심의 기업 설비 투...",
-      "snippet": "워시 의장은 \"FOMC는 은행 시스템 내에 풍부한 유동성을 공급하는 정책을 계속 이어가고 있고, 현재 경제는 인상적인 회복력을 보여주고 있다\"고 진단했습니다. 또 \"최근의 충격에도 불구하고 추세는 긍정적이며, 탄탄한...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002386417?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:12:00+09:00",
-      "title": "이 대통령 \"한-칠레 FTA 현실 반영해 진화해야…광물자원 파트너십 MOU\"",
-      "snippet": "이 대통령은 한-칠레 정상회담을 앞두고 이날 공개된 에페(EFE) 통신과 서면 인터뷰에서 \"오늘날 경제는... 강화함으로써 경제 파트너십을 한 단계 더 발전시키고자 한다\"고 말했다. 이 대통령은 \"이번 협정 현대화가...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096850?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:12:00+09:00",
-      "title": "워시 \"연준 목표는 오직 2% 물가…다른 목표는 없다\"",
-      "snippet": "미국 경제에 대해서는 긍정적인 평가를 내놨다. 워시 의장은 \"미국 경제는 인상적인 회복력을 보여주고 있다\"며 \"최근 여러 충격에도 불구하고 경제의 전반적인 흐름은 여전히 긍정적\"이라고 말했다.",
-      "domain": "fnnews.com",
-      "source": "파이낸셜뉴스",
-      "link": "https://n.news.naver.com/mnews/article/014/0005554877?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:11:00+09:00",
-      "title": "[직설] 中 반도체 쇼크…SK하이닉스 시장기대치 하회에 어닝 미스, 오늘...",
-      "snippet": "■ 용감한 토크쇼 '직설' - 손석우 앵커 경제평론가 및 건국대 겸임교수, 김대준 KR리서치 대표, 이완수 그레너리투자자문 대표, 윤진 블랙퀀트에쿼티 대표 ‘키미 쇼크’에 이어서 ‘창신 쇼크’까지 중국발 공포가 국내...",
-      "domain": "biz.sbs.co.kr",
-      "source": "biz.sbs.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/374/0000524484?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:11:00+09:00",
-      "title": "[강기택의 딥포인트]상속세를 바라보는 다른 관점",
-      "snippet": "경제적 타당성보다 정치적 논리가 앞서 감세를 꺼내기 어렵기 때문일 것이다. 더 많이 투자하고 고용을 늘리며 기업 가치를 높이는 대주주일수록 세 부담을 덜어주는 인센티브 중심의 세제를 도입하는 발상의 전환이...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393069?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:11:00+09:00",
-      "title": "현대차, 브라질에 '수소' 생태계 꾸린다",
-      "snippet": "대외경제정책연구원은 지난해 발간한 보고서에서 그린수소를 생산하려면 재생에너지 발전비용이 낮아야 하며 일조량이 풍부하고 바람이 강한 브라질 북동부 지역은 '최적의 조건'을 갖췄다고 분석했다. 보고서에...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393068?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:11:00+09:00",
-      "title": "[시장 따라잡기] 반토막 난 '삼전닉스' 레버리지…추가 규제 영향은?",
-      "snippet": "■ 용감한 토크쇼 직설 '시장 따라잡기' - 손석우 앵커 경제평론가 및 건국대 겸임교수, 이상연 신영증권 연구원 Q. 전날 급락한 이후, 일단 오늘(29일) 나온 SK하이닉스 실적부터 살펴봤음 하는데요. 역대 분기 최대 실적을...",
-      "domain": "biz.sbs.co.kr",
-      "source": "biz.sbs.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/374/0000524485?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:10:00+09:00",
-      "title": "모건스탠리 \"中 휴머노이드 보급 가속\"… 미국 규제와 인식 장벽이 변수",
-      "snippet": "경제 전문 매체 CNBC는 29일 휴머노이드 로봇산업이 기술적 완성도를 넘어 대중적 수용성과 지정학적... 실질적 투자 수익률 검증 시대로 진입 로봇 시장의 평가 기준은 이제 단순한 시제품 시연에서 실질적인 경제성...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=2026072920552533822bd56fbc3c_1"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:10:00+09:00",
-      "title": "[수도권 날씨예보] 서울 34도·체감 35도 안팎…폭염·열대야 계속",
-      "snippet": "한편 당분간 서해중부해상에는 바다 안개가 끼는 곳이 있겠으며, 일부 섬 지역에는 가시거리 200m 미만의 짙은 안개와 이슬비가 나타날 가능성이 있어 해상 안전사고와 여객선 이용객의 운항정보 확인이 요구된다.",
-      "domain": "thefairnews.co.kr",
-      "source": "thefairnews.co.kr",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83570"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:09:00+09:00",
-      "title": "'기업 승계' 1226곳, 우리은행 손 잡았다",
-      "snippet": "지역경제, 고용을 함께 지키는 생산적금융 모델을 구축한다는 전략이다. 29일 우리은행... 소규모 개인사업자보다 국내 제조업과 지역경제를 지탱하는 중소기업들이 주로 센터를 찾는다는 의미다. 대표자의 연령을...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393064?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:08:00+09:00",
-      "title": "연준, 기준금리 3.75% 동결… 통화정책 연속성 유지",
-      "snippet": "시장으로서는 연준이 당장 금리를 내리거나 올리기보다 현재 수준을 유지하면서 경제 지표 변화를 확인하려 한다는 메시지로 받아들일 가능성이 크다. 이번 결정으로 한국과 미국의 기준금리 격차는 상단 기준 1.00...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/economy/382763"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:06:00+09:00",
-      "title": "[美 7월 금리] 금리는 또 묶였지만…연준 내부선 \"인상\" 소수의견 확산",
-      "snippet": "불확실성에도 경제활동은 견조한 속도로 확장하고 있다\"고 평가했다. 이어 \"생산성 증가와 자본투자는... 이번 성명은 경제활동과 고용 여건이 견조한 흐름을 이어가는 반면, 물가는 여전히 목표 수준을 웃돌고...",
-      "domain": "ebn.co.kr",
-      "source": "ebn.co.kr",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718305"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:06:00+09:00",
-      "title": "美연준 '깜짝 금리인상' 없었지만 '매파적 동결'…인상의견 3명",
-      "snippet": "연준은 미국 경제 상황에 대해선 기존 기조를 유지했다. 해맥 위원 등 3명이 금리 인상을 주장했다는 내용을 제외하면 이날 정책 결정문에 담긴 경제 상황 진단 관련 문구는 6월 결정문과 비교해 거의 달라지지 않았다....",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016222943?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:06:00+09:00",
-      "title": "李대통령, 칠레 산티아고 도착…동포 만찬 간담회로 첫 일정 시작",
-      "snippet": "아주경제=산티아고(칠레)=김봉철 기자 nicebong@ajunews.com 브라질 국빈 방문을 마친 이재명 대통령과 김혜경... 정부는 상품 교역 중심의 기존 협정을 디지털 경제와 공급망, 에너지·광물, 지식재산권, 환경·노동 등 변화한...",
-      "domain": "ajunews.com",
-      "source": "ajunews.com",
-      "link": "https://www.ajunews.com/view/20260730040257142"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-07-30T04:06:00+09:00",
-      "title": "[전국 날씨예보] 폭염·열대야 계속…경남 최고체감 38도 극한 더위",
-      "snippet": "일부 섬 지역은 가시거리 200m 미만의 짙은 안개가 끼는 곳이 있어 항해나 조업 선박은 안전사고에 유의해야 한다. 또한 바닷물의 높이가 높은 기간인 만큼 해안가 저지대에서도 안전사고에 주의가 요구된다.",
-      "domain": "thefairnews.co.kr",
-      "source": "thefairnews.co.kr",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83569"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:03:00+09:00",
-      "title": "젠슨 황 \"AI, 일자리 뺏지 않아…업무를 자동화할 뿐\"",
-      "snippet": "29일(현지시간) 미국 경제매체 포춘에 따르면 황 CEO는 최근 미국 실리콘밸리 스타트업 행사에서 \"많은 업무는 AI로 자동화되겠지만, 모든 직업은 형태만 바뀔 뿐 새로운 일자리도 함께 생겨날 것\"이라고 말했다. 이어...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096846?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:03:00+09:00",
-      "title": "미국 금리 3.50∼3.75%로 5연속 동결…\"9 대 3 표결로 동결 결정\"",
-      "snippet": "연준은 \"중동 분쟁 등으로 인한 불확실성이 고조됐음에도 경제 활동은 견조한 속도로 확대되고 있다\"고 밝혔습니다. 이어 \"생산성 향상과 자본 투자는 강력하다. 일자리 증가는 노동력과 보조를 맞추고 있으며...",
-      "domain": "sbs.co.kr",
-      "source": "SBS",
-      "link": "https://n.news.naver.com/mnews/article/055/0001376569?sid=104"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:03:00+09:00",
-      "title": "[사설]대출규제 풀어야 세제개편 성과있다",
-      "snippet": "정부의 부동산 세제개편 발표가 임박했다. 지난주 이재명 대통령이 주재한 부동산 대토론회에 이어 27일 한성숙 국무총리 주관 토론회가 열렸다. 초고가 주택 보유세 강화, 대출규제 정비, 공급정책 등에 대한 국민...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393061?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:02:00+09:00",
-      "title": "[김상회의 사주속으로] 삶의 지식 명리학",
-      "snippet": "어떤 사람은 경제학을 공부하고, 어떤 사람은 심리학을 배우며, 또 어떤 사람은 철학이나 종교를 통해 삶을... 이는 마치 현대 심리학이나 행동경제학에서 인간 유형을 분류하는 방법과 비슷하다. 심리학처럼 역시 오랜 기간...",
-      "domain": "metroseoul.co.kr",
-      "source": "metroseoul.co.kr",
-      "link": "http://www.metroseoul.co.kr/article/20260715500094"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:02:00+09:00",
-      "title": "\"성장주 싹 다 밀어냈다\"...버핏식 가치투자, 5년 연평균 20% 수익",
-      "snippet": "7월 29일(현지시간) 미국 경제 전문 매체 블룸버그에 따르면, 코바스 자산운용(Cobas Asset Management) 회장 겸 최고투자책임자 프란시스코 가르시아 파라메스(Francisco García Paramés)가 운용하는 코바스 인터내셔널의...",
-      "domain": "coinreaders.com",
-      "source": "coinreaders.com",
-      "link": "http://coinreaders.com/250250"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T04:02:00+09:00",
-      "title": "\"10억 준비하면 제가 19억 빌려줄게요\"…강남 '집주인 대출' 급증",
-      "snippet": "29일 부동산업계에 따르면 서울 송파구 잠실동 파크리오 전용 59㎡ 매물은 '10억원만 준비하면 잔금은 시간을 두고 지급할 수 있다'는 조건을 내걸었다. 매매가 29억원 중 나머지 19억원은 근저당권 설정을 통한...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393060?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:01:00+09:00",
-      "title": "美 금리 3.50∼3.75%로 5연속 동결…“9대3 표결로 동결 결정”",
-      "snippet": "연준은 \"중동 분쟁 등으로 인한 불확실성이 고조됐음에도 경제 활동은 견조한 속도로 확대되고 있다\"고 밝혔습니다. 또 \"생산성 향상과 자본 투자는 강력하다. 일자리 증가는 노동력과 보조를 맞추고 있으며, 실업률은...",
-      "domain": "kbs.co.kr",
-      "source": "KBS",
-      "link": "https://n.news.naver.com/mnews/article/056/0012227895?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:00:00+09:00",
-      "title": "백악관 무도회장 짓는 트럼프, 지지율 34%…1기 말 바닥 다시 찍었다",
-      "snippet": "휘발유값 상승으로 경제적 부담을 느낀다는 응답 비율은 2026년 3월 63%에서 74%로 높아졌다. 트럼프 대통령에게 휘발유값 문제에 대응할 명확한 계획이 있다는 응답은 23%에 그쳤다. 트럼프 대통령이 생활물가를 낮추기...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096840?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:00:00+09:00",
-      "title": "홈플러스익스프레스 '가맹점 확대' 승부수",
-      "snippet": "직영점 중심이던 기존 체제를 가맹 중심으로 전환해 지방상권으로 발을 넓히고 규모의 경제를 달성하겠다는... 홈플러스익스프레스는 가맹점 중심으로 운영체제를 전환해 규모의 경제를 실현한다는 복안이다. 이를 위해...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393056?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T04:00:00+09:00",
-      "title": "1년6개월만에 '주한 美대사' 부임",
-      "snippet": "민경훈 국립외교원 교수는 \"스틸 대사도 한국으로부터 미국의 경제적·전략적 이익에 도움이 되는 성과를 결과로 끌어내야 하는 임무가 있다\"며 \"쿠팡을 수단으로 한국을 압박할 수 있지만 압박만큼이나 한국과의 관계를...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393054?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T03:57:00+09:00",
-      "title": "정부 그린벨트 해제 카드 언급에… '실효성 논란' 재점화",
-      "snippet": "김윤덕 국토교통부 장관은 지난 27일 한성숙 국무총리 주재로 열린 부동산 토론회에서 \"그린벨트를... 신보연 세종대학교 부동산AI융합학과 교수는 \"서리풀1·2지구와 같은 사례가 반복될 경우 그린벨트 해제 정책 전반에...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393045?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:56:00+09:00",
-      "title": "연준, 기준금리 3.50~3.75%로 동결 결정",
-      "snippet": "연준은 \"중동 분쟁 등으로 인한 불확실성이 고조됐음에도 경제 활동은 견조한 속도로 확대되고 있다\"고 밝혔다. 또 \"생산성 향상과 자본 투자는 강력하다. 일자리 증가는 노동력과 보조를 맞추고 있으며, 실업률은 거의...",
-      "domain": "radiokorea.com",
-      "source": "radiokorea.com",
-      "link": "https://www.radiokorea.com/news/article.php?uid=500475"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:56:00+09:00",
-      "title": "[속보] 연준 워시 “미 경제, 최근 충격에도 인상적인 회복력 보여줘”",
-      "snippet": "[속보] 연준 워시 “미 경제, 최근 충격에도 인상적인 회복력 보여줘”",
-      "domain": "biz.heraldcorp.com",
-      "source": "헤럴드경제",
-      "link": "https://n.news.naver.com/mnews/article/016/0002677059?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:56:00+09:00",
-      "title": "워시 \"오늘 동결은 휴지기 아니다\"… 잭슨홀 연설은 \"백지 상태\"",
-      "snippet": "않겠다\"며 \"경제 상황에 대한 철저한 검토이자 큰 핵심 질문들에 대한 검토로 보겠다\"고 말했다. 이어 \"앞으로... 생산성과 인구 구조, 충격 속의 세계 경제에 실제로 무슨 일이 벌어지고 있는지가 그가 꼽은 질문들이다....",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382758"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:56:00+09:00",
-      "title": "대출 막힌 매수인, 집값 지키고픈 매도인 '맞손'…강남 파고든 新거래법",
-      "snippet": "송승현 도시와경제 대표는 \"세금부담에다 손해를 감수하면서까지 가격을 낮춰 매도하려는 집주인은 많지 않다\"며 \"매도인대출은 특히 담보가치가 높은 강남권을 중심으로 활용사례가 늘어날 가능성이 높다\"고 말했다.",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393043?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T03:56:00+09:00",
-      "title": "서울 초고가 주택 상승률, 내년 세계 1위 전망",
-      "snippet": "미국 부동산 매체 맨션글로벌은 지난 7월 22일(현지시각) 글로벌 부동산 컨설팅 그룹 나이트프랭크 보고서를 인용해 이같이 보도했다. 공급 부족과 '트로피 자산' 선호가 밀어 올린 서울 시장 서울 초고가 주택 시장은...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202607291802323725fbbec65dfb_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:55:00+09:00",
-      "title": "워시 \"AI 투자가 키운 반도체값…인플레 파급효과 점검\"",
-      "snippet": "다른 경제 충격이 생산과 고용에 미치는 영향도 논의했다고 설명했다. 아울러 기준금리 외에 연준의... (ball)을 보기 시작하고 있다\"며 \"시장은 연준의 발언보다 실제 경제지표와 경제 여건에 반응하게 될 것\"이라고 말했다.",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009086890?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:54:00+09:00",
-      "title": "트럼프 '금리 인하' 압박 안 통했다…워시 \"인플레 지속\" 강조 [Fed워치]",
-      "snippet": "워시 의장은 \"시장 참여자들은 심판(Fed의 포워드 가이던스)이 아니라 공(실제 경제상황)에 맞춰 움직이는 법을 배우고 있다\"면서 \"시장 가격은 앞으로도 자신들이 적절하다고 판단하는 방향과 규모로 반응할 것\"이라고...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315432?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:54:00+09:00",
-      "title": "워시 \"공급 충격이 정책을 더 어렵게 한다\"… 물가 안정 3갈래 제시",
-      "snippet": "그는 \"우리는 이런 충격을 매우 심각하게 본다\"며 \"경제를 강타한 여러 충격을 그냥 지나치고 중요하지 않다고 보는 게 아니다\"라고 말했다. 연준의 관심은 충격의 2차 파급 여부에 맞춰져 있다. 워시 의장은 \"이 충격들이...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382757"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:54:00+09:00",
-      "title": "워시 \"연준 물가 목표는 오직 2%\" … 금리 동결에도 매파 기조 재확인",
-      "snippet": "그는 미국 경제에 대해 \"성장은 견조하고 노동시장도 안정적\"이라고 평가하면서도 \"인플레이션은 여전히 목표치를 웃돌고 있다\"고 진단했다. 같은 날 발표된 FOMC 성명 역시 경제 활동과 고용은 양호한 흐름을 이어가고...",
-      "domain": "newdaily.co.kr",
-      "source": "newdaily.co.kr",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/07/30/2026073000008.html"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:53:00+09:00",
-      "title": "이 대통령, 세 번째 순방국 칠레 도착…\"자원 강국 칠레 든든한 협력 파...",
-      "snippet": "또 경제 금융 중심지 상파울루에서 양국 기업인들이 함께하는 한·브라질 비즈니스 라운드테이블 행사에... 이 대통령은 출국 직전 X(옛 트위터)에 올린 글에서 \"세계 GDP 89%를 차지하는 경제권과 연결된 통상 허브이자...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096838?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:52:00+09:00",
-      "title": "워시 \"2% 물가목표 반드시 달성… 더 높은 물가 용인한다는 건 오해\"",
-      "snippet": "그는 이런 인식을 경제학 용어인 '드러난 선호'에 빗대며, 기대 인플레이션을 적절한 수준에 고정하는 것이 목표 달성의 관건이라고 설명했다. 이어 \"그 점에서 어느 정도 진전이 있었다\"면서도 \"완료됐다고 말하는 것은...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382756"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:52:00+09:00",
-      "title": "이 대통령 “한·칠레 FTA, 새로운 현실 반영해 진화해야”…핵심광물 ...",
-      "snippet": "남미를 순방 중인 이 대통령은 29일 스페인 EFE 통신과의 인터뷰에서 “오늘날 경제는 디지털 무역, 인공지능... 이 대통령은 협정이 양국 관계 발전에 중요한 역할을 해왔지만, 발효 이후 나타난 경제·통상 환경의 급격한...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2608973"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-07-30T03:52:00+09:00",
-      "title": "96만건 뉴욕 세컨드하우스 부자 명단 공개…맘다니, 증세 경고",
-      "snippet": "소유한 부동산 부자 명단을 공개했습니다. 이는 부자 증세를 추진해 온 조란 맘다니 뉴욕시장의 주요 세수 확대 정책 중 하나입니다. 미 일간 월스트리트저널(WSJ)은 \"맘다니 행정부가 부동산 소유주 명단을 온라인에...",
-      "domain": "kbs.co.kr",
-      "source": "KBS",
-      "link": "https://n.news.naver.com/mnews/article/056/0012227892?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:51:00+09:00",
-      "title": "'매의 발톱' 든 워시 \"느슨한 물가 목표는 없다…연준 목표는 오직 2%\"",
-      "snippet": "워시 의장은 이날 FOMC가 9대 3의 표결로 기준금리를 연 3.50~3.75%로 동결했다고 소개하면서도 미국 경제의 기초 체력은 여전히 견조하다고 평가했다. 그는 “최근 여러 충격에도 미국 경제는 인상적인 회복력을 보여주고...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006339536?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:51:00+09:00",
-      "title": "이 대통령, 두 번째 남미 순방국 칠레 도착...정상회담 예정",
-      "snippet": "회담에선 칠레가 우리의 첫 자유무역협정 FTA 체결국인 만큼, 'FTA 현대화'를 통해 경제 협력을 확대하는 방안을 논의할 계획입니다. 또, 칠레가 첨단산업의 필수 광물인 구리와 리튬 매장량 세계 1위라는 점을 고려해...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002386415?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:51:00+09:00",
-      "title": "[속보] 연준 워시 \"미 경제, 최근 충격에도 인상적인 회복력 보여줘\"",
-      "snippet": "",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016222940?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:51:00+09:00",
-      "title": "[속보] 美연준 “9대3 표결로 동결…경제활동 견조하게 확대”",
-      "snippet": "[속보] 美연준 “9대3 표결로 동결…경제활동 견조하게 확대”",
-      "domain": "biz.heraldcorp.com",
-      "source": "헤럴드경제",
-      "link": "https://n.news.naver.com/mnews/article/016/0002677058?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:50:00+09:00",
-      "title": "워시 연준 의장, 2% 물가목표 재확인…'소프트 목표' 부인",
-      "snippet": "미국 경제에 대해서는 최근 일련의 충격에도 '인상적인 회복력'을 보였고 전체 흐름은 여전히 긍정적이라고... 미국 경제를 긍정적으로 평가하면서도 충격과 불확실성을 함께 언급한 만큼 물가와 경기 흐름이 다음 정책...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382753"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:50:00+09:00",
-      "title": "연준 워시, 고물가·충격 논의…금리경로 변수 됐다",
-      "snippet": "미국 연방준비제도(Fed·연준)가 고물가와 최근 경제 충격, 통화정책 도구와 전략을 놓고 논의했다. 금리... 그는 논의 주제로 △지난 5년간 이어진 높은 인플레이션 △최근 경제 충격 △충격에 따른 가격 상승 △통화정책...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382754"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:49:00+09:00",
-      "title": "美금리 3.50∼3.75%로 5연속 동결…“9대3 표결로 결정”",
-      "snippet": "연준은 성명에서 “중동 분쟁 등으로 인한 불확실성이 높아졌음에도 경제 활동은 견조한 속도로 확대되고 있다”고 밝혔다. 이어 “생산성 향상과 자본 투자는 강력하다. 일자리 증가는 노동력과 보조를 맞추고...",
-      "domain": "biz.heraldcorp.com",
-      "source": "헤럴드경제",
-      "link": "https://n.news.naver.com/mnews/article/016/0002677057?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:48:00+09:00",
-      "title": "[美 7월 금리] 5회 연속 금리 동결…\"성장 견조·물가 여전히 높아\"",
-      "snippet": "미국 경제가 견조한 성장세를 이어가고 있지만 물가는 여전히 연준 목표치인 2%를 웃돌고 있고, 중동 지역... 연준은 성명에서 \"중동 지역 분쟁에 일부 기인한 높은 불확실성에도 경제활동은 견조한 속도로 확장하고...",
-      "domain": "ebn.co.kr",
-      "source": "ebn.co.kr",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718303"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:48:00+09:00",
-      "title": "'특징주' 기사로 93억원 꿀꺽… 경제지 기자 동원 주가조작단",
-      "snippet": "A씨와 경제지 기자 B씨 등 8명을 자본시장법 위반, 배임수·증재 등 혐의로 기소했다고 29일 밝혔다. 이들 중 A씨와 핵심 연락책 역할을 수행한 B씨, 범행에 참여한 대가로 금품을 수수한 또 다른 경제지 기자 C씨는 구속된...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005393042?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:46:00+09:00",
-      "title": "모건스탠리, 이더리움·솔라나 현물 ETF 출시",
-      "snippet": "미국 경제매체인 블룸버그(Bloomberg) 소속 분석가는 모건스탠리의 미국 비트코인 현물 상장지수펀드가 지난 4월 가상화폐 약세장에서 출시됐음에도 4개월 만에 약 4억 달러(약 5,816억 원)의 운용자산(AUM)을 확보한 점을...",
-      "domain": "khgames.co.kr",
-      "source": "khgames.co.kr",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306808"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:46:00+09:00",
-      "title": "워처구루 ‘워시 연준 의장, AI 성장동력 언급’",
-      "snippet": "케빈 워시(Kevin Warsh) 미 연방준비제도 의장이 인공지능(AI)을 향후 경제성장을 이끌 동력으로 언급했다고... 기사요약 by TokenPost.ai 시장 해석 케빈 워시 미 연방준비제도 의장이 AI를 향후 경제성장의 동력으로...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/382751"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:43:00+09:00",
-      "title": "워시 “진짜 집안 싸움”…美연준 포결 끝 금리 3.50~3.75% 동결",
-      "snippet": "연준은 성명을 통해 중동발 지정학적 리스크 등 불확실성이 증대됐음에도 불구하고 미국 경제는 견조한 성장세를 이어가고 있다고 진단했다. 강력한 생산성 향상과 자본 투자가 성장을 견인하고 있으며, 고용 시장...",
-      "domain": "dt.co.kr",
-      "source": "dt.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/029/0003039711?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-07-30T03:41:00+09:00",
-      "title": "[속보]美 워시 \"물가 안정 확고한 의지…경제, 인상적인 회복력 보여\"",
-      "snippet": "후속기사가 이어집니다",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014096837?sid=104"
     }
   ]
 }
