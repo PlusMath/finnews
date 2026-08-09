@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "category": "bitcoin",
+      "pubDate": "2026-08-10T02:32:00+09:00",
+      "title": "모건스탠리, 비트코인 3일 연속 매수...시장 흔들려도 4억달러 베팅",
+      "snippet": "월가 대형 투자은행 모건스탠리(Morgan Stanley)가 비트코인을 3일 연속 매수한 것으로 나타났다. 보유 규모는 약 4억달러까지 늘었다. 시장 불확실성이 이어지는 상황에서도 비트코인 매집을 지속했다. 8월 7일...",
+      "domain": "coinreaders.com",
+      "source": "coinreaders.com",
+      "link": "http://coinreaders.com/251864"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:22:00+09:00",
+      "title": "리플(XRP), 가격 횡보 중 장기 성장 가능성 모색",
+      "snippet": "거시경제 불확실성이 투자심리를 짓누르고 있다. 반면 XRP 레저(XRPL) 생태계는 기관 투자자를 겨냥한... 미국 달러화 강세와 거시경제 불확실성이 복합적으로 작용한 가운데, 청산(liquidation) 물량 출회까지 겹쳐...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/387249"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-10T02:18:00+09:00",
+      "title": "‘경쟁률 0.0033대 1’ 냉랭한 지방 분양시장… ‘3대 메가’ 덕 기대감...",
+      "snippet": "한국부동산원 청약홈에 따르면 지난 5일 진행된 강원도 강릉시 교동 ‘리쉐스302’는 1순위 청약에서 302가구 모집에서 전용면적 142㎡(약 42평)형에 단 1명만 신청했다. 경쟁률로 계산하면 0.0033대 1이다. 2순위까지...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001865845?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:15:00+09:00",
+      "title": "美 국가경제위원장 \"식료품·연료 가격 높아…해야 할 일 많다\"",
+      "snippet": "케빈 해싯 백악관 국가경제위원회(NEC) 위원장은 9일(현지시간) 식료품 가격과 연료 가격 등이 여전히 높다고 밝혔다. 해싯 위원장은 이날 CNN 시사 프로그램 '스테이트 오브 더 유니언'에 출연해 \"식료품 가격은 너무...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014116650?sid=104"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-10T02:15:00+09:00",
+      "title": "한강벨트‘덜 똘똘한 한채’ 갈아타기 생길까",
+      "snippet": "시장이 여러 채를 정리하고 한 채에 집중하는 ‘똘똘한 한 채’는 부동산 필승 공식이었다. 그러나 이번... 1세대 1주택자라면 장기 보유만으로 받을 수 있던 종합부동산세 세액공제는 2027년 보유 공제율 혜택 축소를...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001865843?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:14:00+09:00",
+      "title": "이가은, '최애의 사원' 기자 변신 앞두고 실크 볼륨 선물 인증",
+      "snippet": "한편, 이가은은 최근 tvN 새 월화드라마 '최애의 사원'에 인사이트 경제신문 도은영 기자 역으로 특별출연했다. '최애의 사원'은 최애를 만나려다 최애의 회사에 입사하게 된 신입사원 남다름의 오피스 성장 로맨스를...",
+      "domain": "topstarnews.net",
+      "source": "topstarnews.net",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16159183"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:12:00+09:00",
+      "title": "미국 비트코인·이더리움 ETF, 4월 이후 최대 주간 순유입",
+      "snippet": "업계에서는 최근 자금 유입세를 두고 '콜드카드(Coldcard)' 지갑 해킹 사건과 연관성이 있을 수 있다는 분석이 미국 경제매체인 블룸버그(Bloomberg) 분석진을 통해 나오기도 했다. '콜드카드' 해킹 이후 블랙록과...",
+      "domain": "khgames.co.kr",
+      "source": "khgames.co.kr",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307139"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:12:00+09:00",
+      "title": "이더리움 수익률 2.6%→1.2%, 솔라나도 발행량 재설계",
+      "snippet": "스테이킹 비율이 50%에 이르면 보상의 100%가 소각돼, 그 이상으로 스테이킹을 늘릴 경제적 유인 자체가 사라진다. 갤럭시 갤럭시 리서치에 따르면 현재 이더리움 전체 물량의 약 3분의 1이 스테이킹된 상태인데...",
+      "domain": "wikitree.co.kr",
+      "source": "wikitree.co.kr",
+      "link": "https://www.wikitree.co.kr/articles/1151361"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:11:00+09:00",
+      "title": "백악관 해싯 \"식료품값·유가, 바라는 것보다 여전히 높아\"",
+      "snippet": "케빈 해싯 백악관 국가경제위원장은 미국 중간 선거 민심 지표라고 할 수 있는 민생 물가가 정부가 설정한 기준치보다는 여전히 높다고 밝혔습니다. 해싯 위원장은 미국 CNN 방송과의 인터뷰에서 \"식료품 가격은 여전히...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002391060?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:02:00+09:00",
+      "title": "솔라나(SOL), 7위 시가총액 유지 속 가격 상승 및 인플레이션 조정 논의",
+      "snippet": "이는 이더리움을 비롯한 주요 레이어1 블록체인들이 토큰 경제학 개편을 검토하는 흐름과 궤를 같이한다. 전문가들은 이러한 인플레이션 조정이 장기적으로 솔라나의 토큰 가치 안정성과 네트워크 보안 예산...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/387248"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-10T02:02:00+09:00",
+      "title": "종부세 논쟁에 가려진 질문…커지는 '미래 재정', 누가 부담할 것인가",
+      "snippet": "세금은 개인과 기업의 경제활동에 영향을 미치는 동시에 국가의 재정 규모와 정책 방향을 결정하는... 우리 경제 규모에 비하면 그 효과는 매우 제한적이다. 단순히 연평균 세수 증가액을 GDP와 비교하면 약 0.03% 수준에...",
+      "domain": "newsverse.kr",
+      "source": "newsverse.kr",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=11143"
+    },
+    {
       "category": "economy",
       "pubDate": "2026-08-10T01:45:00+09:00",
       "title": "백악관 해싯 \"식료품값·유가, 바라는 것보다 여전히 높아\"",
@@ -44270,141 +44369,6 @@
       "domain": "ekn.kr",
       "source": "ekn.kr",
       "link": "https://www.ekn.kr/web/view.php?key=20260808026150754"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-08T02:40:00+09:00",
-      "title": "폴리마켓 “비트코인, 이달 6만7,500달러 상회 확률 62%”",
-      "snippet": "예측시장 폴리마켓에서 비트코인이 이달 6만7,500달러를 웃돌 확률이 62%로 집계됐다. 출처는 비트코인매거진이다. 폴리마켓의 해당 수치는 이용자들이 거래를 통해 반영한 단기 가격 전망으로, 비트코인 시장의 상승...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/386847"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:36:00+09:00",
-      "title": "대구노동청 \"임금체불 전년대비 20% 증가···상습체불 강제수사할 것...",
-      "snippet": "대구·경북 대학생·청년 노동실태조사단 관계자는 <녹색경제신문>과의 인터뷰에서 \"시급을 7900원으로... 황종철 대구지방고용노동청장은 \"임금체불은 노동자와 가족의 생계를 위협하며 국민경제를 파탄에 이르게 하는...",
-      "domain": "greened.kr",
-      "source": "greened.kr",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=347162"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-08T02:30:00+09:00",
-      "title": "이더리움 EIP-8363 논란…스테이킹 보상 축소 놓고 찬반 격화",
-      "snippet": "코인텔레그래프에 따르면 이더리움 개선 제안 EIP-8363이 스테이킹 보상 축소를 통해 ETH 신규 발행량을... 비트와이즈 이더리움 책임자 스티브 베리맨은 발행 곡선 변경이 거버넌스 리스크로 인식될 수 있으며 기관...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/386845"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:28:00+09:00",
-      "title": "\"이란 불법 자금줄 차단\" 美재무부, 환전상·페이퍼컴퍼니 제재",
-      "snippet": "국무부는 “이란 정권의 경제 실정과 부패가 이란 국민들에게 점점 더 분명해지고 있다”며 “오늘과 같은 조치는 정권을 국제금융시스템에서 더욱 고립시키고, 테러 지원과 역내 도발을 지속할 경우 크고 오래가는...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006347455?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:22:00+09:00",
-      "title": "리플(XRP), 규제 불확실성 속 1달러 지지선 위협받아",
-      "snippet": "규제 불확실성과 거시경제 악재가 겹치면서 투자자들의 불안감이 커지는 모양새다. 美 상원... 강달러·국채금리 상승까지 '삼중 악재'…거시환경도 XRP 발목 규제 이슈에 더해 거시경제 환경도 XRP에 불리하게...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/386841"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:20:00+09:00",
-      "title": "리치먼드 연은 총재 \"美 고용시장, 취약한 균형 상태\"",
-      "snippet": "토마스 바킨 리치먼드 연은 총재[연합뉴스 자료사진] 바킨은 7일(현지시간) 전미실물경제협회(NABE)가 주최한 행사에서 비디오 연설을 통해 \"7월 비농업 고용 지표는 내가 노동시장을 바라본 시각, 즉 느슨하지도 않고...",
-      "domain": "einfomax.co.kr",
-      "source": "einfomax.co.kr",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429234"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-08-08T02:15:00+09:00",
-      "title": "폭염 속 대구 아파트단지 정전…1천200세대 2시간 넘게 불편",
-      "snippet": "이날 오전 2시께 해당 아파트 단지 인근의 기온은 28.1도로 기록됐다. 수성구청은 지역 주민을 대상으로 기기 전원을 모두 끄는 등 안전사고에 유의하라는 내용의 안전안내문자를 보냈다.",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016239859?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:12:00+09:00",
-      "title": "美 7월 고용 2만3000명 감소에도 비트코인 데스크로스는 못 벗어났다",
-      "snippet": "잭슨홀 경제 심포지엄으로 옮겨가고 있다. 비트겟 리서치의 수석 분석가 라이언 리(Ryan Lee)는 고용지표 발표 전 “이번 수치가 9월 연방공개시장위원회(FOMC) 회의와 8월 말 잭슨홀 경제 심포지엄의 분위기를...",
-      "domain": "wikitree.co.kr",
-      "source": "wikitree.co.kr",
-      "link": "https://www.wikitree.co.kr/articles/1151134"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-08T02:08:00+09:00",
-      "title": "트럼프 \"중국에 AI 패권 안 뺏긴다\"…시진핑과 정상회담서 정면 승부",
-      "snippet": "가상자산에 대해서는 \"비트코인으로 결제하는 사람이 점점 늘고 있다\"며 \"이는 달러 시스템의 부담을 크게 덜어준다\"고 말했다. 자녀들의 가상자산 사업과 관련해서는 \"그들은 정부와 관련이 없으며 정부 업무를 함께...",
-      "domain": "fnnews.com",
-      "source": "파이낸셜뉴스",
-      "link": "https://n.news.naver.com/mnews/article/014/0005558764?sid=104"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-08T02:06:00+09:00",
-      "title": "BTCPay 서버, 심각한 취약점 악용 경고…“자금 손실 가능”",
-      "snippet": "오데일리에 따르면 비트코인 뉴스는 X를 통해 BTCPay 서버 측이 심각한 취약점이 현재 악용되고 있으며 자금 손실로 이어질 수 있다고 밝혔다고 전했다. BTCPay 서버는 이용자들에게 BTCPay Server v2.4.2로 즉시...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/386837"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:05:00+09:00",
-      "title": "미국, 쿠바 고사작전 성공하나…국무장관 \"인내와 끈기로 옥죌 것\"",
-      "snippet": "융단폭격식 제재로 에너지, 식량, 의약품이 바닥난 쿠바의 경제를 붕괴시켜 정권을 전복하겠다는 구상 아래... 미국이 기존의 금수 조치에 더해 대규모 제재를 쏟아내면서 쿠바 경제는 사실상 무너졌습니다. 필수품은 물론...",
-      "domain": "sbs.co.kr",
-      "source": "SBS",
-      "link": "https://n.news.naver.com/mnews/article/055/0001379018?sid=104"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-08T02:04:00+09:00",
-      "title": "887 BTC, 익명 지갑서 코인베이스 인스티튜셔널로 이동",
-      "snippet": "웨일얼러트에 따르면 이번 이체는 비트코인 네트워크에서 확인됐다. 거래소 관련 지갑으로의 대규모 이동은 시장에서 매도 압력 가능성으로 해석되기도 하지만, 실제 이체 목적은 확인되지 않았다.",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/breaking/386836"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:00:00+09:00",
-      "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…\"완벽한 방어보다 침해...",
-      "snippet": "탐지와 취약점 대응 능력이 좋아졌음에도 사이버 사고의 비용과 사회·경제적 영향은 계속 커지고 있다.... 공격자에게도 경제성이 중요하다. 1만 달러를 벌기 위해 10만 달러의 AI 비용을 투입해야 하는 공격이라면...",
-      "domain": "dailysecu.com",
-      "source": "dailysecu.com",
-      "link": "https://www.dailysecu.com/news/articleView.html?idxno=207960"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T02:00:00+09:00",
-      "title": "미국 7월 고용 2만3000명 감소…9월 금리인상 기대 후퇴[뉴욕브리핑]",
-      "snippet": "다만 경제활동 참가율은 61.5%에서 61.4%로 낮아졌다. 경제활동 참가율 하락은 구직 활동을 중단하거나 노동시장에서 이탈한 사람이 늘었을 가능성을 시사한다.업종별로는 지방정부 교육 부문에서 고용이 크게...",
-      "domain": "mtn.co.kr",
-      "source": "mtn.co.kr",
-      "link": "https://news.mtn.co.kr/news-detail/2026080801541860037"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-08T01:58:00+09:00",
-      "title": "울산, 기술보증기금 북구권 신설 요청…중소기업 기술금융 확대 기대",
-      "snippet": "울산시는 7일 신민식 경제부시장이 부산에 있는 기술보증기금 본점을 찾아 권형택 기술보증기금 이사장을 만나 울산지역 기술금융과 기술사업화 지원 강화 방안을 협의했다고 밝혔다. 이번 요청의 핵심은 울산 북구...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/economy/386832"
     }
   ]
 }
