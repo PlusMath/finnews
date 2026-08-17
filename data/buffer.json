@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T02:36:00+09:00",
+      "title": "세일러, 스트래티지 우선주 STRC 100달러 사수 약속",
+      "snippet": "스트래티지는 비트코인(BTC) 매입 자금을 조달하기 위해 여러 종류의 우선주를 발행해왔으며, STRC는 액면가 100달러를 기준으로 설계된 상품이다. 세일러 회장이 구체적으로 어떤 방식으로 가격을...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392172"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-18T02:34:00+09:00",
+      "title": "오늘 날씨, 전국 곳곳 비·소나기…경남 통영·제주 호우주의보, 아침 기...",
+      "snippet": "경상권을 중심으로 순간풍속 55km/h(15m/s) 안팎의 강한 바람이 부는 곳이 있겠으며, 시설물 관리와 안전사고에 유의해야 한다. 남해상과 동해상, 제주도해상에는 돌풍과 함께 천둥·번개가 치는 곳이 있겠으니 해상...",
+      "domain": "topstarnews.net",
+      "source": "topstarnews.net",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16165561"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T02:28:00+09:00",
+      "title": "카르다노, 다익스트라 하드포크 계획 공개…ADA 1.03% 하락",
+      "snippet": "코인게이프는 같은 시각 비트코인(BTC)이 6만4000달러 위에서, 이더리움(ETH)이 1900달러 위에서 거래됐다고 전했다. 리플(XRP)은 1달러 안팎에서 유지됐다. 코인게이프는 카르다노의 다익스트라 하드포크가 2026년...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392168"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:23:00+09:00",
+      "title": "구직 포기한 2030… 10명 중 6명은 “구직 의사 없어”",
+      "snippet": "17일 국가데이터처 경제활동인구 마이크로데이터에 따르면 지난달 기준 2030세대 중 비경제활동인구는 1년 전(316만1000명)보다 약 1.8% 줄어든 310만5000명으로 조사됐다. 비경제활동인구는 경제활동이나 구직 활동을...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001867390?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:22:00+09:00",
+      "title": "부자 경기도의 빈 곳간… 해법은 정부·비수도권 몫 줄이기?",
+      "snippet": "TF에는 행안부, 재정경제부, 기획처, 교육부 등이 참여해 지방소비세율·지방교부세율 조정과 중앙정부 기능의 지방 이양 등을 함께 검토하기로 했다. 그러나 관련 논의는 사실상 멈춰있다. 정부 관계자는 “TF가 아직...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001867389?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:19:00+09:00",
+      "title": "계산 바쁜 세제개편 ‘타깃’ 강남·서초, 잇따른 ‘세금설명회’",
+      "snippet": "강남구는 18일까지, 서초구는 19일까지 각각 구민 의견을 수집해 주무부처인 재정경제부에 제출한다고 밝혔다. ‘의견 수렴’ 형태를 띄긴 했지만 지역 주민들의 개편안을 향한 여론이 극히 부정적임을 고려하면 사실상...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001867388?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:08:00+09:00",
+      "title": "쿠슈너·네타냐후, 가자전쟁 해법 논의…美측 “향후 추진 방안 합의”",
+      "snippet": "스티브 위트코프(왼쪽) 미국 중동특사가 지난 1월 22일(현지시간) 스위스 다보스에서 열린 세계경제포럼(WEF) 연차총회 중 ‘평화위원회(Board of Peace)’ 회의에서 재러드 쿠슈너(가운데)가 지켜보는 가운데 니콜라이...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006353092?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:06:00+09:00",
+      "title": "국내 로봇 상장사 상반기 매출 9.8% 증가…외형 성장에도 영업적자 1343억...",
+      "snippet": "로봇기업들이 연구개발과 전문인력 확보, 생산시설 투자, 해외시장 개척 등에 지속적으로 자금을 투입하고 있는 데다 아직 상당수 신사업이 본격적인 규모의 경제에 도달하지 못한 것도 수익성 확보를 어렵게...",
+      "domain": "irobotnews.com",
+      "source": "irobotnews.com",
+      "link": "https://www.irobotnews.com/news/articleView.html?idxno=47959"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:06:00+09:00",
+      "title": "내상 깊은 역대급 당권 경쟁… ‘계파 갈등 봉합’ 최우선 과제로",
+      "snippet": "강 수석대변인은 “당의 통합, 민생, 경제를 살피는 당정청 간 국정 협력을 더욱 공고히 하기 위해 마련됐다”고 설명했다. 김 대표 선출 이후 무엇보다 계파 간 화합이 중요하지만 전대 과정에서 격화된 갈등 탓에 난관이...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001867385?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T02:04:00+09:00",
+      "title": "어게인 2018?… 한·미 균열에 북·중·러 밀착까지 늘어난 변수",
+      "snippet": "먼저 2018년 당시엔 오랜 대북 제재로 경제적 어려움을 겪던 북한이 한국 정부와의 고위급 회담, 평창... 러시아와 밀착한 북한은 우크라이나 전쟁 파병으로 경제적 사정이 호전됐다. 중국과도 고위급 왕래를 지속하며 정치...",
+      "domain": "kmib.co.kr",
+      "source": "국민일보",
+      "link": "https://n.news.naver.com/mnews/article/005/0001867384?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T01:51:00+09:00",
+      "title": "월가 공포지수, 올해 최저…증시 랠리 속 변동성 경고음",
+      "snippet": "17일(이하 현지시간) 경제전문 매체 CNBC에 따르면 시카고옵션거래소(CBOE) 변동성지수(VIX)는 지난 14일 14.2까지 하락해 올해 들어 최저치로 떨어졌다. 이날은 약 15를 기록했다. 이런 가운데 스탠더드앤푸어스(S&P)500지수는...",
+      "domain": "bloter.net",
+      "source": "bloter.net",
+      "link": "https://n.news.naver.com/mnews/article/293/0000089162?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T01:51:00+09:00",
+      "title": "알파벳 쓸어담는 월가 구루들[박신영의 개장전 요것만]",
+      "snippet": "추가 경제 압박을 준비하는 가운데 이란은 오히려 더 큰 전쟁에 대비하고 있다는 분석이 나오고 있습니다. 도널드 트럼프 미국 대통령은 지난 금요일 이란에 강력한 경제적 타격을 가하겠다고 밝혔고, 스콧 베선트...",
+      "domain": "hankyung.com",
+      "source": "한국경제",
+      "link": "https://n.news.naver.com/mnews/article/015/0005321739?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T01:47:00+09:00",
+      "title": "다시 전운 감도는 호르무즈…트럼프, 이란 넘어 오만에도 경고",
+      "snippet": "미국은 이란 항구에 대한 해상봉쇄를 통해 테헤란의 원유 수출과 경제에 압박을 가하고 있다. 반대로 이란은 세계 에너지 수송의 목줄인 호르무즈 해협을 쥐고 미국에 봉쇄 해제와 양보를 요구하고 있다. 이란은 미국이...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006353091?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T01:38:00+09:00",
+      "title": "\"바쁜 일상 속, 잠시 멈추어 나를 만나다\"",
+      "snippet": "경제적 불확실성, 치열한 경쟁, 관계의 갈등, 끊임없는 정보의 홍수 속에서 현대인들은 마음 둘 곳을 찾지 못한 채 살아가고 있다. 이에 저자는 첨단기술의 발전 속에서도 경쟁과 갈등으로 불안을 겪는 현대인들에게 필요한...",
+      "domain": "bulkyo21.com",
+      "source": "bulkyo21.com",
+      "link": "http://www.bulkyo21.com/news/articleView.html?idxno=64766"
+    },
+    {
       "category": "economy",
       "pubDate": "2026-08-18T01:36:00+09:00",
       "title": "비트코인 채굴사 하이브 디지털, 4953억원 AI GPU 계약에 주가 11% 급등",
@@ -51668,96 +51794,6 @@
       "domain": "ytn.co.kr",
       "source": "YTN",
       "link": "https://n.news.naver.com/mnews/article/052/0002393887?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T02:36:00+09:00",
-      "title": "131만명 된 토큰화 주식, 월간 이전대금 179% 늘었다",
-      "snippet": "토큰화 주식은 주식이나 ETF의 경제적 노출을 블록체인 토큰 형태로 구현한 상품이다. 다만 발행사가 실제 기초 주식을 보관하는지, 투자자가 직접 권리를 갖는지, 특정 관할 투자자에게 판매할 수 있는지는...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/391489"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T02:36:00+09:00",
-      "title": "[분석] \"직투 대신 적립식\"···4대 은행, 펀드 판매 1년 새 '4배'",
-      "snippet": "■ 증시 박스권 전망에 '코스트 에버리징' 효과 재조명 금융투자업계에서는 대내외 경제 불확실성과 금리 변수 등으로 인해 증시가 가파른 상승세를 타기보다는 변동성이 큰 박스권 장세를 한동안 이어갈 가능성이...",
-      "domain": "smartbizn.com",
-      "source": "smartbizn.com",
-      "link": "https://www.smartbizn.com/news/articleView.html?idxno=151286"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T02:22:00+09:00",
-      "title": "가을야구 또 물건너 갔는데 만원 관중? '종교 수준' 롯데 팬들의 '불가사...",
-      "snippet": "'종교 수준'의 팬들이 보내주는 헌신적인 사랑과 만원 관중의 경제적·정서적 가치가 단순한 흥행 수치에 그치지 않고, 체계적인 프런트 운영과 성과로 증명되어야만 팬들의 상처받은 자부심을 치유할 수 있다는 지적이다.",
-      "domain": "maniareport.com",
-      "source": "maniareport.com",
-      "link": "https://m.sports.naver.com/kbaseball/article/425/0000202803"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T02:21:00+09:00",
-      "title": "'생활인구' 늘리는 관광자원...지역 경제 활성화 한몫",
-      "snippet": "지역 소멸 위기 지역은 스쳐 지나가는 관광이 아닌 '머무는 관광'을 통해 생활인구 늘리기에 힘쓰고 있습니다. 전남 구례군은 지리산과 화엄사라는 천혜 자원에 다양한 문화 콘텐츠를 더해, 봄철 생활인구 전국 최고를...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002393883?sid=102"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-16T02:14:00+09:00",
-      "title": "UBS, 블랙록 비트코인ETF 콜옵션 3개월간 24배 폭증…풋옵션은 반토막",
-      "snippet": "스위스계 대형 은행 UBS가 블랙록의 아이셰어스 비트코인 트러스트(iShares Bitcoin Trust, IBIT)에 대한 콜옵션(call option, 정해진 가격에 미래에 주식을 살 수 있는 권리) 노출을 2분기 만에 24배 넘게 늘린 것으로...",
-      "domain": "wikitree.co.kr",
-      "source": "wikitree.co.kr",
-      "link": "https://www.wikitree.co.kr/articles/1152710"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-16T02:08:00+09:00",
-      "title": "WLFI 3900만개 거래소 이동, 하루 순유입 134만달러",
-      "snippet": "온체인 렌즈(Onchain Lens)는 월드리버티파이낸셜 재무 지갑이 WLFI 3900만 개를 바이비트 연계 충전 주소로... 코인글래스(CoinGlass)는 WLFI의 24시간 거래소 유입액을 1476만 달러(약 209억원), 유출액을 1341만 달러(약...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/391487"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T02:03:00+09:00",
-      "title": "가짜 월세 계약서로 확정일까지…45억 가로챈 일당의 최후",
-      "snippet": "결국 A씨와 B씨는 특정경제범죄가중처벌법 위반과 사기 등의 혐의로 재판에 넘겨졌다. 15일 법조계에 따르면 인천지법 부천지원 형사1부(나상훈 부장판사)는 최근 A씨에게 징역 9년을, B씨에게 징역 5년을 각각 선고했다....",
-      "domain": "sedaily.com",
-      "source": "서울경제",
-      "link": "https://n.news.naver.com/mnews/article/011/0004652137?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T02:00:00+09:00",
-      "title": "[오늘의 운세] 8월 16일 日(음력 7월 4일) 띠별 운세",
-      "snippet": "- 용(辰)띠: 52년생 경제적인 풍요 부자 소리 들어보자.64년생 손잡은 동반자 같은 꿈을 향해 가자.76년생 가르치는 수고 인내가 필요하다.88년생 지친 기색이 없이 꾸준히 가야 한다.00년생 깊은 잠 자던 부진 기지개를...",
-      "domain": "fntimes.com",
-      "source": "fntimes.com",
-      "link": "https://www.fntimes.com/html/view.php?ud=202608150010293806c1c16452b0_18"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-16T01:59:00+09:00",
-      "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
-      "snippet": "미국 가상자산 시장구조법 클래리티법(Clarity Act) 처리가 9월로 밀렸음에도 비트코인이 하반기 상승 곡선을 그릴 것이란 분석이 나왔다. 법안 불발에도 투자심리가 견조한 데다 상장지수펀드(ETF)를 통한 자금 유입이...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014129877?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T01:57:00+09:00",
-      "title": "예멘 정부군 통제 모카 항, 후티 공격에 운영 중단",
-      "snippet": "예멘 정부는 후티 반군이 모카의 민간·경제·해상 시설을 표적으로 탄도 미사일을 발사해 민간인과 군 사상자가 속출했다고 밝힌 바 있다. 후티 반군은 역내 사우디아라비아 지원 세력의 병력 집결지와 무기고를...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009115967?sid=104"
     }
   ]
 }
