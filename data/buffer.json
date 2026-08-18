@@ -2,6 +2,663 @@
   "items": [
     {
       "category": "economy",
+      "pubDate": "2026-08-18T23:44:00+09:00",
+      "title": "[전영수의 新인구문법] 급증한 평생 무혼… ‘나 홀로 50세의 삶’이 흔...",
+      "snippet": "잘 활용하면 사회·경제 가치의 일거양득이 기대된다. 최소한 생애 미혼을 인구 변화가 낳은 문제가 아닌 현상으로 관리하는 게 좋다. 막을 수 없다면 기울기를 완만하게 줄이는 완화 계획과 늘어날지언정 그 속에서 더...",
+      "domain": "chosun.com",
+      "source": "조선일보",
+      "link": "https://n.news.naver.com/mnews/article/023/0003993616?sid=103"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:44:00+09:00",
+      "title": "교육과정평가원 ‘교육광장’ 여름호 발간",
+      "snippet": "‘교육현장 속으로’에서는 시민교육과 경제교육 관련 칼럼과 함께 인천해양과학고, 서울구로초 창업동아리 등 학교 현장의 다양한 교육 사례를 다뤘다. ‘교육광장’은 교육과정·교수학습·교육평가 등 평가원의 핵심...",
+      "domain": "hangyo.com",
+      "source": "hangyo.com",
+      "link": "https://www.hangyo.com/news/article.html?no=108895"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T23:44:00+09:00",
+      "title": "9330만달러 규모 BTC 숏 일부 청산 관측",
+      "snippet": "한 주소가 보유한 1800 비트코인(BTC) 규모 숏 포지션이 일부 청산된 것으로 관측됐다. 해당 포지션 가치는 9330만 달러(약 1319억원)로 제시됐다. 오데일리는 해당 주소의 BTC 숏 포지션 일부가 청산됐다고 전했다. 숏...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392615"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T23:44:00+09:00",
+      "title": "미 30년물 5.33%, 비트코인은 6만4000달러대",
+      "snippet": "글로벌 장기 국채금리가 수십 년 만의 고점권으로 오르면서 비트코인(BTC)의 헤지 자산 논리가 다시 시험대에 올랐다. 미국 30년 만기 국채금리는 5.33%로 2007년 이후 최고 수준을 기록했다. 코인데스크(Coindesk)는...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392616"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:42:00+09:00",
+      "title": "[신문 속 작은 창문] [22] 이 공사장엔 밤이 없다",
+      "snippet": "어둠을 뚫고 차량들이 줄지어 공사 현장으로 향하는 모습. 동트기 전부터 대한민국 경제의 엔진이 움직일 때 나오는 불빛과 소음에서 희망을 보고 희망을 듣는다. /사진·글=",
+      "domain": "chosun.com",
+      "source": "조선일보",
+      "link": "https://n.news.naver.com/mnews/article/023/0003993615?sid=103"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:42:00+09:00",
+      "title": "\"트럼프 회동에 숏 1.7억달러 전멸\"...기관들, 비트코인(BTC) 반등에도 '...",
+      "snippet": "8월 17일(현지시간) 미국 경제 매체 벤징가에 따르면, 비트코인은 24시간 동안 1.83% 상승한 6만 4,285.51달러를 기록했다. 이더리움은 0.62% 오른 1,905.61달러, 솔라나(Solana, SOL)는 0.84% 상승한 75.80달러를 나타냈다....",
+      "domain": "coinreaders.com",
+      "source": "coinreaders.com",
+      "link": "http://coinreaders.com/253360"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:40:00+09:00",
+      "title": "현대차 노조, 10년 만에 전면파업… 21일 본사 상경투쟁",
+      "snippet": "41일 만에 재개된 현대차 교섭 ‘빈손’ 상여금ㆍ해고자 복직ㆍ정년연장 놓고 대립 19~20일ㆍ24~25일엔 4시간 부분파업 진행 [대한경제=강주현 기자] 현대자동차 노동조합이 올해 임금협상 난항으로 오는 19일부터 닷새간...",
+      "domain": "dnews.co.kr",
+      "source": "dnews.co.kr",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608182327299390422"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:40:00+09:00",
+      "title": "미·이란 휴전 종료, 이란 “전쟁 종식 합의였다”",
+      "snippet": "이 매체는 긴장이 고조될 경우 글로벌 원유 공급과 국제 경제 안정에 영향을 줄 가능성을 거론했다. 다만 보도된 내용이 실제 유가와 위험자산 가격 변동으로 이어졌는지는 확인되지 않았다.",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392612"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:39:00+09:00",
+      "title": "트럼프 \"이란과 대화 없다\"…대이란 봉쇄 유지 선언",
+      "snippet": "이란에 대한 군사·경제적 압박을 풀지 않겠다는 뜻을 분명히 한 것이다. 하지만 이란의 주장은 정반대다. AP통신에 따르면 모하마드 바게르 갈리바프 이란 의회 의장은 미국이 합의에 따른 의무를 이행할 때까지 호르무즈...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014133886?sid=104"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T23:38:00+09:00",
+      "title": "1억3460만달러 투입, 메타플래닛 미 법인 추진",
+      "snippet": "일본 메타플래닛(Metaplanet)이 1억3460만 달러(약 1903억원) 규모 초기 투자로 미국 비트코인 트레저리 법인 출범을 추진한다는 보도가 나왔다. 코인데스크는 18일 메타플래닛이 나노캡 기업 거래를 통해 미국...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392611"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:37:00+09:00",
+      "title": "[기고] 공급망 무기화 시대, 독자적인 ‘소재·자원 기술’로 돌파해야",
+      "snippet": "최철진 한국재료연구원 원장 세계 경제의 글로벌화가 퇴조하면서 자국 우선주의와 블록화가 두드러지고 있다. 그에 따라 산업의 비타민으로 불리는 희토류와 같은 핵심 전략 자원을 무기화하는 경향이 노골적으로...",
+      "domain": "chosun.com",
+      "source": "조선일보",
+      "link": "https://n.news.naver.com/mnews/article/023/0003993613?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:36:00+09:00",
+      "title": "트럼프 \"이란과 대화 없고 예정된 것도 없어…대이란 봉쇄 유효\"",
+      "snippet": "트럼프 대통령의 언급은 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조한 것으로 풀이됩니다. 앞서 미국과 이란이 지난 6월 18일 체결한 종전 양해각서(MOU)에 따른...",
+      "domain": "yonhapnewstv.co.kr",
+      "source": "연합뉴스TV",
+      "link": "https://n.news.naver.com/mnews/article/422/0000897030?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:34:00+09:00",
+      "title": "농협, NH싱씽몰 AI 인프라 확대…농가 판로 넓힌다",
+      "snippet": "농협경제지주는 18일 서울 종로구 KT 광화문빌딩에서 KT, 한국마이크로소프트와 ‘클라우드 기반 유통 AX... 농협경제지주는 클라우드 기반 인프라를 바탕으로 NH싱씽몰의 서비스 경쟁력을 높이는 한편, AI를 활용한 농산물...",
+      "domain": "fntimes.com",
+      "source": "fntimes.com",
+      "link": "https://www.fntimes.com/html/view.php?ud=202608182327092660dd55077bc2_18"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:32:00+09:00",
+      "title": "트레이딩 테크놀로지스, 칼시 예측시장 연결한다",
+      "snippet": "예측시장은 선거, 스포츠, 경제지표, 디지털자산 가격 같은 사건 결과를 두고 거래가 이뤄지는 시장이다. CFTC 학습 자료는 이벤트 계약을 사건 결과에 지급 구조가 연동되는 파생상품으로 설명한다. 이 때문에...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/policy/392608"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:32:00+09:00",
+      "title": "금융위·금감원·국책은행 어디로 가나…지방이전 후보지 어디?",
+      "snippet": "무엇보다도 지방이전에 대한 정부의 의지가 강력하고, 지난해 금융위를 재정경제부에 흡수하는 등의 조직개편안을 무산했던 바 있어 이번에는 따를 수밖에 없다는 관측이 우세하다. 마찬가지로 금감원도 지난해 원 내...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006353764?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:32:00+09:00",
+      "title": "\"내 집 마련 마지막 베팅\" 늘지만…싼 빌라는 사업성 떨어져 주의 필요",
+      "snippet": "도시와경제가 국토교통부 실거래가 공개시스템을 분석한 결과, 지난해 7월부터 올해 7월까지 서울 연립... 송승현 도시와경제 대표는 “이들 지역의 공통점은 신속통합기획과 모아타운, 최근에는 민간도심복합개발까지...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006353762?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:31:00+09:00",
+      "title": "\"아파트 살 유일한 길\"…2030 재개발 빌라행",
+      "snippet": "송승현 도시와경제 대표는 “사업이 이미 진행 중이거나 사업성이 확보된 곳은 4억원이라는 금액선으로 접근하기 어렵다”며 “막연한 기대감으로 (투자를) 접근할 경우 사업 초기 단계인 주택을 매입하고 면적도...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006353761?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:31:00+09:00",
+      "title": "트럼프 \"이란과 대화 없고 예정된 것도 없다…대이란 봉쇄 유효\"",
+      "snippet": "트럼프 대통령의 언급은 이란 전쟁 해법이 뚜렷이 보이지 않는 가운데 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조한 것으로 풀이됩니다. 이날 트루스소셜...",
+      "domain": "sbs.co.kr",
+      "source": "SBS",
+      "link": "https://n.news.naver.com/mnews/article/055/0001381574?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:30:00+09:00",
+      "title": "[TGS 2026] 히어로즈(HEROZ), AI 프로젝트 서포터즈 공개",
+      "snippet": "| 내외경제TV=정동진 기자 | 국내 게임업계에 쇼기 워즈(Shogi Wars)로 알려진 히어로즈(HEROZ)가 TGS 2025에 이어 올해도 참가한다. 18일 히어로즈에 따르면 TGS 2026의 비즈니스 솔루션 코너 내 AI 테크놀로지 파빌리온에...",
+      "domain": "nbntv.co.kr",
+      "source": "nbntv.co.kr",
+      "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4023974"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:30:00+09:00",
+      "title": "트럼프 \"이란과 대화 없고 예정도 없어...봉쇄 유효\"",
+      "snippet": "트럼프 대통령의 언급은 이란 전쟁 해법이 뚜렷이 보이지 않는 가운데 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조한 것으로 풀이됩니다. 이번 트루스소셜...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002394980?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:26:00+09:00",
+      "title": "한국관광공사, 2026 PATA 골드 어워드 수상!",
+      "snippet": "한국관광공사가 수상한 '지역사회 기반 관광 우수성' 부문은 단순히 관광객 유치를 넘어, 관광을 통해 지역 사회의 경제를 활성화하고 주민이 주도하는 자립형 관광 생태계를 성공적으로 구축한 기관...",
+      "domain": "gukjenews.com",
+      "source": "gukjenews.com",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3667778"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:25:00+09:00",
+      "title": "\"AI로 돈 벌었으니 나눠드립니다\"…전 국민 44만원 받는다는데",
+      "snippet": "대만 정부가 인공지능(AI) 산업 호황에 따른 경제성장의 성과를 국민과 나누기 위해 내년 전 국민에게... 라이 총통은 AI와 고성능컴퓨팅(HPC), 클라우드 서비스 등에 대한 세계적인 수요 증가로 경제가 성장하고 있다며...",
+      "domain": "weekly.chosun.com",
+      "source": "weekly.chosun.com",
+      "link": "https://n.news.naver.com/mnews/article/053/0000060797?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:24:00+09:00",
+      "title": "게임스컴 데브 어워드, 한국 인디 '남모' 2관왕 도전",
+      "snippet": "서울경제진흥원과 한국콘텐츠진흥원의 개발 지원 사업을 받았다. 게임스컴 데브는 게임스컴 개막에 앞서 열리는 개발자 콘퍼런스로, 2026년 행사는 8월 23일부터 25일까지 독일 쾰른 콘펙스 콘퍼런스 센터에서...",
+      "domain": "inven.co.kr",
+      "source": "inven.co.kr",
+      "link": "https://m.sports.naver.com/esports/article/442/0000195532"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:22:00+09:00",
+      "title": "경남도의회, 거제·통영 호우피해 현장 점검…복구 지원 살핀다",
+      "snippet": "박준 경남도의회 의장은 18일 최영호 국민의힘 원내대표와 장병국 기획행정위원장, 이경재 농해양수산위원장, 김구연 경제환경위원장, 김순택 문화복지위원장 등 도의원들과 함께 거제·통영 호우피해 현장을 찾았다....",
+      "domain": "mhns.co.kr",
+      "source": "mhns.co.kr",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=756787"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T23:22:00+09:00",
+      "title": "사토시 시대 지갑, 15년 잠들다 '기지개'...비트코인(BTC) 수익률 46만%",
+      "snippet": "비트코인(Bitcoin, BTC) 초창기부터 15년 넘게 잠들어 있던 지갑이 갑자기 움직였다. 당시 취득 가격과 비교한 상승률은 46만%를 넘어섰다. 8월 17일(현지시간) 유투데이에 따르면, 갤럭시 리서치(Galaxy Research)는...",
+      "domain": "coinreaders.com",
+      "source": "coinreaders.com",
+      "link": "http://coinreaders.com/253357"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:20:00+09:00",
+      "title": "고양시, 공영주차장 태양광으로 연 20억원…'햇빛연금' 추진",
+      "snippet": "지역경제 활성화를 함께 이끌겠다고 18일 밝혔다. ◆공영주차장 41곳에 태양광…연간 20억원 수익 예상... 이어 2027년 1MW 규모의 시범사업을 통해 경제성과 운영체계를 확인한 뒤 자유로 도로법면과 체육시설, 공공...",
+      "domain": "bizwnews.com",
+      "source": "bizwnews.com",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=143656"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:20:00+09:00",
+      "title": "트럼프 \"이란과 대화없고 예정된 것도 없다‥대이란 봉쇄 유효\"",
+      "snippet": "봉쇄 조처가 온전히 유지되고 있다\"며 이같이 적었습니다. 이번 언급은 이란 전쟁과 관련한 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조하려는 의도로 해석됩니다.",
+      "domain": "imnews.imbc.com",
+      "source": "imnews.imbc.com",
+      "link": "https://n.news.naver.com/mnews/article/214/0001518623?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:20:00+09:00",
+      "title": "바인그룹, 청소년의 '성장' 함께 그리다…이호선 교수 초청 강연",
+      "snippet": "(사진=바인그룹 제공) 청소년의 마음과 학습, 진로와 경제관념, 부모와의 관계까지 성장 과정에서 마주하는... 준비, 경제관념 등 성장에 필요한 여러 요소를 종합적으로 살피는 데 초점을 맞췄다. 첫 강연에서는 '이호선...",
+      "domain": "babytimes.co.kr",
+      "source": "babytimes.co.kr",
+      "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=73868"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:19:00+09:00",
+      "title": "[인터뷰] 김길영 서울시의회 국민의힘 대표의원",
+      "snippet": "김길영 서울시의회 국민의힘 대표의원(강남6)은 18일 헤럴드경제와의 인터뷰에서 12대 서울시의회 국민의힘의... 고물가와 경기 둔화 등 경제 상황도 엄중하지만 서울시민이 일상에서 느끼는 가장 큰 부담 가운데 하나가...",
+      "domain": "biz.heraldcorp.com",
+      "source": "헤럴드경제",
+      "link": "https://n.news.naver.com/mnews/article/016/0002685294?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:16:00+09:00",
+      "title": "[속보] 트럼프 \"이란과 대화없고 예정된 것도 없다…대이란 봉쇄 유효\"",
+      "snippet": "이란 전쟁 해법이 뚜렷이 보이지 않는 가운데 나온 트럼프 대통령의 이번 언급은 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조한 것으로 풀이된다. (사진...",
+      "domain": "wowtv.co.kr",
+      "source": "wowtv.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/215/0001262763?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:16:00+09:00",
+      "title": "[오늘과 내일/장원재]공수처와 중수청의 ‘평행 이론’",
+      "snippet": "공수처가 고위공직자 7000명 관련 범죄만 다루는 소규모 수사기관이라면 10월 2일 출범하는 중대범죄수사청(중수청)은 부패·경제·방위산업·마약·내란 외환·사이버·법왜곡죄 등 7대 중대 범죄를 맡는 대형...",
+      "domain": "donga.com",
+      "source": "동아일보",
+      "link": "https://n.news.naver.com/mnews/article/020/0003741655?sid=110"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T23:16:00+09:00",
+      "title": "IREN 10배 무기한계약, 24시간 거래 시작",
+      "snippet": "IREN은 미국 증권거래위원회(SEC)에 제출한 2025년 12월 31일 기준 반기보고서에서 비트코인(BTC) 채굴과 AI 클라우드 서비스를 보고 부문으로 제시했다. 비트코인 채굴 부문은 ASIC 하드웨어로 BTC를...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/392599"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:15:00+09:00",
+      "title": "트럼프 “이란과 진행 중인 대화도, 예정된 것도 없다…대이란 봉쇄 유...",
+      "snippet": "이는 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것을 강조한 것으로 풀이된다. 이러한 언급은 미국과 이란이 지난 6월18일 체결한 종전 양해각서(MOU)에 따른 협상 기한이...",
+      "domain": "khan.co.kr",
+      "source": "경향신문",
+      "link": "https://n.news.naver.com/mnews/article/032/0003465004?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:14:00+09:00",
+      "title": "트럼프 “이란과 대화 예정된 것 없어…대이란 해상봉쇄 유효”",
+      "snippet": "트럼프 대통령의 언급은 이란과의 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조한 것으로 풀이됩니다. 미국과 이란이 6월 18일 체결한 종전 양해각서(MOU)에 따른...",
+      "domain": "kbs.co.kr",
+      "source": "KBS",
+      "link": "https://n.news.naver.com/mnews/article/056/0012239865?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:13:00+09:00",
+      "title": "[동아광장/허정]네 갈래로 거칠어진 美 통상 압박, 가장 급한 불을 찾아...",
+      "snippet": "안보·전략 라인은 한국을 포함한 60개 교역국을 상대로 공급망 내 강제노동 근절 조치가 미흡하다며 관세(12.5%)를 확정했고, 산업·노동 라인은 이와 별개로 한국을 포함한 16개 경제권의 ‘구조적 과잉생산’을 문제 삼아...",
+      "domain": "donga.com",
+      "source": "동아일보",
+      "link": "https://n.news.naver.com/mnews/article/020/0003741654?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:12:00+09:00",
+      "title": "방통심의위, 폴리마켓 국내 접속 전면 차단…한국, 세계 30여개국 규제 ...",
+      "snippet": "폴리마켓은 이용자들이 선거·스포츠·경제지표·날씨 등 실제 사건의 결과를 두고 예/아니오 계약을... 방통심의위가 지목한 “도박 구조”의 실체위원회는 폴리마켓이 정치·경제·스포츠·날씨 등 다양한 주제에...",
+      "domain": "wikitree.co.kr",
+      "source": "wikitree.co.kr",
+      "link": "https://www.wikitree.co.kr/articles/1153222"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-18T23:12:00+09:00",
+      "title": "가업승계에 ‘2세 네트워크’까지 초고액자산가 맞춤서비스",
+      "snippet": "부동산과 현금 중심의 보수적인 자산배분에서 벗어나 국내외 주식과 상장지수펀드(ETF) 등 금융자산 비중을... 세무와 부동산, 상속·증여, 가업승계까지 한꺼번에 다뤄달라는 요구도 커지고 있다. KB증권은 금융자산...",
+      "domain": "mk.co.kr",
+      "source": "매일경제",
+      "link": "https://n.news.naver.com/mnews/article/009/0005722611?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:11:00+09:00",
+      "title": "'보안 우려'에 네이버 내친 일본...결국 미국 의존?",
+      "snippet": "[성태윤 / 대통령실 정책실장 (2024년 5월) : 일본 정부가 자본 구조와 관련해 네이버의 의사에 배치되는 불리한 조치를 취하는 일이 절대 있어서는 안 될 것입니다.] 그랬던 일본 정부가 방위·경제 안보 같은 기밀 정보를...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002394970?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:10:00+09:00",
+      "title": "'AI 특수' 타이완, 전 국민에 44만원 현금 보너스",
+      "snippet": "라이 총통은 인공지능(AI), 고성능컴퓨팅(HPC) 등의 수요 증가에 따른 경제 성장의 열매를 1인당 1만 위안을 지급하는 'AI 보너스'를 통해 전 국민이 함께 누리도록 하겠다고 말했습니다. 타이완 통계 당국인 주계총처는...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002394969?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:10:00+09:00",
+      "title": "미국증시 장초반, 장기금리·유가 부담에 기술주 약세…엔비디아·반도...",
+      "snippet": "○ 장마감까지 금리보다 '고금리 지속' 경계가 관건 경제지표 역시 성장주에 뚜렷한 안도감을 주지는 못했다. 잭스 인베스트먼트 리서치는 7월 주택 착공이 계절조정 연율 123만9천채로 예상치 135만채와 전월...",
+      "domain": "topstarnews.net",
+      "source": "topstarnews.net",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16166514"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:09:00+09:00",
+      "title": "[글로벌 현장을 가다/신진우]“안전 우선” vs “군인 보는것 불편”…...",
+      "snippet": "로이터통신은 경제 문제에 대한 유권자들의 불만이 이어지는 가운데 트럼프 대통령이 핵심 지지층인 보수 유권자가 선호하는 강력범죄 척결, 불법 이민 대응 등을 의도적으로 선거의 주요 의제로 부각하고 있다고...",
+      "domain": "donga.com",
+      "source": "동아일보",
+      "link": "https://n.news.naver.com/mnews/article/020/0003741652?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:06:00+09:00",
+      "title": "오현경, 미국서 10년 유학 마친 딸 근황 공개",
+      "snippet": "최근 미국에서 대학 과정을 마친 딸 채령 양은 현지 대학원 진학을 희망했으나, 경제적 상황을 고려해 스스로 학비를 마련하기로 결정했다. 오현경은 \"대학원까지 지원하기는 힘들 것 같다고 솔직히 말했더니 딸이 '직접...",
+      "domain": "insight.co.kr",
+      "source": "insight.co.kr",
+      "link": "https://www.insight.co.kr/news/568780"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:06:00+09:00",
+      "title": "중랑구약, 위기청소년·범죄피해자 보호 경찰과 '맞손'",
+      "snippet": "이번 협약은 지역사회 내 위기 대상자를 조기에 발굴하고 경찰과 약사회가 협력해 건강·경제적 지원을 제공한다는 점에서 지역사회 안전망 구축의 의미를 더하고 있다. 구약사회는 앞으로도 지역사회 유관기관과의...",
+      "domain": "dailypharm.com",
+      "source": "dailypharm.com",
+      "link": "https://www.dailypharm.com/user/news/341544?REFERER=NP"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-18T23:06:00+09:00",
+      "title": "KB證, 'ICT어워드 코리아 2026' 디지털 AI영상 금상 수상 外",
+      "snippet": "PC·모바일 웹·앱·디지털 플랫폼·프로모션 등 총 211개의 작품이 출품된 가운데, KB증권은 증권·부동산 분야에서 디지털AI 영상으로 금상을 수상했다. 이번 수상작은 '연금패키지로 빵빵하게', '국내주식 웰컴팩...",
+      "domain": "rcast.co.kr",
+      "source": "rcast.co.kr",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31471"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T23:06:00+09:00",
+      "title": "씨티 비트코인 수탁 인프라 연내 출시 보도",
+      "snippet": "씨티(Citi)가 기관 고객용 비트코인(BTC) 수탁 서비스를 출시할 것이라는 주장이 제기됐다. 워처구루(Watcher.Guru) X 계정은 18일 씨티가 기관 고객용 BTC 수탁 서비스를 출시할 예정이라고 전했다. 게시물은 씨티를...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/392597"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-18T23:05:00+09:00",
+      "title": "세제개편안에 공소취소·개헌까지...현안 수두룩",
+      "snippet": "더불어민주당 김민석 신임 대표에겐 당내 갈등 봉합 못지않게 부동산 정책과 세제 개편안 보완 작업 등... 그 첫 시험대는 정부 세제개편안과 부동산 정책 보완 작업이 될 것으로 보입니다. 김 대표는 후보 시절, 정부의...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002394965?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:04:00+09:00",
+      "title": "푸틴, 방러 흘라잉 미얀마 대통령과 회담…러·미얀마 밀착 가속",
+      "snippet": "특히 푸틴 대통령은 양국이 경제 분야에서 협력을 강화할 필요가 있다고 강조했다. 그는 \"러시아와 미얀마는 경제 분야에서 더 많은 노력을 기울일 필요가 있다\"며 \"이 분야에는 이미 좋은 기반과 유망한 프로젝트들이...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009119917?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:04:00+09:00",
+      "title": "구미 매출 상위 100대 기업, 지난해 매출 2.9% 감소",
+      "snippet": "심규정 구미상공회의소 경제조사팀·기업유치팀장은 \"100대 기업의 매출과 고용이 구미산단 전체의 3분의 1 이상을 차지하는 만큼 비중과 의미가 크다\"며 \"앞으로 K-반도체와 방산을 넘어 로봇까지 3대...",
+      "domain": "m-i.kr",
+      "source": "m-i.kr",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1403429"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-18T23:04:00+09:00",
+      "title": "이토비코서 GO 트레인 사망 사고, 밀턴 라인 운행 정상화",
+      "snippet": "오전 7시 지나 운행 정상화 철도 안전 사고 반복, 통근망 차단 반복... 무단 침입 방지, 안전 시설 보강 절실 월요일 출근길 토론토 이토비코 지역에서 GO 트레인 열차에 사람이 치여 사망하는 비극적인 사고가 발생했다....",
+      "domain": "koreadaily.com",
+      "source": "koreadaily.com",
+      "link": "https://www.koreadaily.com/article/20260818070224206"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:02:00+09:00",
+      "title": "[사설] AI발 청년 고용난 악화일로, 근본 해법 시급하다",
+      "snippet": "한국경제인협회 설문조사에 따르면 청년 2명 중 1명(53.9%), 미취업 청년의 경우 5명 중 3명(63.8%)은 ‘5년 내 내 일자리가 AI로 대체될 것’이라고 답했다. 청년 취업난의 심각성을 보여주는 통계도 차고 넘친다. 지난해...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004151875?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:02:00+09:00",
+      "title": "반려동물 산책·밀크티 줄서기도 돈으로...중국 '대리 서비스' 열풍",
+      "snippet": "최근 아시아경제가 인용한 중국 중화망 보도에 따르면, 대행 서비스 가격은 내용과 난이도에 따라 시간당... 홍시빈 중국 산업경제 전문가는 \"편의성과 규제 사이에서 균형이 필요하며, 건전한 시장 메커니즘과 법적...",
+      "domain": "insight.co.kr",
+      "source": "insight.co.kr",
+      "link": "https://www.insight.co.kr/news/568691"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:02:00+09:00",
+      "title": "보성군 카드형 보성사랑상품권 5% 추가 환급",
+      "snippet": "보성군 관계자는 \"5% 추가 캐시백이 군민들의 생활비 부담을 덜고 지역 내 소비를 촉진해 소상공인에게 실질적인 도움이 될 것으로 기대한다\"며 \"앞으로도 보성사랑상품권 이용 활성화와 지역경제에 활력을 불어넣을 수...",
+      "domain": "newsclaim.co.kr",
+      "source": "newsclaim.co.kr",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072373"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:02:00+09:00",
+      "title": "[데스크의 눈] 관치금융이 빚어낸 레버리지 참사",
+      "snippet": "김수미 경제부장 삼성전자와 SK하이닉스의 수익률을 2배로 추종하는 이 상품은 태생부터 문제를 안고 있었다. 금융당국은 원·달러 환율을 안정시킨다는 명분으로 이 상품 도입을 추진했다. 해외 주식으로 쏠리는 자금을...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004151872?sid=110"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-18T23:02:00+09:00",
+      "title": "시민과 함께하는 신안산선 안전점검…광명시 협의체 가동",
+      "snippet": "한편 광명시는 신안산선 붕괴사고 이후 공정 및 안전관리 현황을 함께 점검하고 공유하는 공식 협의기구의 필요성을 포스코이앤씨에 지속적으로 요구해왔다. 이에 올해 2월 시와 신안산선 공사 관계기관·기업, 일직동...",
+      "domain": "gukjenews.com",
+      "source": "gukjenews.com",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3667768"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:01:00+09:00",
+      "title": "[BEYOND DGIST] 세상을 바꾸는 기술 창업, 차세대 '유니콘' 향해 뛴다 〈...",
+      "snippet": "〈편집자주〉 팀로보틱스, DGIST 원천기술로 산업현장 '근골격계 질환' 잡는다…딥테크 웨어러블 로봇 시장 출사표 연간 약 3조원의 경제적 손실을 유발하는 산업현장의 근골격계 질환 문제를 해결하기 위해 DGIST에서...",
+      "domain": "etnews.com",
+      "source": "etnews.com",
+      "link": "https://n.news.naver.com/mnews/article/030/0003458385?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:01:00+09:00",
+      "title": "1996년 한국에 온 어떤 수녀[안드레스 솔라노 한국 블로그]",
+      "snippet": "그곳에서 마르가리타 수녀는 이혼 가정이나 미혼모, 경제적 어려움이나 가정폭력 등에 노출된 소녀와 젊은 여성을 위한 쉼터 ‘아미고의 집(Amigo House)’의 원장으로 일하고 있다. 몇 주 전 나는 한 카페에서...",
+      "domain": "donga.com",
+      "source": "동아일보",
+      "link": "https://n.news.naver.com/mnews/article/020/0003741647?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:01:00+09:00",
+      "title": "[오늘의시선] ‘8·15 종전 구상’ 견인할 동력을 키우자",
+      "snippet": "북한 경제를 부양할 수 있는 유일한 대상이 중국이기 때문이다. 그간 우리는 한·중 관계 강화를 기반으로 북한을 대화로 견인하고자 했다. 하지만 중국의 전략적 우선순위는 동맹인 북한이지 경쟁자인 미국의 동맹국인...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004151868?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:00:00+09:00",
+      "title": "'사운드 플래닛 페스티벌' 3년간 인천서 개최…체류형 관광 연계",
+      "snippet": "유지상 인천관광공사 사장은 행사에 따른 경제적 파급효과를 약 810억원으로 전망했다. 사운드 플래닛 페스티벌은 서울 홍대의 라이브 음악공연장 '롤링홀'이 개관 30주년을 맞아 2025년 처음 개최한 음악축제로, 첫...",
+      "domain": "webeconomy.co.kr",
+      "source": "webeconomy.co.kr",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2269714"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:00:00+09:00",
+      "title": "트럼프 \"이란과 대화없고 예정된 것도 없다…대이란 봉쇄 유효\"",
+      "snippet": "트럼프 대통령의 언급은 이란 전쟁 해법이 뚜렷이 보이지 않는 가운데 휴전이나 종전을 위한 대화가 없는 상황에서도 이란에 대한 군사적·경제적 압박을 지속할 것임을 강조한 것으로 풀이된다. 이날 트루스소셜...",
+      "domain": "yna.co.kr",
+      "source": "연합뉴스",
+      "link": "https://n.news.naver.com/mnews/article/001/0016257379?sid=104"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:00:00+09:00",
+      "title": "오텍캐리어, AI·하이퍼스케일 데이터센터 냉각시장 공략 가속",
+      "snippet": "오텍캐리어 관계자는 \"이번 수주는 글로벌 기업들과의 경쟁 속에서 캐리어의 냉각 기술력과 에너지 효율, 장기 운전 경제성 및 서비스 역량을 종합적으로 인정받은 성과\"라며 \"48MW급 프로젝트를 시작으로 향후...",
+      "domain": "e2news.com",
+      "source": "e2news.com",
+      "link": "http://www.e2news.com/news/articleView.html?idxno=333339"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:00:00+09:00",
+      "title": "캐나다 온타리오 '현금 보석제' 도입...",
+      "snippet": "결국 이번 개정안이 사법 현장의 병목 현상을 심화시키고 경제적 약자에게 불리하게 작용하는 부작용을 낳지 않으려면 정교한 후속 보완책이 뒤따라야 한다. 치안 안정이라는 정책적 목표와 헌법상 보장된 신체의 자유...",
+      "domain": "koreadaily.com",
+      "source": "koreadaily.com",
+      "link": "https://www.koreadaily.com/article/20260818070005526"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T23:00:00+09:00",
+      "title": "[오늘의 운세] 8월 19일 수요일",
+      "snippet": "※ 주의: 손실 | 기회: 승진 ∙ 51년생: 경제적 실리를 추구하는 결정이 삶의 판도를 바꾼다. ∙ 63년생... ∙ 99년생: 경제적 목표를 향해 속도를 내되 과신은 금물이다. ― 용띠: 경쟁과 협력의 균형을 맞춰야 하는 미묘한...",
+      "domain": "biz.chosun.com",
+      "source": "조선비즈",
+      "link": "https://n.news.naver.com/mnews/article/366/0001186950?sid=103"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-08-18T23:00:00+09:00",
+      "title": "이 대통령, 오세훈에 \"공급 늘려야지 집값 폭등 가능성 높여선 안돼\"",
+      "snippet": "이재명 대통령은 오세훈 서울시장의 부동산 관련 규제 완화 요구에 대해 \"공급을 늘리자는 것이지, 집값을... 정책의 중요한 의제 부분은 살려야 한다\"고 말했다. 이재명대통령,오세훈,부동산정책,주택공급,용산공원아파트건설",
+      "domain": "newscj.com",
+      "source": "newscj.com",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3426166"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:59:00+09:00",
+      "title": "고양은평선 화수역 신설 예정지 입지 점검…고양시, 민경선표 교통공약...",
+      "snippet": "연계 경제 효과가 대단히 높을 것으로 기대된다. 시는 화수역 신설의 객관적 분석과 재원 확보 방안 수립을... 5 억 원)을 긴급 편성해 이용 수요와 사업 경제성(B/C), 기술적 설치 가능성, 정책적 필요성, 지역 균형발전...",
+      "domain": "inews24.com",
+      "source": "inews24.com",
+      "link": "https://n.news.naver.com/mnews/article/031/0001050588?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:58:00+09:00",
+      "title": "[인터뷰] 김광철 서울시의원",
+      "snippet": "김광철 서울시의원(국민의힘, 송파2)은 18일 헤럴드경제와의 인터뷰에서 잠실관광특구의 경쟁력을 높이기 위한 핵심 과제로 체류형 콘텐츠 확충과 실효성 있는 특구 지원을 제시했다. 서울시의회 문화체육관광위원회에서...",
+      "domain": "biz.heraldcorp.com",
+      "source": "헤럴드경제",
+      "link": "https://n.news.naver.com/mnews/article/016/0002685293?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:58:00+09:00",
+      "title": "\"시간당 40달러 고수익 기술직\"",
+      "snippet": "실질적인 산학 협력을 통해 산업 현장의 수요 변화에 맞춰 교육 과정을 신속히 개편하는 유연성을 확보해야, 이번 교육센터 투자 효과가 일회성에 그치지 않고 온타리오주 경제 전체의 장기적 성장 동력으로 자리잡을...",
+      "domain": "koreadaily.com",
+      "source": "koreadaily.com",
+      "link": "https://www.koreadaily.com/article/20260818065804171"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:58:00+09:00",
+      "title": "'말자쇼' 19세 학생 \"부모님 경제난 다툼에 위로 전하고파\"",
+      "snippet": "에서는 경제적 어려움을 겪는 부모를 걱정하는 10대 청소년부터 가족을 위해 헌신한 아버지를 위해 방청을 신청한 아들까지, 자녀들의 사연이 잇따라 공개됐다. 이날 방송에서 19세 학생 사연자는 \"엄마 아빠가 경제적으로...",
+      "domain": "insight.co.kr",
+      "source": "insight.co.kr",
+      "link": "https://www.insight.co.kr/news/568772"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:58:00+09:00",
+      "title": "서울 의약 4단체 \"사무장·면대약국 차단 입법 서둘러달라\"",
+      "snippet": "이어 “최근 약국 개설자를 모집하는 전문 알선업체 광고가 등장하는 등 외부 자본의 면허 대여 위험이 커지고 있다”며 “지역 단체는 회원의 활동 내역이나 경제적 여건 등을 파악하고 있어 통상적인 규모를 벗어난...",
+      "domain": "dailypharm.com",
+      "source": "dailypharm.com",
+      "link": "https://www.dailypharm.com/user/news/341542?REFERER=NP"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:56:00+09:00",
+      "title": "국립경국대 2027학년도 수시모집",
+      "snippet": "국립경국대학교 입간판.사진 = 국립경국대학교 제공 | 안동=한스경제 손철규 기자 |  국립경국대학교(총장 정태주)가 2027학년도 수시모집에서 전체 모집인원의 98.8%인 1506명을 선발한다. 이번 수시모집은 9월 7일부터...",
+      "domain": "hansbiz.co.kr",
+      "source": "hansbiz.co.kr",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857643"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:56:00+09:00",
+      "title": "터키항공, 11월 중국 청두 신규 취항…보잉 787-9 드림라이너 투입",
+      "snippet": "쓰촨성 중심 도시인 청두는 무역과 물류, 금융의 중심지일 뿐만 아니라 전자, 자동차, 항공, 바이오테크놀로지, 인공지능(AI) 등 글로벌 첨단 기술 기업들이 대거 진출해 있는 경제 거점이다. 산업 도시로서의...",
+      "domain": "bizwnews.com",
+      "source": "bizwnews.com",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=143633"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-08-18T22:56:00+09:00",
+      "title": "10.3% 점유율 코인베이스, 종합 거래앱 전환 논리",
+      "snippet": "비트코인 현물 거래를 제외한 순매출 비중은 88%였다. 구독·서비스 매출은 2026년 2분기 5억5500만 달러(약 7848억원)로 집계됐다. 예측시장과 스테이블코인도 별도 축으로 제시됐다. 코인베이스는 같은 발표에서...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/392592"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:54:00+09:00",
+      "title": "군위축협·영주축협 , 고향사랑기부",
+      "snippet": "사진 = 군위군 제공 | 군위 =한스경제 권오돈 기자 |  군위축협과 영주축산농협이 18일 군위군청 제1회의실에서 고향사랑기부금 700만원을 상호 기탁했다.  두 기관 임직원 70명은 지역 발전과 주민 복지 증진을 위해 뜻을...",
+      "domain": "hansbiz.co.kr",
+      "source": "hansbiz.co.kr",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857637"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-08-18T22:54:00+09:00",
+      "title": "글로벌 AI 콘텐츠 중심지로 떠오른 경북",
+      "snippet": "사진 = 경북도 제공 | 안동 =한스경제 이유근 기자 |  경상북도가 9월 3일부터 5일까지 구미·포항·경산에서 '2026 경북 국제 AI·메타버스 영상제'를 개최한다.  경북도는 18일 도청에서 주요 프로그램과 발전 전략을...",
+      "domain": "hansbiz.co.kr",
+      "source": "hansbiz.co.kr",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857642"
+    },
+    {
+      "category": "economy",
       "pubDate": "2026-08-18T22:52:00+09:00",
       "title": "안성시, 제4기 시민참여위원회 출범…시민과 함께 정책 발굴",
       "snippet": "위원들은 오는 2028년 6월까지 ▲공공혁신 ▲교육체육 ▲농림축산 ▲도시환경 ▲문화예술 ▲보건복지 ▲산업경제 등 7개 분과에서 활동하며 분야별 정책 연구와 시정 현안 논의, 정책 제안 등을 이어갈 예정이다....",
@@ -3869,6 +4526,15 @@
       "domain": "ggilbo.com",
       "source": "ggilbo.com",
       "link": "https://www.ggilbo.com/news/articleView.html?idxno=1175513"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-08-18T20:06:00+09:00",
+      "title": "상무시민공원 내 ‘솔라파크’ 10년째 도심 흉물 방치",
+      "snippet": "태양광 패널과 철제 구조물이 그대로 남아 있는 가운데 노후화가 계속되면서 부품 탈락이나 시설물 붕괴 등 안전사고가 발생할 수 있다는 우려도 나온다. 상무시민공원에서 만난 장모(44·여)씨는 “몇 년째 공원을...",
+      "domain": "kjdaily.com",
+      "source": "kjdaily.com",
+      "link": "http://www.kjdaily.com/article.php?aid=1787050975684753268"
     },
     {
       "category": "economy",
@@ -107513,258 +108179,6 @@
       "domain": "imnews.imbc.com",
       "source": "imnews.imbc.com",
       "link": "https://n.news.naver.com/mnews/article/214/0001518218?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:42:00+09:00",
-      "title": "[유통 브리핑] 롯데마트, GS더프레시, CJ온스타일",
-      "snippet": "양사의 통합 조달을 바탕으로 규모의 경제를 실현하고 주류 MD가 현지 와이너리와 상품 기획 단계에서부터 전 과정을 직접 소통해 중간 수입·유통 과정에서 발생하는 비용과 마진을 줄였다. 박혜진 보틀벙커 팀장은...",
-      "domain": "shinailbo.co.kr",
-      "source": "shinailbo.co.kr",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051767"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:36:00+09:00",
-      "title": "톰 리 \"AI 시대 창업자 비전이 기업 경쟁력\"",
-      "snippet": "로빈후드가 전체 경제보다 빠르게 성장하는 시장에 놓여 있고, 테네브의 리더십이 자신이 로빈후드를... 예측시장은 선거, 정책, 경제지표 같은 특정 사건의 결과를 계약 가격으로 거래하는 시장이다. 가격이 시장...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/391708"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-08-16T23:33:00+09:00",
-      "title": "“고작 1시간 보려고 서울에 100만명이 모인다”…만족도 1위지만 교통...",
-      "snippet": "매년 국내외에서 약 100만명이 몰리는 대형 행사인 만큼 온열질환과 안전사고에 대한 우려도 커지고 있다. 서울시는 주요 지점에 냉방기를 설치한 쉼터를 마련하고 시원한 생수를 제공하는 등 폭염 대책을 준비하고...",
-      "domain": "mk.co.kr",
-      "source": "매일경제",
-      "link": "https://n.news.naver.com/mnews/article/009/0005721804?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:30:00+09:00",
-      "title": "우크라, 모스크바 겨냥 대규모 드론 공격…러, 탄도미사일 공격",
-      "snippet": "이는 러시아의 군사 작전을 뒷받침하는 핵심 경제 인프라를 파괴하기 위한 광범위한 군사 작전의 하나로 풀이됩니다. 한편, 러시아 국방부는 이날 자국 전역에서 822대의 우크라이나 드론을 요격해 추락시켰다고...",
-      "domain": "sbs.co.kr",
-      "source": "SBS",
-      "link": "https://n.news.naver.com/mnews/article/055/0001381075?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:24:00+09:00",
-      "title": "“우크라 드론에 또 당했다” 러시아 속수무책… 하루 600대가 모스크바...",
-      "snippet": "이 같은 작전으로 러시아는 정유시설, 해군기지, 물류 거점, 교통망 등이 파괴되면서 350억파운드(약 67조 2000억원) 이상의 경제적 피해를 봤으며 일부 지역에서는 연료 부족과 순환 단전 사태까지 겪었다고 매체는 전했다....",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003670828?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:22:00+09:00",
-      "title": "전례 없는 경제고립 vs 고유가 압박...누가 더 오래 버티나",
-      "snippet": "미국은 이번 주 이란에 전례 없는 고강도 경제 제재를 내놓겠다고 예고했습니다. 이란 역시 호르무즈 통제로 유가를 흔들어 미국 경제에 부담을 주는 전략으로 맞서면서, 전쟁이 무력충돌을 넘어 장기적인 경제 소모전으로...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002394136?sid=104"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-08-16T23:22:00+09:00",
-      "title": "[김승련 칼럼]막말보다 더 심각한 ‘생각의 빈곤’",
-      "snippet": "하지만 유권자 입장에선 서울시장이 부동산 정책 비판을 어느 회의에서 하는지는 중요하지도 않다. 진짜 문제는 제1야당이 공식 회의 때마다 내놓는 발언이 대통령과 여당 비판 일색에 그친다는 점이다. 야당이니까 비판할...",
-      "domain": "donga.com",
-      "source": "동아일보",
-      "link": "https://n.news.naver.com/mnews/article/020/0003741187?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:20:00+09:00",
-      "title": "임실군, 1차 추경안 제출... 769억 원 증액",
-      "snippet": "한득수 임실군수는 \"민선9기 첫 추가경정예산은 군민들이 일상에서 실제적인 변화를 느낄 수 있도록 민생과 농업 분야에 중점을 두고 편성했다\"며 \"농어촌 기본소득을 비롯해 농업인 지원과 지역경제 활성화 등...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=714114"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-08-16T23:16:00+09:00",
-      "title": "미 단기국채 비중 21%, 2020년 이후 고점권",
-      "snippet": "다만 단기국채 비중 확대가 곧바로 비트코인(BTC)이나 알트코인 가격 방향을 결정한다는 근거는 제시되지 않았다. 현재 확인된 핵심은 미국 정부의 차입 구조가 더 짧은 만기에 기대고 있다는 점이며, 크립토 시장에...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/391705"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:15:00+09:00",
-      "title": "우크라, 모스크바에 역대 최대 드론 공격…러시아도 탄도미사일 맞불",
-      "snippet": "외신들은 이번 공격 역시 러시아의 군사 작전을 뒷받침하는 경제 기반 시설을 겨냥한 작전의 일환으로 해석하고 있다. 러시아 국방부는 이날 자국 전역에서 우크라이나가 띄운 드론 822대를 요격해 추락시켰다고...",
-      "domain": "imaeil.com",
-      "source": "imaeil.com",
-      "link": "https://n.news.naver.com/mnews/article/088/0001023829?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:14:00+09:00",
-      "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-      "snippet": "광명=에너지경제신문 강근주기자 광명시 게임창작소가 'AI로 게임 음악 만들기' 등 8개 강좌 수강생을... 부천=에너지경제신문 강근주기자 부천시는 관내 초-중학교 재학생을 대상으로 진행한 '2026년 음식문화 개선 웹툰...",
-      "domain": "ekn.kr",
-      "source": "ekn.kr",
-      "link": "https://www.ekn.kr/web/view.php?key=20260816021173309"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:14:00+09:00",
-      "title": "바이낸스, RLUSD 보상 풀 100만 XRP로 확대…4주 연장에 APR 7.69% 기록",
-      "snippet": "바이낸스의 현재 제외 대상 목록에는 미국, 영국, 캐나다, 일본과 다수의 유럽경제지역(EEA) 국가가 포함된다. 이용자는 KYC(신원 확인)를 완료하고 자격이 있는 지역에 거주해야 한다. 바이낸스는 규제 상황에...",
-      "domain": "wikitree.co.kr",
-      "source": "wikitree.co.kr",
-      "link": "https://www.wikitree.co.kr/articles/1152814"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:09:00+09:00",
-      "title": "‘재산 1조원’ 호날두, 결혼 하루 전 ‘재산분리’ 혼전계약서 작성",
-      "snippet": "지난 6월 미국 경제전문지 ‘포브스’ 보도에 따르면 호날두의 순자산은 12억 달러(약 1조7022억원)로 추산된다. 최근 12개월간 수입은 3억 달러(약 4255억원)로, 전세계에서 가장 많은 돈을 번 운동선수 1위에 올랐다.",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003544720?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:09:00+09:00",
-      "title": "'데드크로스' 지지율, 전당대회 뒤 회복?...당 봉합·부동산·개각 촉각",
-      "snippet": "부동산을 포함한 경제 정책에 대한 불만이 핵심 원인으로 꼽히는데, 청와대는 일단 민주당 전당대회 이후를... 주요 경제 정책을 이끌어온 청와대 참모진과 내각에 변화를 주는 방안 역시 하나의 돌파구로 거론됩니다....",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002394129?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-08-16T23:09:00+09:00",
-      "title": "김민석, 서울·경기 연승…임미애·김영호 최고위원 후보 사퇴",
-      "snippet": "<정청래 / 더불어민주당 대표 후보> \"수도권 부동산 시장 안정을 위해서 공급 대책을 시급하게 마련해야 합니다. LH부터 정상화시키겠습니다.\" 수도권에서 최고위원 후보들의 순위도 요동쳤습니다. '친청계' 최민희...",
-      "domain": "yonhapnewstv.co.kr",
-      "source": "연합뉴스TV",
-      "link": "https://n.news.naver.com/mnews/article/422/0000896389?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-08-16T23:09:00+09:00",
-      "title": "'닥공' 속도전 현실성 있나...보상·협의·입법 '암초'",
-      "snippet": "[함영진 / 우리은행 부동산리서치랩장 : 해당 지자체 도시 계획이라든지 용도 지역 조정과 관련된 지자체와의 긴밀한 협의가 필요한 부분이 있고요.] 법 개정도 뒷받침돼야 합니다. 대표적으로 지구 지정 절차 단축 일환인...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002394130?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:07:00+09:00",
-      "title": "우크라, 모스크바 겨냥 “역대 최대” 공격…러, 탄도미사일 공격",
-      "snippet": "이는 러시아의 군사 작전을 뒷받침하는 핵심 경제 인프라를 파괴하기 위한 광범위한 군사 작전의 하나로 풀이됩니다. 한편, 러시아 국방부는 이날 자국 전역에서 822대의 우크라이나 드론을 요격해 추락시켰다고...",
-      "domain": "kbs.co.kr",
-      "source": "KBS",
-      "link": "https://n.news.naver.com/mnews/article/056/0012238736?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:06:00+09:00",
-      "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
-      "snippet": "다만 거시경제 지표는 양호하다. 명목 국내총생산(GDP) 대비 가계부채 비율은 유지하거나 오히려 하락할 것으로 보인다. 모수인 명목 GDP가 올 1분기에 이어 2분기도 두 자릿수 성장을 예고하고 있어서다....",
-      "domain": "mk.co.kr",
-      "source": "매일경제",
-      "link": "https://n.news.naver.com/mnews/article/009/0005721802?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:06:00+09:00",
-      "title": "한동훈 “통상교섭본부장 전격 경질 이유 ‘공무냐, 개인비위냐’ 밝혀...",
-      "snippet": "다카에서 칸다케르 압둘 무크타디르 방글라데시 상무부 장관과 면담을 갖고, 한-방글라데시 포괄적경제동반자협정(CEPA) 타결 이후 양국 간 교역·투자 및 경제협력 확대 방안 등을 논의했다. (사진=산업통상부 제공)",
-      "domain": "kgnews.co.kr",
-      "source": "kgnews.co.kr",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=907856"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:06:00+09:00",
-      "title": "[정치인사이드] '원칙'에서 '실천'으로… 李정부, 한반도 평화공존 '3대...",
-      "snippet": "비무장지대(DMZ) 평화의 길과 평화이음열차, 평화경제특구 지정, 경원선 복원 사업 재개 등을 통해 접경지역에 이른바 '평화 안전핀'을 갖춘다는 구상이다. 정전체제의 평화체제 전환 논의도 큰 축이다. 통일부는 주요국에...",
-      "domain": "newscj.com",
-      "source": "newscj.com",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3425604"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-08-16T23:03:00+09:00",
-      "title": "아파트 조이니 빌라값 상승폭 2.4배…‘주택수 제외’가 기름붓나",
-      "snippet": "16일 KB부동산에 따르면 서울 연립주택 매매가격지수는 올해 1~7월 1.96% 올라 지난해 같은 기간 상승률(0.83... 7월 서울 연립 평균 매매가격은 3억5813만원으로 2022년 11월 KB부동산 통계 개편 이후 가장 높았다. 빌라시장이...",
-      "domain": "mk.co.kr",
-      "source": "매일경제",
-      "link": "https://n.news.naver.com/mnews/article/009/0005721800?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T23:00:00+09:00",
-      "title": "244억달러 브리지워터, ETF 키우고 AI주는 조정",
-      "snippet": "브리지워터는 7월 자료에서 AI가 시장과 경제를 바꾸고 있으며, 현대적 중상주의와 AI가 새로운 투자 국면을 만들고 있다고 밝혔다. 로이터는 7월 27일 브리지워터 공동 최고투자책임자들이 정부의 AI 관여가...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/market/391701"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T22:58:00+09:00",
-      "title": "이란, 美·이스라엘 연계 언론과 접촉 금지…위반 시 최대 2년 징역",
-      "snippet": "법안은 외국인의 지시나 감독 아래 저지른 경제 범죄에 대한 처벌도 강화하도록 했다. 또 정보부의 승인 없이 외국인에게 정보를 제공하는 행위를 금지하고, 정부가 승인한 목록에 포함되지 않은 외국 기관과의 과학...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014130483?sid=104"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-08-16T22:58:00+09:00",
-      "title": "김민석, 서울·경기도 승리...당원투표 49.91%로 1위",
-      "snippet": "보면 부동산 세제 개편안 관련해서 장특공제에 대해서는 비판을 했거든요. 어떻게 전망하세요? [최창렬] 김민석 후보가 되면 완전히 수직적 당정관계, 저는 그렇게 전혀 보이지 않아요. 지금 부동산 아까 얘기했던 세제...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002394121?sid=100"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T22:57:00+09:00",
-      "title": "‘그림자 내조’ 변중석 여사 19주기…‘범현대가’ 청운동 집결",
-      "snippet": "변 여사는 정 창업주가 ‘한국 경제의 거인’으로 설 수 있도록 헌신적인 뒷바라지를 했던 인물로 평가받는다. 1921년 강원 통천에서 태어나 15세에 6살 연상인 정 창업주와 결혼했다. 평생 근검절약을 실천했고, 매일...",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003544719?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T22:56:00+09:00",
-      "title": "'30조 여력' 배분 협의...'대출 오픈런' 해소될까?",
-      "snippet": "[석병훈 / 이화여대 경제학과 교수 : 일부 실수요자들의 자금 조달에 숨통이 트일 수 있는데, 궁극적으로 '대출 오픈런'을 해결할 수는 없다고 봅니다. (대출 한도는) 대출 수요가 폭증할 경우에 조기 소진되는 게...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002394120?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-08-16T22:56:00+09:00",
-      "title": "나무 쓰러지고 도로 잠기고…부산서 비 피해 10건, 인명피해 없어",
-      "snippet": "예상 강수량은 50~100㎜로, 많게는 150㎜ 안팎의 비가 내리는 곳도 있겠다. 소방 당국은 기상 상황을 수시로 모니터링하고 비상연락체계를 유지하는 등 안전사고 방지에 만전을 기할 방침이다.",
-      "domain": "nocutnews.co.kr",
-      "source": "nocutnews.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/079/0004179235?sid=102"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-08-16T22:54:00+09:00",
-      "title": "\"저는 잡초입니다, 뽑아 주세요\" [더 라이프이스트-더임코치의 컨피던스...",
-      "snippet": "소위 잡초 경제학이다. 듣기로 그 업자는 이렇게 관리해 주는 집이 100가구가 훨씬 넘는다. 흥미로운 사실이다. 자연계의 잡초가 인간 세상으로 들어오면 '경제적·문화적 선순환'을 만들어낸다는 점이다. 잡초는 더 이상...",
-      "domain": "hankyung.com",
-      "source": "한국경제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005321438?sid=110"
     }
   ]
 }
