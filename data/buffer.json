@@ -2,6 +2,960 @@
   "items": [
     {
       "category": "economy",
+      "pubDate": "2026-10-17T05:56:00+09:00",
+      "title": "AI주 급락에 젠슨 황 \"모두 지나갈 일…펀더멘털은 변하지 않아\"",
+      "snippet": "AI 모델의 개발과 구동에 필요한 고성능 반도체인 AI 가속기 시장의 핵심 공급업체다. 황 CEO는 대규모 AI 인프라 투자에서 창출되는 장기적인 경제적 성과가 결국 시장의 불안을 누그러뜨릴 것으로 기대하고 있다.",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006389898?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:50:00+09:00",
+      "title": "\"민주당, 하원 초접전 지역구 4곳만 추가 승리하면 과반 차지\"",
+      "snippet": "com 에린 코비 쿡폴리티컬리포트 하원 분석가는 이번 판세 조정의 주요 배경으로 경제 문제에 대한 유권자들의 불만을 지목했다. 특히 중서부 공화당 강세 지역에서 연방정부와 주정부의 경제 문제 대응에 대한...",
+      "domain": "newspim.com",
+      "source": "newspim.com",
+      "link": "https://www.newspim.com/news/view/20261017000013"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:48:00+09:00",
+      "title": "경기 분양가도 평당 4000만원?…실수요자 ‘플랜B’ 지역은",
+      "snippet": "17일 부동산R114에 따르면 올해 1∼9월 기준 경기도 아파트 평당 평균 분양가는 2256만원으로 집계됐다.... 부동산R114 제공 시장에서는 인접 도시로의 수요 이동과 함께 향후 ‘키 맞추기’ 장세가 나타날지...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004167331?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:46:00+09:00",
+      "title": "두산, 두산에너빌리티, 신규 임원인사 진행",
+      "snippet": "학사·석사·박사 - 두산에너빌리티 전략/혁신부문장 (CSO) - 두산에너빌리티 풍력BG장 (겸) - 한국공학한림원(NAEK) 일반 회원 - 대한기계학회 산학협력 부회장 - 제58회 과학의 날 과학기술 포장 수훈 굿모닝경제",
+      "domain": "goodkyung.com",
+      "source": "goodkyung.com",
+      "link": "https://www.goodkyung.com/news/articleView.html?idxno=292493"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:44:00+09:00",
+      "title": "“소방, 재정 빨대” 실언에 궁지 몰린 추미애…민주당이 대신 사과 [어...",
+      "snippet": "가뜩이나 부동산·금융 정책 실기로 인한 서울 집값·전월세 가격 급등과 주가 급락, 농지 전수 조사, 북한 지뢰 폭발에 따른 국군장병 부상 등 악재가 잇따르며 이재명 대통령과 민주당 지지율이 낮아진 상황에서 ‘추미애...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004167329?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:42:00+09:00",
+      "title": "[인터뷰] 유기훈 서울시의원",
+      "snippet": "유 의원은 16일 헤럴드경제와의 인터뷰에서 정치 입문의 출발점 역시 사회복지 현장이었다고 설명했다. 그는 “사회복지 현장에서 주어진 일을 하다 보면 제도와 정책의 한계를 느낄 때가 많았다”며 “사회복지와 정치는...",
+      "domain": "biz.heraldcorp.com",
+      "source": "헤럴드경제",
+      "link": "https://n.news.naver.com/mnews/article/016/0002710536?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:42:00+09:00",
+      "title": "백성현 논산시장, \"축제보다 안전이 먼저\"…강경젓갈축제 전격 조기 폐...",
+      "snippet": "축제의 흥행과 지역경제 활성화도 중요하지만, 시민과 관광객의 생명과 안전보다 우선할 수 없다는... 특히 축제 일정 단축은 지역경제와 관광 활성화 측면에서 결코 가볍지 않은 결정이다. 그러나 기상 악화에 따른...",
+      "domain": "tournews21.com",
+      "source": "tournews21.com",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=145935"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:42:00+09:00",
+      "title": "최재구 예산군수, 지방시대위원장 만나 '충남혁신도시 공공기관 우선 유...",
+      "snippet": "여기에 지역 산업과 연계성이 높은 기관이 들어설 경우 양질의 일자리 창출과 인구 유입, 지역경제 활성화는... 공공기관 유치는 단순한 기관 이전을 넘어 인구 유입과 양질의 일자리, 지역경제의 체질 개선을 좌우할 핵심...",
+      "domain": "tournews21.com",
+      "source": "tournews21.com",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=145937"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:42:00+09:00",
+      "title": "공주시·카카오 손잡았다…왕도심 골목상권에 '활력 엔진' 가동",
+      "snippet": "단순한 관광객 유치를 넘어 골목을 걷고, 머물고, 소비하는 지역경제 선순환 구조를 구축하겠다는 구상이다.... 핵심은 '기업의 지원 역량과 지역의 문화·상업 자원을 결합해 골목상권을 경제적 가치가 창출되는 공간으로...",
+      "domain": "tournews21.com",
+      "source": "tournews21.com",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=145936"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:42:00+09:00",
+      "title": "정연태 칼럼 9 | 최치원과 무성서원 유네스코가 인정한 통합의 사상",
+      "snippet": "흥선대원군의 철폐령에서도 살아남다 19세기에 이르면 전국에 수많은 서원이 세워졌고 일부는 지방 양반의 권력기반이나 경제적 특권과 결합하면서 사회문제가 되었다. 흥선대원군은 1868년 대대적인 서원 정리를...",
+      "domain": "koreaittimes.com",
+      "source": "koreaittimes.com",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158231"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:42:00+09:00",
+      "title": "김효숙 세종시의원, \"시비 지원 없다던 빛트리축제…보조금 6천만원과 ...",
+      "snippet": "김효숙(나성동·더불어민주당) 세종시의원은 지난 14일 세종시의회 경제문화위원회 행정사무감사에서 2025 세종 빛트리축제의 재정 지원 여부와 관련한 의혹을 제기하고, 세종시의 예산 집행 과정에 대한 철저한 조사와...",
+      "domain": "tournews21.com",
+      "source": "tournews21.com",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=145941"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:40:00+09:00",
+      "title": "WTI '급등'에도...달러 '절하', 美국채금리 '혼조', 금값 '상승'",
+      "snippet": "미국 경제방송 CNBC에 따르면 이날(한국시각 17일 새벽 4시 59분 기준, 뉴욕증시 정규장 마감 1분 전 기준) 주요 6개국 통화 대비 미국달러화의 가치수준을 나타내는 달러인덱스는 101.79로 0.26% 하락했다. 이 시각 달러...",
+      "domain": "choicenews.co.kr",
+      "source": "choicenews.co.kr",
+      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=172303"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:40:00+09:00",
+      "title": "'1호 명품백화점' 한화갤러리아 리빌딩 궤도",
+      "snippet": "부동산 등 유통업계에서는 명품관 리빌딩이 사실상 7부 능선을 넘은 것으로 보고 있다. 한화갤러리아는 먼저 서관(1979년 준공) 재건축을 시작하고, 이어 동관(1985년 준공) 공사를 진행한다는 일정이다. 한화갤러리아는...",
+      "domain": "newstopkorea.com",
+      "source": "newstopkorea.com",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=48255"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:40:00+09:00",
+      "title": "“마피 쏟아지더니 국평 20억”…광명 ‘대반전’에 복잡해진 셈법 [안...",
+      "snippet": "한국부동산원에 따르면 광명 아파트값의 올해 누적 상승률은 16.70%로 화성 동탄구 다음으로 경기도에서 가장 높았다. 최근 광명에서 집을 알아본 N씨는 “직장이 여의도인데 서울 중심은 가격이 너무 비싼 반면...",
+      "domain": "dt.co.kr",
+      "source": "dt.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/029/0003053526?sid=101"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:40:00+09:00",
+      "title": "[충남권 날씨예보] 대전·세종 25도, 홍성 26도…평년보다 높은 기온 이...",
+      "snippet": "기상청 관계자는 \"18일에는 지역에 따라 강수 강도와 강수량의 차이가 클 수 있다\"며 \"최신 기상정보를 확인하고 강풍과 집중호우에 따른 안전사고에 유의해 달라\"고 당부했다.",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90946"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:36:00+09:00",
+      "title": "[美증시 특징주] 테슬라 경이로운 로드스터 공개에도 주가 하락...\"현실...",
+      "snippet": "하지만 투자자들은 로드스터의 이벤트성 화제성보다 테슬라가 직면한 눈앞의 냉혹한 현실과 거시경제적 악재를 주목했다. 새로 공개된 로드스터는 기술력을 과시하는 하이퍼카(Supercar)일 뿐, 대량 생산되어 회사의...",
+      "domain": "mediapen.com",
+      "source": "mediapen.com",
+      "link": "https://www.mediapen.com/news/view/1130622"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:36:00+09:00",
+      "title": "이수진 전 도의원 \"전북도 조직개편, 명칭보다 기능을, 확대보다 책임을...",
+      "snippet": "이수진 전 전북도의원 전북특별자치도가 민선9기 도정 비전을 실현한다며 민생경제와 인공지능(AI)... '도민주권국'과 '체감민생경제실', 실제 행정기능을 나타내는 명칭이 필요합 니다. (도민주권국 : 명칭 변경 반대...",
+      "domain": "jbsori.com",
+      "source": "jbsori.com",
+      "link": "http://www.jbsori.com/news/articleView.html?idxno=18046"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:31:00+09:00",
+      "title": "EU, 중국에 ‘킬 스위치’ 만지작…시장 문 통째로 닫나[글로벌 모닝 브...",
+      "snippet": "※[글로벌 모닝 브리핑]은 서울경제가 전하는 글로벌 소식을 요약해 드립니다. 하이브리드차는 시작일 뿐…화학·기계·풍력으로 번지는 EU 장벽 유럽연합(EU)이 극단적인 상황에서는 중국산 제품의 역내 진입을 전면...",
+      "domain": "sedaily.com",
+      "source": "서울경제",
+      "link": "https://n.news.naver.com/mnews/article/011/0004672182?sid=104"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:31:00+09:00",
+      "title": "\"3개월 뒤 신축 입주\"...목동 단지와 생활권 공유 [권준호의 요·아·정]",
+      "snippet": "앞으로 매주, 부동산 플랫폼에서 주간 조회수 1위에 오른 아파트들을 직접 가서 그 특징과 장단점을... 한국부동산원 청약홈에 따르면 지난 10월 8일 진행된 이 단지 임의공급 2차 청약은 총 4가구 모집에 1724건이...",
+      "domain": "fnnews.com",
+      "source": "파이낸셜뉴스",
+      "link": "https://n.news.naver.com/mnews/article/014/0005590451?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:30:00+09:00",
+      "title": "신경외과도 위태…\"뇌종양 전임의 지원 단 3명\"",
+      "snippet": "김 위원장은 \"처음에는 뇌수술을 하겠다고 신경외과에 들어온 전공의들도 수련을 마치면 척추 분야를 선택하는 경우가 많다\"며 \"경제적인 문제뿐 아니라 수술에 따른 심리적 압박과 형사처벌 가능성 등 법적 불안감이...",
+      "domain": "dailymedi.com",
+      "source": "dailymedi.com",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=941546"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:30:00+09:00",
+      "title": "[On Air & Off Script] 맛집은 맛으로 검색되지 않는다",
+      "snippet": "지역경제의 입구가 된 지도 서비스라면, 가시성을 좌우하는 신호와 광고·자연 검색의 구분, 지속적으로 화면 밖에 남는 업소는 검증 가능해야 한다. 검증은 친절한 추천을 위한 절차가 아니다. 도시가 이미 축적된 리뷰와...",
+      "domain": "financialpost.co.kr",
+      "source": "financialpost.co.kr",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280830"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:30:00+09:00",
+      "title": "[뉴욕증시] AI 거품론·유가 폭등 '쌍악재'에 나스닥 572P '와르르'",
+      "snippet": "16일(현지시각) 경제방송 CNBC에 따르면 뉴욕증권거래소(NYSE)에서 나스닥 종합지수는 전 거래일 대비 572.99포인트(2.15%) 급락했다. 대형주 중심의 스탠더드앤드푸어스(S&P) 500 지수는 84.62포인트(1.09%) 하락했고...",
+      "domain": "g-enews.com",
+      "source": "g-enews.com",
+      "link": "https://www.g-enews.com/view.php?ud=202610170523539946e250e8e188_1"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:30:00+09:00",
+      "title": "경기 분양가 3.3㎡당 2256만원 '역대 최고'…구리 4000만원 육박",
+      "snippet": "17일 부동산R114에 따르면 올해 1~9월 경기도 아파트의 평당 평균 분양가는 2256만원으로 역대 최고치를... 한국부동산원에 따르면 화성 동탄구의 아파트값은 이달 둘째 주 기준 누적 20.14% 올랐으며 수원 영통구는...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014259336?sid=101"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:30:00+09:00",
+      "title": "\"평년보다 기온 높아요\" 낮 최고 27도 '포근'…자다가 갑자기 쥐가 나는...",
+      "snippet": "기상청은 이날 \"오후부터 전국 대부분 지역에서 바람이 강하게 불겠다\"며 \"순간풍속이 시속 55㎞ 안팎, 산지는 시속 70㎞ 안팎에 달하는 곳이 있어 시설물 관리와 안전사고에 유의해야 한다\"고 설명했다. 일교차가 15도...",
+      "domain": "dailian.co.kr",
+      "source": "dailian.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/119/0003143765?sid=103"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:30:00+09:00",
+      "title": "[부울경 날씨예보] 구름 많고 포근…내륙 일교차 15도 안팎",
+      "snippet": "기상청은 \"경남 내륙을 중심으로 낮과 밤의 기온차가 크겠고, 18일부터 해안 지역에 강한 바람과 높은 물결이 예상된다\"며 건강관리와 시설물 관리, 해상 안전사고에 유의할 것을 당부했다.",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90941"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:26:00+09:00",
+      "title": "[수도권 날씨예보] 낮 최고 26도·일교차 최대 15도…밤부터 강풍 주의",
+      "snippet": "해상에는 돌풍과 함께 천둥·번개가 치는 곳도 있어 항해하거나 조업하는 선박은 안전사고에 유의해야 한다. 일요일인 18일에는 수도권에 본격적인 비가 내리겠다. 비는 18일 늦은 새벽 인천과 경기북부에서 시작돼...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90940"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:21:00+09:00",
+      "title": "반도체 벨트 강세 지속...분당으로 갈아타나?",
+      "snippet": "[남 혁 우 / 우리은행 부동산 연구원 : 유동성 유입 효과가 발생함에 따라서 경기 남부 지역 내에서 상급지... 자금이 부동산 시장으로 얼마나 흘러들어 가느냐도 관심입니다. 반도체주를 고점에 팔아 목돈을 쥔...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002419921?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:20:00+09:00",
+      "title": "뉴욕증시 급락 마감…AI 투자 부채 우려·유가 급등 나스닥 2.15%↓",
+      "snippet": "케빈 워시 연준 의장은 이날 미국 경제의 견조한 흐름에 낙관적인 입장을 나타냈다. 에너지 충격과 인플레이션 억제를 위한 긴축적 통화정책에도 세계 경제가 예상보다 잘 버티고 있다는 평가도 내놨다. 개별 종목...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90977"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:20:00+09:00",
+      "title": "[전국 날씨예보] 낮 최고 27도 일교차 15도 안팎...18일 전국 강한 비",
+      "snippet": "기상청은 강한 비와 바람으로 인한 시설물 피해와 교통안전사고에 유의하고, 해상에서는 돌풍과 천둥·번개에 대비할 것을 당부했다. 19일 월요일에는 중부지방에 구름이 많겠고, 남부지방과 제주도는 아침까지 비가...",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90939"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:19:00+09:00",
+      "title": "\"종교 차이보다 보수·진보 만남이 더 최악\"…돌싱남이 꼽은 '부부싸움...",
+      "snippet": "결혼 전문가는 \"골프 혹은 여행 등은 경제적으로 어느 정도 안정돼야 가능한 취미활동\"이라며 \"돌싱들은 남녀 불문하고 취미활동을 즐기는 등 여유 있는 생활을 통해 초혼 실패를 보상받고 싶어 한다\"고 설명했다. 이어...",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009233187?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:18:00+09:00",
+      "title": "S.E.S. 바다 “평생 못 잊어”…대학 등록금 내준 이수만에게 감사",
+      "snippet": "특히 바다는 이수만의ㅏ 경제적 지원에 대한 고마움을 전했다. 그는 “내가 진짜 평생 못 잊는 것이다. 당시 어려웠던 집안 형편을 아시고 내 대학 등록금을 내주셨던 선생님께 다시 한 번 감사를 드린다”라고...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://m.entertain.naver.com/article/022/0004167325"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:18:00+09:00",
+      "title": "'5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응",
+      "snippet": "국정감사 기간 안보부터 경제 문제까지 동료 의원들이 이슈화에 총력을 다하는 와중에 급할 거 없는 대통령 부모 묘소 등을 부각하며 현안 공세 분위기에 찬물을 끼얹었단 겁니다. [박정하 / 국민의힘 의원(지난 13일, MBC...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002419918?sid=100"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:18:00+09:00",
+      "title": "교차판매는 함께 살 상품, 추가판매는 상위 제품을 권한다",
+      "snippet": "보완재와 대체재는 판매 방식이 아니라 상품 사이의 소비 관계를 설명하는 경제학 용어다. OpenStax의 『Principles of Microeconomics 3e』는 보완재를 함께 쓰이는 상품, 대체재를 다른 상품 대신 사용할 수 있는 상품으로...",
+      "domain": "vegannews.co.kr",
+      "source": "vegannews.co.kr",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393082"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:17:00+09:00",
+      "title": "뉴욕증시, AI 부채 우려에 하락 마감…나스닥 7월 이후 최대 낙폭",
+      "snippet": "케빈 워시 연방준비제도(Fed) 의장은 미국 경제의 견조함에 낙관적인 견해를 밝혔다. 에너지 충격이 이어지고 물가를 잡기 위한 긴축이 진행되는 가운데서도 세계 경제가 잘 버티고 있다는 점에 놀랍다고도 했다....",
+      "domain": "newspim.com",
+      "source": "newspim.com",
+      "link": "https://www.newspim.com/news/view/20261017000011"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:16:00+09:00",
+      "title": "[딜로이트 글로벌 경제 리뷰] \"다시 겨울이 오고 있다\"",
+      "snippet": "국제통화기금(IMF)은 방콕 연례 총회에서 발표한 최신 세계경제전망(WEO) 보고서에서 세계 경제가 지난 7년간 보여준 회복력은 놀라울 정도라고 평가했다. 하지만 여전히 다양한 역풍과 위험 요인들 때문에 급격히...",
+      "domain": "financialpost.co.kr",
+      "source": "financialpost.co.kr",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280859"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:16:00+09:00",
+      "title": "폐암 5년 생존율 '두배 상승'…과제는 '소득별 격차'",
+      "snippet": "특히 올해는 사회·경제적 요인에 따른 폐암 발생률과 사망률 지표를 새롭게 추가해 소득수준과 도시... 의료급여 수급권자 발생률 높고 생존율 최저…건강 불평등 올해 새롭게 포함된 사회·경제적 요인 분석에서는...",
+      "domain": "dailymedi.com",
+      "source": "dailymedi.com",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=941492"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:16:00+09:00",
+      "title": "[코트의 시선] 해킹맛집, 사기천국",
+      "snippet": "다만, 사기범죄조직이 온라인에서 고립된 피해자들에게 접근하여 경제적 어려움이나 외로움과 같은 취약점을 공략하려면 반드시 그들의 개인정보가 필요하다. 문제는 피해자들의 개인정보가 끊임없이 유출되고 있다는...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227799"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:16:00+09:00",
+      "title": "[강원도 날씨예보] 낮 최고 25도·일교차 15도…18일 최대 70㎜ 비",
+      "snippet": "기상청은 \"18일 강원내륙과 산지를 중심으로 좁은 지역에 강한 비가 집중되면서 지역별 강수량 차이가 크겠다\"며 \"최신 기상정보를 확인하고 시설물 관리와 안전사고 예방에 유의해 달라\"고 당부했다.",
+      "domain": "thefairnews.co.kr",
+      "source": "thefairnews.co.kr",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90947"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:15:00+09:00",
+      "title": "삼성 직원은 “10만원까지 떨어져라”…아내 몰래 ‘빚투’ 개미는 한숨...",
+      "snippet": "경제적 어려움은 일상에서도 나타난다. 취업준비생 박모(29)씨는 모아둔 적금에 마이너스통장까지 동원해 주식에 투자했다가 큰 손실을 봤다. 최근에는 친구들과의 만남을 끊고 식비부터 줄이고 있다. 밤마다 주식...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004167324?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:14:00+09:00",
+      "title": "가우지, 700만달러 주식 발행 종결…163만8000달러는 조건부 반환",
+      "snippet": "텔아비브-자파 지방법원은 9월 8일 이스라엘 도산·경제회생법에 따른 채무 합의를 최종 승인했다. 가우지가 미국 증권거래위원회(SEC)에 제출한 자료에는 채권자 의결권의 약 98.96%가 합의안에 찬성했고 담보권자는...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/market/423550"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T05:12:00+09:00",
+      "title": "비트코인 변동성 43%로 S&P 500 종목 범위 안에…가격은 고점보다 35% 낮...",
+      "snippet": "비트코인의 가격 출렁임이 S&P 500 편입 종목들의 범위 안으로 들어왔다. 가상자산 운용사 그레이스케일(Grayscale)이 10월 15일(현지시각) 내놓은 분석에서 비트코인의 최근 1년 실현 변동성은 43%로 집계됐다. 5년 전 81%와...",
+      "domain": "wikitree.co.kr",
+      "source": "wikitree.co.kr",
+      "link": "https://www.wikitree.co.kr/articles/1166915"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:10:00+09:00",
+      "title": "[분양캘린더] 인천 역세권부터 청주 대단지까지···10월 넷째주 가을 ...",
+      "snippet": "17일 부동산 전문 리서치업체 리얼투데이에 따르면 10월 넷째 주에는 전국 13곳에서 총 6734가구가 청약 접수를 진행한다. 오피스텔과 공공지원 민간임대, 조합원 취소분을 포함한 수치로 행복주택은 제외됐다. 이번 주...",
+      "domain": "smartbizn.com",
+      "source": "smartbizn.com",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=156705"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:06:00+09:00",
+      "title": "비만약 열풍…위고비·마운자로 이어 국산 ‘에페’까지",
+      "snippet": "약물 사용으로 감소했던 식욕이 치료 중단 후 다시 증가할 수 있으며, 장기적인 체중 관리를 위해 식사·운동요법과 지속적인 진료가 중요하다.비만 치료제를 얼마나 효과적이고 안전하게, 또 경제적으로 지속할 수...",
+      "domain": "kor.theasian.asia",
+      "source": "kor.theasian.asia",
+      "link": "http://kor.theasian.asia/archives/418695"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:06:00+09:00",
+      "title": "[생활경제 정책] 근로장려금 최대 330만원…저소득층 자립 돕는 안전망",
+      "snippet": "생계유지에 어려움을 겪는 저소득 가구가 경제적 자립의 기반을 마련하려면 당장의 생활비 부담을 덜어주는... 소득이 적다는 이유로 일하는 보람을 잃지 않도록 경제적 부담을 완화하고, 근로의욕을 높여 스스로 생활을...",
+      "domain": "cbci.co.kr",
+      "source": "cbci.co.kr",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616489"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "경주·울산, 국도 7호선 2.6㎞ 확장 공동 건의",
+      "snippet": "아주경제=최주호 기자 cjh@ajunews.com 최혁준 경주시 부시장을 비롯한 경주시와 울산시 관계자들이 지난 15일... 최혁준 경주시 부시장은 “경주와 울산은 경제와 생활권을 공유하는 해오름동맹의 핵심 동반자”라며 “두...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20261017013320872"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "“아이 하교 늦춰질까 기대했는데”…‘3시 하교’ OECD 통계 해석 논란",
+      "snippet": "국회미래연구원은 당시 한국 초등학교의 연간 평균 수업시간이 655시간으로 경제협력개발기구(OECD) 평균(845시간)보다 190시간 짧다며 초등 1·2학년의 수업시간을 OECD 평균 수준으로 단계적으로 확대하자고 제안했다. 김...",
+      "domain": "sedaily.com",
+      "source": "서울경제",
+      "link": "https://n.news.naver.com/mnews/article/011/0004672181?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "이란 연금수령자들 ‘거리 시위’ 이어져 [건강한겨레]",
+      "snippet": "미국의 호르무즈해협 외곽 봉쇄로 이란 경제가 악화하던 시기와 궤를 같이한다. 이후 연금수령자들은 일요일에 시위를 정례화해왔다. 이는 과거 산발적 집회와는 다른 조직적 양상을 띠고 있다. 시위 배경에는 전례 없는...",
+      "domain": "hani.co.kr",
+      "source": "한겨레",
+      "link": "https://n.news.naver.com/mnews/article/028/0002827862?sid=103"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[모닝 뉴스브리핑] USDC 상반기 거래 36조달러 外",
+      "snippet": "홍콩 정부는 거래소와 스테이블코인 분야를 실물경제에 기여하도록 신중하고 절제된 방식으로 키우겠다고 전했으며, 새 인가 요건이나 시행 일정은 제시되지 않았다. 미국 증시 변동성 지수(VIX)가 10월...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/briefing/423546"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "청송사과축제, 온라인 방문객 224만 명 돌파…11월 4일 개막 열기 고조",
+      "snippet": "온라인 축제 11월 8일까지 운영…게임·경품 이벤트로 참여 확대 제20회 축제 앞두고 교통·안전·편의시설 점검 등 준비 본격화 아주경제=최주호 기자 cjh@ajunews.com 청송사과축제 온라인 홈페이지. [사진=청송군] 제20회...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20261017010918866"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[윤지현 교수의 세금과 상식] 과세대상 재산의 물납",
+      "snippet": "이는 어떤 재산을 계속 보유할지 여부에 관한 개개인의 경제적 의사 결정에 영향을 미치고 그러한 의미에서 경제적 효율을 해칠 수 있습니다만, 물납을 받는 것도 세무행정에 여러 가지 비효율을 안기니 간단히 이렇다...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227804"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[판례평석] 채권 압류 후 이뤄진 합의해제는 압류채권자에게 대항할 수...",
+      "snippet": "예컨대 경제적, 사실적으로 일체로서 행하여진 여러 계약 중 어느 한 계약에 따른 채권만이 압류되었으나, 압류와 무관한 다른 계약을 합의해제함에 따라 일체로서 행하여진 모든 계약에 합의해제의 대항력을...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227776"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "박용선 포항시장, 과메기 생산현장 점검…꽁치 수급 안정화 추진",
+      "snippet": "구룡포 가공시설 찾아 출하 준비·업계 애로사항 확인 대만산 꽁치 수입선 확보·가공설비 개선…품질관리 강화 아주경제=최주호 기자 cjh@ajunews.com 박용선 포항시장이 본격적인 과메기 출하 시기를 앞두고 16일 남구...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20261017012644871"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[Lawyer&] \"후계자 없는 日 우량기업, 한국이 인수 어떤가\"",
+      "snippet": "\"한국은 경영을, 일본은 기술을\" 2026년 9월 22일 서울 청진동 세종 사무실에서 법률신문과 만난 구 변호사는 \"한국의 경제력이 커지면서 대일 투자도 늘고 있다\"며 \"일본의 기술을 활용하고 경영은 한국이 맡는 식의 협업도...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227859"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "포스코, 설비·자재 공급사와 소통 강화…동반성장 지원 확대",
+      "snippet": "포항·광양서 하반기 정보교류회…포항 지역 114개 사 참여 구매정책·안전·정보보호 교육…공급사 애로사항 청취·지원사업 안내 아주경제=최주호 기자 cjh@ajunews.com 포항 인재창조원에서 열린 ‘2026년 하반기 설비·자재...",
+      "domain": "ajunews.com",
+      "source": "ajunews.com",
+      "link": "https://www.ajunews.com/view/20261017012111867"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[법조광장] 개정 가습기살균제피해구제법과 책임귀속",
+      "snippet": "분담금은 특별부담금으로서 특정한 사회적·경제적 과제를 해결하기 위하여 '특정집단'에 부과하는 것(헌법재판소 1998. 12. 24. 98헌가1)이다. 입법자는 가습기살균제피해구제법의 전부 개정을 통해 민법이라는 사적...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227831"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[공익을 위하여] 진화하는 불법사채에 맞서는 법",
+      "snippet": "개정법의 취지는 불법사채를 근절하는 동시에, 채무자들이 개인회생·파산면책 제도와 사회보장급여 등을 통해 경제적으로 다시 일어설 수 있도록 하는 데 있다. 채무자가 제도권 내 법적 절차를 통해 채무조정을 받고...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227803"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "\"휠체어에서 일어나 달립니다\"",
+      "snippet": "기업에선 금호석유화학, 영원무역, 동행복권, 로앤컴퍼니, 한미사이언스 준법경영실, 트리나솔라, HPE, 상상인증권 등이 단체 참가한다. 국회 보좌관 러닝크루 '여의도 평냉', '서초 부동산 17기' 등 이색 팀도 눈길을 끈다.",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227885"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "전셋집 옮기려니 8000만원 더?…서울 전세계약 10건 중 6건 갱신 [숫자 ...",
+      "snippet": "17일 한국부동산원의 ‘9월 전국주택가격동향조사’에 따르면 지난달 서울 아파트 평균 전세가격은... 부동산 플랫폼 직방이 올해 1~6월 수도권 아파트 전세 거래를 분석한 결과, 서울 전용면적 84㎡ 아파트의 신규...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://n.news.naver.com/mnews/article/022/0004167320?sid=101"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[현장에서] 수탁자 변경과 우선수익권의 연속성",
+      "snippet": "부동산신탁사 14곳이 지난해 4,689억 원의 순손실을 내는 등(한국신용평가) 책임준공을 떠안은 신탁사의... 다른 하나는 위탁자와 수익자가 합의하여 신탁을 종료하고(신탁법 제99조 제1항) 부동산을 위탁자 앞으로 되돌린...",
+      "domain": "lawtimes.co.kr",
+      "source": "lawtimes.co.kr",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227808"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "\"주말 나들이 즐겨요\"…낮엔 최고 27도, 내일은 비[오늘날씨]",
+      "snippet": "돌풍과 천둥·번개가 치는 곳도 있어 해상 안전사고에 유의해야겠다. 다음 날인 18일에는 전국에 비가 내리겠다. 새벽에 인천·경기북부와 제주도에서 시작된 비는 오전에 그 밖의 중부지방, 오후에 전국 대부분...",
+      "domain": "edaily.co.kr",
+      "source": "이데일리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006389892?sid=103"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T05:02:00+09:00",
+      "title": "[모닝 시세브리핑] 암호화폐 시장 약세… 비트코인 81,485달러, 이더리움...",
+      "snippet": "암호화폐 시장이 약세를 보이는 가운데 비트코인과 이더리움은 모두 24시간 기준 하락했다. 비트코인 점유율은 확대된 반면 이더리움 점유율은 소폭 낮아졌고, 파생상품 거래량은 감소해 단기 관망 심리도...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/briefing/423547"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:01:00+09:00",
+      "title": "채소·과일류 등 농축산물 가격 하락세…소고기·달걀 등 축산물 등락 ...",
+      "snippet": "한국농촌경제연구원 농업관측센터 측은 \"10월에는 6개월령 이상 산란계 사육 마릿수가 5902만 마리로 전년 대비 0.7% 정도 증가하고 일평균 계란 생산량은 5031만 개로 전년 대비 0.6% 수준으로 늘어날 것으로...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004199722?sid=103"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:01:00+09:00",
+      "title": "'서울 집값 88주 연속 상승' 주간 통계 손질론 부상",
+      "snippet": "전문가들 사이에서도 경제협력개발기구(OECD) 회원국 중 국가 공식 주간 주택가격지수를 발표하는 사례가 사실상 한국뿐이라는 점을 지적하며, 실거래 기반의 월간 단위 분석으로 전환해야 한다는 목소리가 힘을 얻고...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004199724?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:01:00+09:00",
+      "title": "민원·안전 이유로 사라지는 가로수들…벌목이 답일까[기후로운 경제생...",
+      "snippet": "편집자 주'기후로운 경제생활'은 CBS가 국내 최초로 '기후'와 '경제'를 접목한 경제 유튜브/라디오 프로그램입니다. 한국의 대표 기후경제학자 서울대 환경대학원 홍종호 교수와 함께합니다. 매주 목/금 오후 9시...",
+      "domain": "nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/079/0004199725?sid=103"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:01:00+09:00",
+      "title": "경기북부 대체로 맑아…내일은 강한 비 예보",
+      "snippet": "좁은 지역에 강하게 내리면서 지역에 따라 강수 강도와 강수량의 차이가 크겠다. 기상청 관계자는 \"낙엽으로 인해 배수가 원활하지 못해 저지대 침수 발생 가능성이 있으니 안전사고에 각별히 유의해 달라\"고 당부했다.",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014259334?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "A7 만투로프 감독위원장 맡아…두 장관은 첫 회의 참석",
+      "snippet": "발표에 따르면 감독위원회는 정부와 기업 관계자가 경제·금융·기술 현안을 함께 논의하는 자문·전문 기구다. 러시아 정부의 원문 공지는 확인되지 않았다. 인터팩스는 두 장관을 회의 참석자로 전했으며...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/423545"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "[뉴스분석] 김민석, 2박 3일 부산行…'총선 승부처' 직접 찾아 민생 행보...",
+      "snippet": "이어 부산항만공사를 찾아 최근 물류·경제계의 화두인 북극항로 관련 간담회를 개최하고 해양 수도 부산의 미래 먹거리를 점검했다. 김 대표는 이날 주말을 맞아 부산 서민 경제의 상징인 자갈치시장을 찾아 상인들의...",
+      "domain": "newspim.com",
+      "source": "newspim.com",
+      "link": "https://www.newspim.com/news/view/20261016001288"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "4대 금융, 다음 주부터 3분기 실적시즌…순익 5.6조 전망",
+      "snippet": "최 연구원은 \"그러나 대규모 외화환산익 및 부동산매각익 발생 등으로 인해 표면 실적은 선방할 전망\"이라며 \"뚜렷한 비경상 요인 없이도 컨센서스를 상회하는 KB금융이 내용적으로는 가장 양호할 것\"이라고 분석했다.",
+      "domain": "getnews.co.kr",
+      "source": "getnews.co.kr",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=883836"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "[오늘의 날씨] 울산(17일, 토)…밤부터 흐림, 아침 13도",
+      "snippet": "미세먼지 농도는 '좋음' 수준으로 예상된다. 울산 앞바다의 물결은 0.5~2m 높이로 일 것으로 보인다. 기상청 관계자는 \"오후부터 먼바다에 너울에 의한 높은 물결이 밀려오니 안전사고에 유의하기 바란다\"고 당부했다.",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009233169?sid=102"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "제주, 구름 많다가 밤부터 흐림…\"오후부터 강풍 유의\"",
+      "snippet": "바다의 물결은 제주도 모든 앞바다에서 0.5~2.0m 내외로 약간 높게 일겠다. 기상청 관계자는 \"오후부터 제주도에는 바람이 강하게 부는 곳이 있겠으니, 시설물 관리와 안전사고에 유의하기 바란다\"고 당부했다.",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014259324?sid=102"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "아침엔 선선ㆍ낮엔 포근⋯오후부터 전국 강풍 [날씨]",
+      "snippet": "간판과 야외 시설물을 점검하고 낙하물 등으로 인한 안전사고에 대비해야겠다. 해상에서도 바람이 강해지고 물결이 높게 일겠다. 오후부터 서해 먼바다와 제주도 남쪽 바깥 먼바다에서는 바람이 30~65㎞/h로 매우...",
+      "domain": "etoday.co.kr",
+      "source": "etoday.co.kr",
+      "link": "https://www.etoday.co.kr/news/view/2636823"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "[오늘의 날씨] 제주(17일, 토)…구름 많다가 밤부터 강풍",
+      "snippet": "5~2.0m 높이로 다소 높게 인다. 아침 예상 최저기온은 18~19도, 낮 예상 최고기온은 25~26도다. 미세먼지 농도는 '좋음' 수준이다. 기상청은 \"강풍 피해에 대비해 시설물 관리와 안전사고에 유의하기를 바란다\"고 당부했다.",
+      "domain": "news1.kr",
+      "source": "뉴스1",
+      "link": "https://n.news.naver.com/mnews/article/421/0009233183?sid=102"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T05:00:00+09:00",
+      "title": "[주간 기상속보]주말 오늘날씨 일교차 주의 서울 낮 25도...18일 전국·20...",
+      "snippet": "충남, 충북: 18일 늦은 오후(15~18시)~늦은 밤(21~24시)/ 시간당 20~30mm (전라권) 전북: 18일 밤(18~24시)/ 시간당 20~30mm 서해 먼바다를 중심으로 돌풍과 함께 천둥·번개가 치는 곳이 있겠으니 해상 안전사고에도...",
+      "domain": "public25.com",
+      "source": "public25.com",
+      "link": "https://www.public25.com/news/articleView.html?idxno=56620"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T04:58:00+09:00",
+      "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 2억2436만달러 청산",
+      "snippet": "같은 기간 비트코인(BTC)은 81,436달러(약 1억934만원)로 24시간 기준 1.11% 하락했고, 이더리움(ETH)은 2,410달러(약 323만5490원)로 1.81% 하락했다. 주요 자산 가운데 솔라나(SOL)는 -2.38%, 하이퍼리퀴드(HYPE)...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/briefing/423542"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T04:56:00+09:00",
+      "title": "[오늘의 날씨] 전국 시간당 30mm 강한 비 예고…18~19일 돌풍·천둥·번개...",
+      "snippet": "더불어 오늘은 서해먼바다를 중심으로, 내일은 전 해상에서, 모레는 남해상과 제주도해상, 동해상에서 돌풍과 함께 천둥·번개가 치는 곳이 있겠다고 밝혀, 해상 안전사고에 대한 대비가 요구된다. 기온은 당분간...",
+      "domain": "topstarnews.net",
+      "source": "topstarnews.net",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16249400"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T04:56:00+09:00",
+      "title": "Zcash 4시간 새 4.31% 하락해 1141달러",
+      "snippet": "같은 1시간 동안 바이낸스·바이비트·OKX 자체 집계 기준 롱 청산액은 35만달러(약 4억7000만원), 숏 청산액은 3만달러(약 4030만원)로 나타났다. 시가총액은 코인게코 기준 약 193억177만달러(약...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/423541"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:54:00+09:00",
+      "title": "\"신약 건강보험 등재 평균 4년, 환자 고통 가중\"",
+      "snippet": "특히 현행 경제성 평가가 신약 투여로 인한 환자 일상 복귀나 가족 돌봄부담 감소 등 사회적 편익을 전혀... 지적하고 경제성 평가 기준 개편을 촉구했다. 최 의원에 따르면 해외 개발 신약이 최초 출시된 이후 국내...",
+      "domain": "dailymedi.com",
+      "source": "dailymedi.com",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=941545"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:50:00+09:00",
+      "title": "젠슨 황 “첨단 기술 수출 통제, 극도로 선별해야”",
+      "snippet": "기술·경제적 우위를 유지하려면 시장과 고객 기반을 키워야 한다고 설명했다. 그가 말한 ‘선순환’은... 황 CEO는 특정 기술의 접근을 제한하는 조치와 기술·경제 생태계의 확대를 함께 고려해야 한다고 말했다....",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/policy/423540"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T04:50:00+09:00",
+      "title": "1억 사기당하고 달걀로 버티던 기욤 패트리, 대저택·슈퍼카 억만장자 ...",
+      "snippet": "여기에 주식과 부동산 투자를 유기적으로 병행하며 자산을 불려 나갔다. 실패를 단순한 상처로 남겨두지 않고 철저한 자기관리와 현실적인 실행 루틴을 체화한 결과였다. 스스로의 손으로 인생의 주도권을 되찾고 거머쥔...",
+      "domain": "segye.com",
+      "source": "세계일보",
+      "link": "https://m.entertain.naver.com/article/022/0004167317"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T04:37:00+09:00",
+      "title": "사고 잦은 설악산...단풍철 앞두고 탐방로 정비",
+      "snippet": "인파가 몰리며 안전사고 역시 참 많은 시기인데요. 최근 설악산 탐방환경이 크게 개선됐다고 합니다. 지 환 기자가 미리 다녀왔습니다. [기자] 어여쁜 단풍이 설악 능선 곳곳을 물들였습니다. 백담사와 봉정암으로 향하는...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002419909?sid=102"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T04:36:00+09:00",
+      "title": "빈번해진 가을철 산악사고...안전수칙 준수 필요",
+      "snippet": "전 하산하고 체온을 유지할 수 있는 옷과 충분한 수분 섭취도 중요합니다. 단풍 구경으로 산에 올라 자칫 목숨까지 잃을 수 있는 산악사고. 사고 예방을 위해서는 안전 수칙 준수가 무엇보다 중요합니다. YTN 오태인입니다.",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002419908?sid=102"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T04:36:00+09:00",
+      "title": "펌프펀, 비트코인 40배·이더리움 25배 선물 출시",
+      "snippet": "펌프펀이 하이퍼리퀴드의 거래 인프라를 활용해 비트코인(BTC)과 이더리움(ETH) 무기한 선물거래를 시작했다. 최대 레버리지는 비트코인 40배, 이더리움 25배다. 이용자는 펌프펀의 기존 거래 화면에서 두 자산의 무기한...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/423538"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:31:00+09:00",
+      "title": "다리는 열렸지만, 평화는 아직 건너오지 않았다 [4강의 시선]",
+      "snippet": "그러나 그 뒤에는 경제난, 대북 제재, 코로나19 국경 봉쇄, 그리고 개방을 경계하는 북한 특유의 태도가 겹쳐... 신압록강대교는 정치적 접근을 실질적 경제협력으로 바꿔 놓는 통로가 될 수 있다. 기존 중조우의교에 몰린...",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000959986?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:30:00+09:00",
+      "title": "울산 가는 '충주맨', 고래축제 어떻게 평가할까... 4년 전 인연 눈길",
+      "snippet": "지역 경제 현장을 소개한다. 울산 남구는 김씨가 17일 제30회 울산고래축제 현장을 방문해 축제 프로그램과... ‘민생경제 119기동팀’의 활동도 함께 조명할 계획이다. 남구와 김씨의 인연은 2022년으로 올라간다. 당시...",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000959979?sid=102"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:30:00+09:00",
+      "title": "[메아리]반도체 속도전의 훼방꾼이 될 건가",
+      "snippet": "앞서 경제협력개발기구(OECD)와 아시아개발은행(ADB) 등도 마찬가지. 이들은 초호황을 누리는 한국의 반도체를 핵심 배경으로 꼽는다. 그러면서도 한국 경제가 반도체에만 기대서는 안 된다고 걱정한다. IMF는 인공지능(AI)...",
+      "domain": "hankookilbo.com",
+      "source": "한국일보",
+      "link": "https://n.news.naver.com/mnews/article/469/0000959985?sid=110"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:18:00+09:00",
+      "title": "프랑스 주말 또 대규모 시위...'제2 노란 조끼'로 번지나",
+      "snippet": "2018년 당시 프랑스 정부의 유류세 인상에 반발하며 시작된 '노란 조끼' 운동은 경제적 불만이 폭발하며 반정부 시위로 번졌습니다. 주말 동안 프랑스 전역에 또다시 시위 수백 건이 예고됐는데, 학생들은 '노란 조끼...",
+      "domain": "ytn.co.kr",
+      "source": "YTN",
+      "link": "https://n.news.naver.com/mnews/article/052/0002419906?sid=104"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T04:14:00+09:00",
+      "title": "양자 회로 7개서 큐비트·Toffoli 게이트 함께 줄였다",
+      "snippet": "이번 연구는 회로 자원 설계를 다뤘으며, 실제 양자 하드웨어 실행이나 암호키 복구, 비트코인 해독을 시연한 결과는 아니다. 비트코인 양자 공격 회로 비용을 다룬 앞선 보도도 실제 공격과 회로 자원 추정치를...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/ai/423535"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:10:00+09:00",
+      "title": "서클, USDC 신흥·개도국 40곳 공략 나서지만…국가 목록·일정은 비공개",
+      "snippet": "알레어 최고경영자는 인터넷 기반 경제에 접근하려는 개인과 기업에서 자생적 수요가 늘고 있다고 짚었다. 스테이블코인은 코인 거래를 넘어 일상 결제와 국제 송금으로 쓰임새를 넓히고 있으며, 서클이 시장을...",
+      "domain": "wikitree.co.kr",
+      "source": "wikitree.co.kr",
+      "link": "https://www.wikitree.co.kr/articles/1166905"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:04:00+09:00",
+      "title": "1000만원으로 ETF 투자 연습…한투운용 '투자플러스(TO+)'",
+      "snippet": "복잡한 차트나 경제지표보다 당시 뉴스를 먼저 보여준 뒤 행동을 고르도록 구성해 초보 투자자도 어렵지 않게 참여할 수 있었다. 한국투자신탁운용 관계자는 \"큰 차별점은 투자 전 단계에서 상품을 직접 경험해 볼 수...",
+      "domain": "news2day.co.kr",
+      "source": "news2day.co.kr",
+      "link": "https://www.news2day.co.kr/article/20261015500311"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:00:00+09:00",
+      "title": "\"AI 흥해도 망해도 비트코인엔 호재\"…전망 나온 이유",
+      "snippet": "이어 \"현재 거시경제 전망의 불확실성이 어느 때보다 크다\"며 세 가지 시나리오를 제시했다. 먼저 AI가... 경제성장률이 3% 안팎, 금리가 4% 수준을 유지하면 현물 상장지수펀드(ETF) 자금 유입과 기관·기업의 비트코인 보유...",
+      "domain": "newsis.com",
+      "source": "뉴시스",
+      "link": "https://n.news.naver.com/mnews/article/003/0014259318?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T04:00:00+09:00",
+      "title": "AI 보너스로 현금 83만원 뿌린다?...이 나라에 무슨 일?",
+      "snippet": "국민당 의원들도 행정원이 재정 규율을 이유로 국민이 기대하는 경제적 보너스를 정치적 논쟁거리로 만들어서는 안 된다고 주장했습니다. 집권 민진당도 맞불을 놓고 있습니다. 라이칭더 대만 총통은 민진당 주석을...",
+      "domain": "biz.sbs.co.kr",
+      "source": "biz.sbs.co.kr",
+      "link": "https://n.news.naver.com/mnews/article/374/0000538290?sid=101"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T03:58:00+09:00",
+      "title": "홍콩, 거래소·스테이블코인 육성 기조 재확인",
+      "snippet": "경제에 기여하게 하겠다는 취지로 말했다고 전했다. 이번 발언은 새 제도 발표가 아니라 기존 정책 방향을 재확인한 것이다. 홍콩 정부는 2025년 6월 정책선언 2.0에서 위험 관리와 투자자 보호를 우선하면서 실물경제와...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/policy/423533"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T03:50:00+09:00",
+      "title": "경기 광주시, 도시가스 공급망 넓힌다…도척 융복합 협력지구 에너지 기...",
+      "snippet": "지형적·경제적 여건으로 도시가스 공급이 어려운 지역에도 공급을 확대할 수 있도록 한국가스공사의 협조를 요청했다. 시는 관계 기관 및 도시가스사업자와 협의를 이어가며 주요 개발사업의 에너지 공급 기반을 확보할...",
+      "domain": "sentv.co.kr",
+      "source": "sentv.co.kr",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610170003"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T03:50:00+09:00",
+      "title": "고금리에도 오른 비트코인…\"포트폴리오 충격 보험 역할\"",
+      "snippet": "그는 금리와 주식, 경제성장을 둘러싼 불확실성이 위험자산 투자심리를 좌우하고 있으며 자본 형성과 국경 간 이동도 빠르게 변화하고 있다고 진단했다. 이어 \"비트코인은 경제 체계를 다시 설계하는 과정에서 큰 부분을...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/423531"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T03:30:00+09:00",
+      "title": "\"커피 끊었더라면\"...서동주, 공난포 두 번에 자책하기도 \"죄책감 갖지 ...",
+      "snippet": "그는 경제적으로 부족함이 없고, 일과 남편, 자신을 좋아하고 도와주는 주변 사람들이 있다는 사실을 떠올렸다고 밝혔다. 특히 \"이미 나 되게 행복한 사람이구나\", \"이미 넘치게 행복한 사람이구나\"라는 생각이 들었다며...",
+      "domain": "xportsnews.com",
+      "source": "xportsnews.com",
+      "link": "https://m.entertain.naver.com/article/311/0002069515"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T03:18:00+09:00",
+      "title": "세계 경제 뒤흔든 제1차 오일쇼크 시작…마피아 두목 알 카포네 탈세 유...",
+      "snippet": "1973년 10월 17일, 세계 경제를 뒤흔든 제1차 오일쇼크, 석유파동이 시작됐습니다. 당시 중동에서 벌어진... 이 결정이 세계 경제에 큰 충격을 가져온 제1차 오일쇼크의 중요한 출발점이 됐습니다. [진행자] 그런데 석유...",
+      "domain": "voakorea.com",
+      "source": "voakorea.com",
+      "link": "https://www.voakorea.com/a/today-in-history-101626/8212068.html"
+    },
+    {
+      "category": "realestate",
+      "pubDate": "2026-10-17T03:14:00+09:00",
+      "title": "일본 다다미방 6조, 지역별 규격 따라 면적 달라",
+      "snippet": "교마 10.94㎡·단지마 8.67㎡…부동산 표기는 별도 기준 일본의 다다미방에서 ‘6조’는 전국 어디서나 같은... 일본의 부동산 표시 규정도 실물 다다미의 크기와는 별도다. ‘조’로 방의 넓이를 표시할 때는 각 방의...",
+      "domain": "vegannews.co.kr",
+      "source": "vegannews.co.kr",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393037"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T03:10:00+09:00",
+      "title": "제미나이, CFTC와 공동 신청에도 합의 취소 거부당했다…영구 금지명령...",
+      "snippet": "결국 이번 공동 신청이 받아들여졌더라도 돈은 정부에 남는 구조였다.2022년 소송에서 2025년 합의까지사건의 뿌리는 비트코인 선물 상품 심사 과정이다. 상품선물거래위원회는 2022년 6월 제미나이를 상대로 소송을 냈다....",
+      "domain": "wikitree.co.kr",
+      "source": "wikitree.co.kr",
+      "link": "https://www.wikitree.co.kr/articles/1166891"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T03:10:00+09:00",
+      "title": "스트라이브, SATS 700만주 발행해 6억3000만달러 조달",
+      "snippet": "SEC 제출 자료와 회사 공시에 따르면 순조달금은 비트코인(BTC)과 관련 상품 매입, 운전자금, 수익 창출 자산 매입, 자본 지출 등에 쓰일 수 있다. 회사는 자사 보통주나 기존 우선주 매입, 사업을 보완하는 기업...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/423523"
+    },
+    {
+      "category": "economy",
+      "pubDate": "2026-10-17T03:02:00+09:00",
+      "title": "“스트레스 못 참았다”…생후 4개월 딸에게 뇌 장애 입힌 친부, 항소심...",
+      "snippet": "재판부는 딸에게 앞으로도 지속적인 재활 치료와 이를 위한 경제적 지원이 필요할 것으로 보인다고 밝혔다. 이어 A씨가 처벌받은 뒤 사회에 복귀해 치료비와 양육비를 지급하는 등 친부로서 책임을 다할 필요가 있다는...",
+      "domain": "sedaily.com",
+      "source": "서울경제",
+      "link": "https://n.news.naver.com/mnews/article/011/0004672178?sid=102"
+    },
+    {
+      "category": "safety",
+      "pubDate": "2026-10-17T03:00:00+09:00",
+      "title": "[오늘 날씨] 대체로 맑고 일교차 커…오후부터 강풍·먼바다 높은 물결",
+      "snippet": "산지는 순간풍속 시속 70㎞ 안팎까지 강해질 수 있어 시설물 관리와 안전사고에 유의해야겠다. 바다의 물결도 높아지겠다. 서해 먼바다는 오후부터 물결이 최고 3.5m까지 일겠고, 제주도 바깥 먼바다에서도 물결이 높게...",
+      "domain": "youthdaily.co.kr",
+      "source": "youthdaily.co.kr",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=228481"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T02:34:00+09:00",
+      "title": "4시간 동안 가상자산 시장서 1억5700만달러 청산",
+      "snippet": "최근 4시간 동안 전체 가상자산 시장에서 1억5700만달러(약 2109억원), 비트코인(BTC)에서 4590만달러(약 617억원) 규모의 청산이 집계됐다고 오데일리(Odaily)가 보도했다.",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/423516"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T02:30:00+09:00",
+      "title": "니어프로토콜, 4시간 새 5.89% 하락해 4.94달러 기록",
+      "snippet": "같은 1시간 동안 바이낸스·바이비트·OKX에서 자체 집계된 니어프로토콜 청산 규모는 롱 76만달러(약 10억2000만원), 숏 1만달러(약 1343만원)다. 코인게코 기준 니어프로토콜 시가총액은 약 66억6895만달러...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/423514"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T02:28:00+09:00",
+      "title": "유니스왑 v3 소액 포지션, 가스비 반영 뒤 18%만 단순 보유 상회",
+      "snippet": "블록체인 데이터업체 비트쿼리(Bitquery)는 이더리움(ETH)의 유니스왑 v3 풀 8곳을 분석했다. 2025년 10월... 유니스왑 v3·v4의 최근 스테이블코인 탈중앙화거래소(DEX) 거래량 비중을 다룬 본지 집계 보도는 거래량을...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/423511"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T02:26:00+09:00",
+      "title": "비트코인 8만1000달러 하회…이더리움도 2400달러 밑으로",
+      "snippet": "비트코인(BTC)이 8만1000달러, 이더리움(ETH)이 2400달러를 각각 밑돌았다. 더블록(The Block)은 한국시간 15일 오전 11시50분 기준 비트코인이 8만764달러, 이더리움이 2353달러로 집계됐다고 보도했다. 당시...",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/423510"
+    },
+    {
+      "category": "bitcoin",
+      "pubDate": "2026-10-17T02:20:00+09:00",
+      "title": "비트코인, 8만1000USDT 밑돌았다는 보도 나와",
+      "snippet": "비트코인(BTC)이 8만1000USDT 아래로 내려갔다고 포사이트뉴스(Foresight News)가 보도했다. 원문 기사는 해당 가격 변동을 전했다.",
+      "domain": "tokenpost.kr",
+      "source": "토큰포스트",
+      "link": "https://www.tokenpost.kr/news/breaking/423506"
+    },
+    {
+      "category": "economy",
       "pubDate": "2026-10-17T02:18:00+09:00",
       "title": "[패트롤] 고양시의회-구리시의회-남양주시의회-의정부시의회",
       "snippet": "고양=에너지경제신문 강근주기자 원종범 고양특례시의회 의원은 제308회 제1차 정례회에서 시정질문을 통해... 구리=에너지경제신문 강근주기자 구리시의회가 16일 제3차 인사청문특별위원회를 열고 이승우 구리도시공사...",
@@ -63296,645 +64250,6 @@
       "domain": "newsis.com",
       "source": "뉴시스",
       "link": "https://n.news.naver.com/mnews/article/003/0014254400?sid=105"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:58:00+09:00",
-      "title": "[농지 전수조사 후속대책 방향] 임대차·미허가 시설 양성화···투기·...",
-      "snippet": "등 부동산업을 영위하는 경우를 주요 투기 유형으로 제시했다. 농업진흥지역에 야영장·야적장·공장 등을 불법 설치한 중대한 전용 행위에는 원상회복을 추진한다. 사전 통지와 소명·청문을 거쳐 정당한 사정이 인정되면...",
-      "domain": "newsfarm.co.kr",
-      "source": "newsfarm.co.kr",
-      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102617"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:54:00+09:00",
-      "title": "올해 신규보증 PF사업장 70% '저자본·고보증'…투자금 5% 안돼",
-      "snippet": "운영되는 부동산 프로젝트파이낸싱(PF) 사업장이 금융당국의 개선 노력에도 오히려 늘어난 것으로... 하지만 부동산 PF 사업장의 저자본·고보증 관행은 되레 악화하는 추세다. HUG의 신규 PF보증 사업장 중 투자금...",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016377732?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:53:00+09:00",
-      "title": "재산 숨기고 105억 빚 감면…새출발기금 재산은닉 16명 적발",
-      "snippet": "이들 차주가 은닉한 재산은 부동산뿐 아니라 분양권·임차보증금·토지보상금 등 다양했다. 일부는 4억∼7억원대 상당의 부동산을 소유하고도 이를 숨긴 채 새출발기금을 통해 채무조정을 받았다. 캠코는 이들 16명을...",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016377731?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:52:00+09:00",
-      "title": "한윤서 상견례서 오열, 모아둔 돈 없는 예비신랑 시부 사업 실패+암투병...",
-      "snippet": "'한윤서 예비신랑 가정사에 눈물, 시부 사업 실패로 부동산 3채 날리고 화병' 코미디언 한윤서가 상견례... 집도 부동산도 3채나 날리고 현금도 다 까먹고 그렇게 되니까 준웅이가 월세도 내주고, 준웅이는 월급 받아서 한...",
-      "domain": "newsen.com",
-      "source": "newsen.com",
-      "link": "https://m.entertain.naver.com/article/609/0001178385"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:48:00+09:00",
-      "title": "벤츠 지프차에 몽클레르를 입혔다고?...대체 얼마나 더 비싸질겁니까",
-      "snippet": "부가티는 미국 자동차 수집가이자 부동산 사업가 매니 코시빈의 주문을 받아 단 한 대뿐인 ‘시론 아비예 파 에르메스’를 만들었다. 차량을 주문한 뒤 완성되기까지 수년에 걸쳐 부가티와 에르메스, 고객이 디자인을...",
-      "domain": "mk.co.kr",
-      "source": "매일경제",
-      "link": "https://n.news.naver.com/mnews/article/009/0005748791?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:46:00+09:00",
-      "title": "[광주·전남 날씨예보] 아침 최저 6도 '쌀쌀'…일교차 15도 안팎",
-      "snippet": "광주·전남 내륙에서도 순간풍속 시속 55㎞ 안팎의 강한 바람이 불 것으로 예상돼 시설물 관리와 안전사고에 주의해야 한다. 서해남부와 남해서부 일부 해상에는 풍랑특보가 발효된 가운데 14일 오후까지 바람이 시속...",
-      "domain": "thefairnews.co.kr",
-      "source": "thefairnews.co.kr",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90701"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:31:00+09:00",
-      "title": "노후 연금 수령에도 순서가 있다, 무시하면 자칫 세금 폭탄",
-      "snippet": "IRP는 노후 자금 마련의 필수품으로 꼽히지만, 갑작스럽게 병원비나 부동산 잔금 등 목돈이 필요할 때... 2013년 이전 가입자인 그가 부동산 자금으로 2억원이 필요해 해지를 고민하자, 안 과장은 “연금 수령 연차가...",
-      "domain": "chosun.com",
-      "source": "조선일보",
-      "link": "https://n.news.naver.com/mnews/article/023/0004003947?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:27:00+09:00",
-      "title": "“40억 차익 보인다”…‘디에이치 반포 124’ 만점통장 집결 예고",
-      "snippet": "신보연 세종대학교 부동산AI융합학과 교수는 “디에이치 반포 124는 준공과 동시에 국내 최고가 아파트가 될 가능성이 있다”며 “다만 금리 상승에 따른 부담으로 강남권 아파트 매수세가 눌려있는 만큼 평당...",
-      "domain": "dt.co.kr",
-      "source": "dt.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/029/0003053204?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:26:00+09:00",
-      "title": "[강원도 날씨예보] 아침 기온 2도까지 '뚝'…북부내륙 오후부터 5mm 미만...",
-      "snippet": "기상청은 \"강원내륙과 산지를 중심으로 아침 기온이 낮고 일교차가 크겠다\"며 \"건강관리와 농작물 냉해 예방에 유의하고, 동해안에서는 너울에 따른 안전사고에 주의해야 한다\"고 당부했다.",
-      "domain": "thefairnews.co.kr",
-      "source": "thefairnews.co.kr",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90696"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-10-15T05:26:00+09:00",
-      "title": "물가 압력에 흔들린 비트코인…\"통화 팽창이 장기 보유 근거\"",
-      "snippet": "미국의 물가 압력이 금리 인상 우려를 되살리면서 비트코인이 단기적으로 하락할 수 있다는 진단이 나왔다. 다만 정부의 재정 부담과 통화 팽창 가능성은 오히려 비트코인의 장기 투자 논리를 강화한다는 분석이다. 10월...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/422545"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:20:00+09:00",
-      "title": "[언주로 칼럼] 민주당 재집권 전략보고서",
-      "snippet": "임성엽 부동산부 차장 지난해 6월 대선 직후 시장 전문가들의 경고는 직관적이었다. “금융 규제를 옥죄기... 손만 대면 악화하는 부동산 정책은 우연한 실정이 아니다. 계산된 각본에 가깝다. ‘민주당 재집권...",
-      "domain": "dnews.co.kr",
-      "source": "dnews.co.kr",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141436250530563"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-10-15T05:20:00+09:00",
-      "title": "기관 1억불 꽂혔는데 제자리…리플 '1.30달러 방어' 살얼음",
-      "snippet": "오전 한때 24시간 기준 1.04% 오른 1.37달러까지 상승하며 비트코인 반등 흐름에 동조했으나, 오후 들어 매도세가 유입되며 상승분을 대부분 반납했다. 공포·탐욕 지수가 54로 중립 수준을 가리킨 가운데 단기 시세가 1....",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202610150346447209e7e8286d56_1"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:18:00+09:00",
-      "title": "“원룸은 빠지고 아파트형은 뛰고”…오피스텔 시장 분화",
-      "snippet": "14일 KB부동산에 따르면 전용면적 30㎡ 이하 초소형 오피스텔은 지난해 9월 1억9016만원에서 올해... 지난 9월 기준 KB부동산 통계상 초소형 오피스텔의 임대수익률은 5.64%로 집계됐다. 대형이 기록한 2.78%의 두 배...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388158?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:16:00+09:00",
-      "title": "[사설] 새 비서실장 임광현… 민심 부응하는 靑으로 심기일전해야",
-      "snippet": "이 대통령 본인 사건의 공소 취소 추진 논란과 여당 내분, 부동산 정책 실패, 한미동맹 이상기류 등의 난맥상이 복합적으로 작용한 결과다. 청와대가 지금 해야 할 일은 기존의 국정 기조를 전환해 민심을 회복하는 것이다....",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003689119?sid=110"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:15:00+09:00",
-      "title": "\"규제해도 집값 상승 압력 여전\"…10·15 대책 규제 1년, 남은 변수는?",
-      "snippet": "지난해 10·15 부동산 대책으로 서울 전역과 경기 주요 지역을 규제지역·토지거래허가구역으로 묶고 대출... 10·15 부동산 대책 시행 1년을 맞았지만 서울 집값의 상승 압력은 좀처럼 꺾이지 않고 있다. 대출·거래 규제로...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005426518?sid=101"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-10-15T05:10:00+09:00",
-      "title": "메타플래닛, 520억 엔 전환사채로 비트코인 담보대출 갚고 자사주 매입...",
-      "snippet": "마이클 세일러(Michael Saylor)가 이끄는 비트코인 재무 기업 스트래티지(Strategy)의 달러 현금(USD Cash)이 7주 만에 60% 줄었다. 프로토스(Protos)에 따르면 8월 30일 16억 1,000만 달러였던 잔액은 10월 11일 6억 4,050만 달러로...",
-      "domain": "wikitree.co.kr",
-      "source": "wikitree.co.kr",
-      "link": "https://www.wikitree.co.kr/articles/1166300"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:09:00+09:00",
-      "title": "대출 조이니 현금부자만 유리…“상환능력 따라 규제해야”",
-      "snippet": "10·15 부동산 대책 시행 1년을 맞아 부동산 전문가들은 대출규제가 실수요자의 내 집 마련까지 제약하는 부작용을 낳았다고 지적했다. 주택가격에 따라 대출한도를 일률적으로 제한하기보다 소득과 상환능력을 중심으로...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388155?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:09:00+09:00",
-      "title": "\"토허제, 집값 못 잡고 거래 위축\"…'손질' 공감 속 해법 다양",
-      "snippet": "부동산 전문가들은 지난 1년간 토지거래허가구역의 집값 안정 효과는 제한적인 반면 거래 위축과 전월세... 서울 마포구 주택가의 모습(사진=노진환 기자) 14일 이데일리가 부동산 전문가 30명을 대상으로 실시한...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388156?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:09:00+09:00",
-      "title": "10·15 대책 1년 성적표 ‘50.4점’…전문가 90% “규제 풀어야”",
-      "snippet": "정부가 집값을 잡겠다며 대출 문턱을 높이고 아파트 거래 규제를 강화한 지 1년, 부동산 전문가 30명이 현 정부의 부동산 정책에 매긴 성적표다. 투기 수요를 억제하는 데는 일부 성과를 거뒀지만 정작 집값 안정 효과는...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388154?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:08:00+09:00",
-      "title": "투기수요는 잡았지만 집값·전셋값 못 잡아…10·15 ‘반쪽 성과’",
-      "snippet": "부동산 전문가 10명 중 7명 이상이 토지거래허가제(토허제)의 최대 부작용으로 전월세 매물 감소 등... 14일 이데일리가 ‘10·15 주택시장 안정화 방안’(10·15 대책) 시행 1년을 맞아 부동산 연구기관과 학계, 시장 전문가...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388153?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:06:00+09:00",
-      "title": "서울 아파트 분양가 1년간 900만원 올라, ‘국평’ 청약 부담… 60㎡ 이...",
-      "snippet": "14일 함영진 우리은행 부동산리서치랩장이 한국부동산원 청약홈 데이터를 토대로 지난해와 올해 1~9월 수도권 아파트의 면적 유형별 3.3㎡(1평)당 분양가와 청약 접수 현황을 분석한 결과 수도권 전체 평균...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003689108?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:04:00+09:00",
-      "title": "백성현 논산시장, 강경젓갈축제 개막 앞두고 현장 총점검… \"안전이 축...",
-      "snippet": "행사장 시설과 운영 전반을 점검하고, 확인된 보완사항을 조치해 안전사고 예방과 현장 대응 역량을 강화할 계획이다. 안전관리와 함께 축제 콘텐츠도 풍성하게 마련됐다. 올해로 30주년을 맞은 강경젓갈축제는 10월...",
-      "domain": "tournews21.com",
-      "source": "tournews21.com",
-      "link": "https://www.tournews21.com/news/articleView.html?idxno=145749"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:03:00+09:00",
-      "title": "사돈·피부과 의사·후원자… 친트럼프 대사들 ‘사고’만 쳤다",
-      "snippet": "트럼프 사위 재러드 쿠슈너의 부친으로 유대계 부동산 재벌인 찰스 쿠슈너 프랑스 대사는 트럼프 2기 행정부 출범 후인 2025년 부임 직후 에마뉘엘 마크롱 프랑스 대통령에게 “반유대주의에 제대로 대응하라”는 공개...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003689041?sid=104"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:02:00+09:00",
-      "title": "靑·국회·국세청 경험한 ‘세무통’…체납왕 3938억 납부 이끌어내",
-      "snippet": "특히 반사회적 부동산 탈세 행위, 자본시장 질서를 훼손하는 변칙적 탈세 행위, 고가주택·슈퍼카 등 법인 자산을 사적으로 향유하는 탈루 행위 대응에 힘을 쏟았다. 최근에는 ‘선박왕’으로 불린 권혁 시도상선 회장의...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003689029?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:02:00+09:00",
-      "title": "[단독] ‘공무원 특공’ 부활 만지작… 1만명 세종행 당근책 될까",
-      "snippet": "행복청 관계자는 “단계적으로 이전할 예정이고 매년 3000~4000가구가 공급된다”며 “공무원 형평성 문제와 부동산 시장에 미칠 영향, 국회세종의사당 이전 인력 8000명에 대한 적용 기준을 비롯해 아직 풀어야 할 과제가...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003689033?sid=101"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:02:00+09:00",
-      "title": "아침에 쌀쌀, 일부 내륙 서리…일교차 15도 안팎",
-      "snippet": "오전까지 동해안에는 높은 물결이 밀려와 갯바위나 방파제를 넘을 수 있어 안전사고에 유의해야 합니다. 오늘 전국적으로 대체로 맑겠으나, 수도권과 강원도는 오전부터, 제주도는 오후부터 구름이 많아지겠고, 경기와...",
-      "domain": "kbs.co.kr",
-      "source": "KBS",
-      "link": "https://n.news.naver.com/mnews/article/056/0012274019?sid=102"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:02:00+09:00",
-      "title": "장재환 칠곡군의회 의원, 왜관 2번 도로 종합정비계획 마련 요구",
-      "snippet": "차선 구분도 명확하지 않아 양방향 차량이 무질서하게 맞닿으면서 운전자 간 마찰과 보행자 안전사고 위험이 이어지는 상황이다. 환경 개선 방안으로 장 의원은 \"거리의 환경이 바뀌어야 손님이 찾아오고, 상권이 살아야...",
-      "domain": "m-i.kr",
-      "source": "m-i.kr",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=2006050"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:01:00+09:00",
-      "title": "'관리형'에서 '실무형' 靑 비서실장…임광현 인선 배경은",
-      "snippet": "국민의힘 장동혁 대표는 \"대통령 하명 세무조사에 누구보다 열심이었고, '장특공' 폐지 등 부동산 세금 폭탄에도 앞장섰다. 청년들이 반대하는 가상자산 과세도 밀어붙여 왔다\"고 인사 발표 날부터 공세에 나섰다. 임...",
-      "domain": "nocutnews.co.kr",
-      "source": "nocutnews.co.kr",
-      "link": "https://n.news.naver.com/mnews/article/079/0004198937?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "“기숙사 떨어지면 월 70만원”⋯치솟는 월세에 대학생들 한숨 [캠퍼스...",
-      "snippet": "부동산 플랫폼 다방에 따르면 올해 7월 서울 주요 10개 대학 인근 원룸(전용면적 33㎡ 이하)의 평균 월세는... 김준형 명지대 부동산학과 교수는 “최근 다세대주택이나 빌라, 연립주택, 오피스텔 등의 착공이 부진하면서...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2635207"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "\"여보, 집 빼래\" 전세 없어 월세살이…\"주거비 1억 껑충\" 세입자 눈물",
-      "snippet": "지난해 10·15 부동산 대책으로 서울 전역과 경기 주요 지역을 규제지역·토지거래허가구역으로 묶고 대출... 14일 서울부동산정보광장에 따르면 올해 1~9월 서울 아파트 전세거래건수는 9336건, 월세거래건수는...",
-      "domain": "mt.co.kr",
-      "source": "머니투데이",
-      "link": "https://n.news.naver.com/mnews/article/008/0005426513?sid=101"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "[단독] “범죄인가요?” 제 발로 온 피싱 수거책 돌려보낸 경찰",
-      "snippet": "회사 부동산 자금을 송금하려 한다”고 하자 직원이 경찰에 보이스피싱 의심 신고를 했다. 강씨는 서울 송파경찰서에 입건됐다. 피해자 20여명 발생…법원서 징역 3년 확정 5일간 20명이 넘는 사람에게서 14억원 상당의...",
-      "domain": "joongang.co.kr",
-      "source": "중앙일보",
-      "link": "https://n.news.naver.com/mnews/article/025/0003558022?sid=102"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "서울시·서울경찰청 등 국감…명태균 여론조사·부동산 정책·검찰 폐지...",
-      "snippet": "정부 부동산 정책 등을 놓고 공방을 벌일 전망이다. 더불어민주당은 오 시장의 정치자금법 위반 혐의와 서울시의 주택 공급 실적 등을 문제 삼을 것으로 보인다. 반면 국민의힘은 이재명 정부의 부동산 정책에 대한 집중...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014254359?sid=100"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "부지도 돈도 없는 대학들⋯기숙사 확충 해법은 [캠퍼스 밖으로 밀려난 ...",
-      "snippet": "김준형 명지대 부동산학과 교수는 “특정 대학 인근에서 임대사업자들의 반발이 크다면 상대적으로 갈등이... 권대중 한성대 경제부동산학과 석좌교수 역시 “가용부지나 재정이 부족한 대학은 정부가 재정을 지원하거나...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2635126"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "[오늘의 날씨] 부산·경남(15일, 목)…아침 쌀쌀, 내륙 일교차 15도 내외",
-      "snippet": "아침은 쌀쌀하고 낮에는 기온이 오르며 일교차가 매우 크겠다\"며 \"급격한 기온 변화로 인한 호흡기 질환 예방에 신경 쓰고, 해상에서 조업하는 선박은 최신 기상정보를 참고해 안전사고에 대비해 달라\"고 당부했다.",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009228619?sid=102"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "출근길 최저 3도 ‘쌀쌀’⋯오후부터 경기북부ㆍ강원에 비 [날씨]",
-      "snippet": "시설물 관리와 안전사고에 주의가 필요하겠다. 오후부터 서해 중부 먼바다에서는 바람이 30~55㎞/h로 강하게 불고 물결이 1.5~3.5m로 높게 일겠다. 서해 중부 해상에는 돌풍과 함께 천둥ㆍ번개가 치는 곳도 있겠다.",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2635858"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "[오늘의 날씨] 울산(15일, 목)…아침 10도 ‘쌀쌀’, 해안 높은 물결",
-      "snippet": "울산 앞바다의 물결은 0.5~1m 높이로 일 것으로 보인다. 기상청 관계자는 \"오전까지 너울에 의한 높은 물결이 밀려오니, 해안가 접근을 자제하는 등 안전사고에 유의하기 바란다\"고 당부했다.",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009228618?sid=102"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-10-15T05:00:00+09:00",
-      "title": "미신고 영업 문턱 높아진 한국⋯글로벌 코인기업, 정식 진출 박차",
-      "snippet": "이투데이=박정호 기자 | KBW 기간 기관 명시 행사 증가…국내 금융사와 교류 확대 비트고·문페이 법인 설립·신고 추진…OKX는 코인원 투자 이달 기술 협력 잇따라 공개…결제·수탁·토큰화 사업 준비 미신고 가상자산...",
-      "domain": "etoday.co.kr",
-      "source": "etoday.co.kr",
-      "link": "https://www.etoday.co.kr/news/view/2635661"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T04:28:00+09:00",
-      "title": "[오늘의 날씨] 아침 10도 이하 쌀쌀·일교차 15도 안팎…수도권·강원 비...",
-      "snippet": "관리와 안전사고에 유의해야 할 것으로 나타났다. 또한 오늘 오후 12시~18시부터 밤 18시~24시 사이 그 밖의 수도권과 강원도(동해안 제외)에는 0.1mm 미만의 약한 빗방울이 떨어지는 곳이 있겠고, 내일 새벽 00시~06시...",
-      "domain": "topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16247396"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-10-15T04:02:00+09:00",
-      "title": "솔라나(SOL), 85배 빨라진다...10월 21일 업그레이드로 반등할까?",
-      "snippet": "암호화폐 시장 전반의 심리와 유동성, 비트코인(Bitcoin, BTC)의 방향, 실제 채택이 토큰 성과에 계속 영향을 줄 것이다. [기사 핵심 요약] -앤자는 알펜글로가 10월 21일 메인넷 베타에 적용된다고 확인했고 거래 확정...",
-      "domain": "coinreaders.com",
-      "source": "coinreaders.com",
-      "link": "http://coinreaders.com/263231"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T04:01:00+09:00",
-      "title": "맑은 대구·경북 15도 안팎 일교차…아침 3도·한낮 24도",
-      "snippet": "물결은 동해 남부·중부 앞바다 1~2m, 먼바다에 1~3m로 일겠다. 대구기상청 관계자는 \"경북동해안에에 바람이 순간풍속 15㎧ 안팎으로 강하게 부는 곳이 있겠으니, 시설물 관리와 안전사고에 유의하기 바란다\"고 말했다.",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014254338?sid=102"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T03:57:00+09:00",
-      "title": "허사비스 “안전조치 미흡하면 2년 내 대형 AI 보안 사고”",
-      "snippet": "이른바 '불량 인공지능(AI) 에이전트'가 저지른 보안 사고가 잇따르면서 안전 조치가 제대로 취해지지 않으면 2년 안에 훨씬 중대한 보안 사고가 발생할 수 있다는 경고가 나왔습니다. AFP·로이터 통신은 데미스 허사비스...",
-      "domain": "kbs.co.kr",
-      "source": "KBS",
-      "link": "https://n.news.naver.com/mnews/article/056/0012274014?sid=104"
-    },
-    {
-      "category": "bitcoin",
-      "pubDate": "2026-10-15T03:26:00+09:00",
-      "title": "\"비트코인 4년 주기 끝났다\"…시장 구조 변화로 슈퍼사이클 진입 전망",
-      "snippet": "비트코인이 기존 반감기 중심의 상승장을 넘어 세대를 아우르는 장기 슈퍼사이클에 진입했다는 전망이 제기됐다. 암호화폐가 주류 금융 체계에 편입되면서 시장 구조 자체가 바뀌고 있다는 분석이다. 10월 14일(현지시간)...",
-      "domain": "tokenpost.kr",
-      "source": "토큰포스트",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/422543"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:25:00+09:00",
-      "title": "美연준 베이지북 \"물가 상승 가속\"…소비 정체·AI발 고용 위축",
-      "snippet": "미국 경제가 완만한 성장세를 이어가는 가운데 물가 상승 압력이 다시 커지고 있는 것으로 나타났다.... 9곳에서 경제활동이 증가했고 3곳에서는 큰 변화가 없었다. 성장 지역 중 2곳은 중간 수준의 성장세를, 3곳은 완만한...",
-      "domain": "edaily.co.kr",
-      "source": "이데일리",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388140?sid=101"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:23:00+09:00",
-      "title": "트럼프 \"韓 500억·대만 800억·日 210억불 투자·구매 약속\"(종합)",
-      "snippet": "중간선거가 20일 앞으로 다가온 가운데 자신이 밀어붙인 관세 등 무역·경제 정책의 성과를 홍보하기 위해... 국가·경제 안보를 강화하기 위한 내 역사적인 무역 합의의 결과물\"이라고 강조했다. 또 \"우리는 일본, 한국...",
-      "domain": "yna.co.kr",
-      "source": "연합뉴스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016377711?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:18:00+09:00",
-      "title": "미국 물가에 발목 잡힌 비트코인…8만 2천 달러 밑으로",
-      "snippet": "거시경제 불확실성이 해소되면 다시 8만 5천 달러(약 1억 1,422만 원)를 회복하고 9만 달러(약 1억 2,094만 원)... 거시경제 변수가 여전히 큰 영향을 미친다는 점을 확인시켰다. 향후 관전 포인트는 비트코인 가격이...",
-      "domain": "khgames.co.kr",
-      "source": "khgames.co.kr",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=309314"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T03:16:00+09:00",
-      "title": "美 재무부가 푼 91조 원이 은행 곳간 채웠다…달러 유동성 가뭄 속 단기...",
-      "snippet": "반면 부동산 담보 대출 채권인 주택저당증권 보유액은 1조 8980억 8900만 달러(약 2549조 1335억 원)로 1년 사이 1878억 9400만 달러(약 252조 3416억 원) 줄었다. 시중 잉여 자금을 흡수해 금리를 안정시키는...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202610141846077051fbbec65dfb_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:13:00+09:00",
-      "title": "트럼프 \"알래스카 LNG에 한국 67조·대만 6조 투자…내 합의 덕\"(종합)",
-      "snippet": "및 경제 안보를 강화하기 위한 나의 역사적인 무역 협정의 결과\"라고 자평했다. 그러면서 \"우리는 일본, 한국, 대만으로부터의 투자 약속을 거대한 건설 프로젝트로 전환하고 있다\"고 덧붙였다. 트럼프 대통령의 발표는...",
-      "domain": "news1.kr",
-      "source": "뉴스1",
-      "link": "https://n.news.naver.com/mnews/article/421/0009228602?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:06:00+09:00",
-      "title": "[역경의 열매] 탁지일·지원·지웅 (5) 의사도 목사도 아닌 신흥종교 연...",
-      "snippet": "결혼한 가장인데 경제적 여유가 없던 것도 신학 공부를 포기한 한 원인이었다. 아버지는 66년 ‘한국복음신보사’ 기자로 사회생활의 첫발을 내디뎠다. 당시 아버지는 통일교 위장단체 ‘기독교 초교파 운동본부’를...",
-      "domain": "kmib.co.kr",
-      "source": "국민일보",
-      "link": "https://n.news.naver.com/mnews/article/005/0001878796?sid=103"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:06:00+09:00",
-      "title": "[오늘의 설교] 바람이 분다 살아야겠다",
-      "snippet": "그러나 믿음과 성령의 도우심으로 대한민국은 경제 대국이자 문화 강국이 되었습니다. 삶의 자리를 바꾸는 것은 성령 충만한 믿음의 바람입니다. 가을의 하늬바람보다 우리의 삶을 더 살맛 나게 하는 것은 사랑의...",
-      "domain": "kmib.co.kr",
-      "source": "국민일보",
-      "link": "https://n.news.naver.com/mnews/article/005/0001878798?sid=103"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:06:00+09:00",
-      "title": "지수 안정 뒤에 숨은 미국 소형주 5.57% 폭락…국채금리 24년 만의 최고...",
-      "snippet": "9월 총수요 충격 마이너스 반전과 자금 정체 롱본은 10월 10일 게재한 분석에서 미국 경제의 유동성 흐름이 9월을 기점으로 일시 둔화했다고 설명했다. 2026회계연도 미국 연방 재정적자는 1조 9930억 달러(약 2676조...",
-      "domain": "g-enews.com",
-      "source": "g-enews.com",
-      "link": "https://www.g-enews.com/view.php?ud=202610141842584316fbbec65dfb_1"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:04:00+09:00",
-      "title": "LIG D&A, '비궁' 현지화로 美 방산시장 공략 가속…파이어호크와 맞손",
-      "snippet": "보다 경제적인 선택지를 제공할 수 있게 될 것\"이라고 말했다. 이어 \"임무 요구사항에 걸맞게 무기체계를 준비하는 것이 우리의 의무\"라며 \"이러한 역량을 진전시켜 군에 전달하도록 최선을 다하겠다\"고 덧붙였다.",
-      "domain": "apnews.kr",
-      "source": "apnews.kr",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052086"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:04:00+09:00",
-      "title": "[사설] 인천 공공분양 ‘바가지 논란’…원가 공개가 답이다",
-      "snippet": "경제정의실천연합(경실련)이 최근 2024~2026년 인천계양 4개 블록 공공분양 아파트 2천78호의 분양가격과 분양원가 분석 자료를 내놓았다. LH는 공급면적 25평형 아파트 1채당 4억6천만원에 분양했다. 분양가는 건축비...",
-      "domain": "kyeonggi.com",
-      "source": "kyeonggi.com",
-      "link": "https://n.news.naver.com/mnews/article/666/0000127508?sid=110"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:02:00+09:00",
-      "title": "트럼프 \"日 자본 210억 달러로 뉴욕 반도체 공장 2곳 투자\"",
-      "snippet": "트럼프 대통령은 \"내 지시에 따라 일본이 210억 달러 투자의 자본을 제공한다\"며 \"이 거래는 미국 산업 기반을 되살리고 수십만 개의 훌륭한 일자리를 만들며 국가·경제 안보를 강화하기 위한 역사적인 무역 합의의...",
-      "domain": "newspim.com",
-      "source": "newspim.com",
-      "link": "https://www.newspim.com/news/view/20261015000020"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T03:02:00+09:00",
-      "title": "세일러 \"AI 열풍이 비트코인(BTC) 역풍이었다\"...순풍 전환 선언",
-      "snippet": "그는 팜비치 부동산이나 금, 비트코인이라는 디지털 금, 트로피 자산을 예로 들며 지금 상품의 왕은 비트코인이라고 말했다. 비트코인이 디지털 자본이기 때문이다. 진행자들이 그렇다면 왜 아직 비트코인에서는...",
-      "domain": "coinreaders.com",
-      "source": "coinreaders.com",
-      "link": "http://coinreaders.com/263227"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T03:00:00+09:00",
-      "title": "트럼프 \"日, 뉴욕주 반도체 공장 건설에 210억달러 투자\"",
-      "snippet": "그는 \"나의 지시에 따라, 일본이 210억달러 투자의 자본을 제공할 것이다\"면서 \"이번 합의는 미국 산업기반을 되살리고 위대한 미국일자리 수십만개를 창출하며 우리 국가 및 경제안보를 강화하기 위한 내 역사적...",
-      "domain": "newsis.com",
-      "source": "뉴시스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014254335?sid=104"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T03:00:00+09:00",
-      "title": "[오늘 날씨] 대체로 맑고 일교차 커…아침 최저 3~13도 '쌀쌀'",
-      "snippet": "해안가 접근을 자제하는 등 안전사고에 각별히 유의해야 한다. 주요 도시 예상 아침 최저기온은 서울 10도, 인천 11도, 춘천 6도, 강릉 12도, 대전 8도, 대구 9도, 전주 9도, 광주 10도, 부산 13도, 제주 16도 등이다. 낮...",
-      "domain": "youthdaily.co.kr",
-      "source": "youthdaily.co.kr",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=228364"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T03:00:00+09:00",
-      "title": "오늘 날씨, 아침 최저기온 3~13도…경기북부·강원북부내륙 곳곳 비",
-      "snippet": "특히 강원산지에서는 순간풍속이 시속 70km 안팎에 달할 수 있어 시설물 관리와 안전사고에 유의해야 한다. 풍랑특보가 발효된 동해중부먼바다와 동해남부북쪽먼바다, 동해남부남쪽바깥먼바다는 15일(목) 오전 6시까지...",
-      "domain": "topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16247369"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:55:00+09:00",
-      "title": "하원 접은 美 공화당, 상원 사수에 올인…\"탄핵 막을 방화벽\"",
-      "snippet": "랫첨 사무총장은 상원 선거 환경이 나빠진 배경으로 아이오와와 노스캐롤라이나, 몬태나 현역 의원들의 은퇴, 사우스캐롤라이나 린지 그레이엄 의원의 갑작스러운 사망, 이란 전쟁에 따른 경제 역풍을 들었다....",
-      "domain": "newspim.com",
-      "source": "newspim.com",
-      "link": "https://www.newspim.com/news/view/20261015000016"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:54:00+09:00",
-      "title": "“정장 구두가 민폐?”…공무원 면접 복장 혁신의 역설 [강 기자의 세종...",
-      "snippet": "경제적 부담도 마찬가지입니다. 정장을 입지 않는다고 옷값이 줄어드는 것은 아니라는 겁니다. 정장 대신 브랜드 재킷이나 고가의 평상복을 준비해야 한다고 생각한다면 부담은 오히려 커질 수 있습니다. 복장의 종류만...",
-      "domain": "seoul.co.kr",
-      "source": "서울신문",
-      "link": "https://n.news.naver.com/mnews/article/081/0003689021?sid=102"
-    },
-    {
-      "category": "realestate",
-      "pubDate": "2026-10-15T02:54:00+09:00",
-      "title": "첫 주택 구매자들 “집값 내리면 산다”",
-      "snippet": "부동산 정보업체 리얼터닷컴에 따르면 지난 9월 전국의 중간 집값은 전년 동월 대비 1.4% 하락하며 11개월 연속... 세인트루이스의 부동산 에이전트이자 투자자인 벤 마이즈는 최근 첫 주택 구매자들이 예산 관리에 더욱...",
-      "domain": "koreadaily.com",
-      "source": "koreadaily.com",
-      "link": "https://www.koreadaily.com/article/20261014105405841"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:52:00+09:00",
-      "title": "고물가에 생활비도 카드로…미국인 절반 이상 기본지출 빚낸다",
-      "snippet": "조앤 쉬 미시간대 소비자조사 책임자는 “생활비에 대한 불만이 계속 커지고 있다”며 “정치적 성향과 관계없이 소비자들은 올해 초보다 경제 흐름이 악화됐다고 느끼고 있다”고 밝혔다.",
-      "domain": "koreadaily.com",
-      "source": "koreadaily.com",
-      "link": "https://www.koreadaily.com/article/20261014105205881"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:48:00+09:00",
-      "title": "유엔 “예멘 내전 격화로 주민 80만 명에 대한 인도적 지원 중단”",
-      "snippet": "타이즈주는 예멘 정부 소재지이자 경제 중심지인 항구 도시 아덴과 수도 사나, 홍해 연안의 서부 지역을 연결하는 교통 요충지입니다. 예멘에서 세 번째로 큰 도시인 타이즈는 정부군과 후티 반군 간 격렬한 전투의...",
-      "domain": "voakorea.com",
-      "source": "voakorea.com",
-      "link": "https://www.voakorea.com/a/un-yemen-101426/8211249.html"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:46:00+09:00",
-      "title": "[패트롤] 고양시의회-남양주시의회-의정부시의회-하남시의회",
-      "snippet": "고양=에너지경제신문 강근주기자 김미수 고양특례시의회 의장이 14일 파주시의회에서 열린 경기도북부시... 고양=에너지경제신문 강근주기자 오영숙 고양특례시의회 의원 제308회 제1차 정례회 본회의에서 시정질문을...",
-      "domain": "ekn.kr",
-      "source": "ekn.kr",
-      "link": "https://www.ekn.kr/web/view.php?key=20261015027216362"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:30:00+09:00",
-      "title": "나주시 \"3대 성장축 발판 삼아 나주 대도약 이룰 것\"",
-      "snippet": "민생 경제 회복을 위해 전 시민에게 20만원의 긴급 민생회복지원금을 지급해 골목상권에 온기를 불어넣었다. 대학병원 부설 어린이 종합병원 유치, 에너지영재학교 설립, 청년 100일 책임 보장제 등 세대별 맞춤형...",
-      "domain": "jnilbo.com",
-      "source": "jnilbo.com",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000073217"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T02:30:00+09:00",
-      "title": "황정아 의원, 유성을 지역 교육부 특별교부금 51억 8,100만원 확보",
-      "snippet": "학생 안전사고가 우려되는 상황이었는데, 특히 천장이 높은 체육관 특성상 상부 시설과 마감재 관리에도 어려움이 있어 전면 보수가 절실했다. 대전교육과학연구원은 노후 보도블록이 변형·이탈해 이용객이...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=723056"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:29:00+09:00",
-      "title": "마음 급한 트럼프 \"그린란드 석유 탐사\" 일방적 발표 vs 그린란드는 반...",
-      "snippet": "하지만 CNN은 협정문에 석유나 가스에 대한 명시적 언급은 없고 구체적인 내용 없이 \"광물과 경제 개발과 사업 추진에서 협력한다\"는 내용만 포함됐다고 보도했습니다. 화면제공 : 트럼프 대통령 트루스 소셜",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002418869?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:27:00+09:00",
-      "title": "트럼프 “韓, 알래스카 LNG에 500억달러 투자” 거듭 주장",
-      "snippet": "대만 경제부는 국영 에너지기업 대만중유(CPC)가 미국 사업 개발사와 약 1년 6개월간 협상한 결과 상당한 진전을 이뤘다고 발표했다. 대만 경제부에 따르면 CPC는 알래스카 LNG 사업이 가동되면 연간 600만t의 LNG를...",
-      "domain": "biz.chosun.com",
-      "source": "조선비즈",
-      "link": "https://n.news.naver.com/mnews/article/366/0001198017?sid=104"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:27:00+09:00",
-      "title": "트럼프 \"한국·일본·타이완 투자 약속을 큰 건설 사업으로 전환\"",
-      "snippet": "것\"이고 \"국가와 경제 안보를 강화하기 위한 역사적인 무역 협정의 결과\"라고 역설했습니다. 트럼프 대통령은... 그러면서 자신을 '세계에서 가장 위대한 경제를 이끄는 여러분의 위대한 비즈니스맨 대통령'이라고...",
-      "domain": "ytn.co.kr",
-      "source": "YTN",
-      "link": "https://n.news.naver.com/mnews/article/052/0002418865?sid=104"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T02:26:00+09:00",
-      "title": "박정현 의원, 대덕구 2027년 1차 교육부 지역현안 특별교부금 12억 8,100만...",
-      "snippet": "학생들의 안전사고 우려와 이용 불편이 꾸준히 제기되어 온 상황이었다. 특히 최근 미세먼지와 폭염, 집중호우 등으로 야외 체육활동이 제한되는 날이 늘어나면서 학교 체육관은 학생들의 기초체력과 건강을 지키는...",
-      "domain": "newstnt.com",
-      "source": "newstnt.com",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=723055"
-    },
-    {
-      "category": "safety",
-      "pubDate": "2026-10-15T02:26:00+09:00",
-      "title": "포스코 장인화, 세계철강협회 총회 22년 만에 韓 개최 이끌었다",
-      "snippet": "수상 기술인 '자체 개발 비전 AI 활용 안전사고 예방 기술'은 철강 생산현장의 영상 데이터를 인공지능으로 분석해 위험 상황을 자동으로 감지하고 작업자에게 즉시 알리는 시스템이다. 사고 발생 이후의 대응에 그치지...",
-      "domain": "apnews.kr",
-      "source": "apnews.kr",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052081"
-    },
-    {
-      "category": "economy",
-      "pubDate": "2026-10-15T02:23:00+09:00",
-      "title": "‘문무’ 고영빈·임호·김병기·정의갑·김우담·이달, 백제 운명을 함...",
-      "snippet": "백제의 원로 고위 귀족인 사택지적(김병기 분)은 정치, 경제적 권력의 중심에 있었던 인물로서 의자왕이 초기 왕권을 잡을 수 있도록 이끈 중역이다. 또한 의자왕을 위해 쓴소리도 기꺼이 하는 큰 어른의 역할을 하며 그의...",
-      "domain": "sports.khan.co.kr",
-      "source": "sports.khan.co.kr",
-      "link": "https://m.entertain.naver.com/article/144/0001144152"
     }
   ]
 }
